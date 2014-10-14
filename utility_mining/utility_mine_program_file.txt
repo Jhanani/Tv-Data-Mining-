@@ -1,0 +1,3573 @@
+0,1 vs. 100_GSN_Friday_40
+1,1 vs. 100_GSN_Saturday_42
+2,100 Percent Real Hunting_SPMNHD_Saturday_43
+3,100 Percent Real Hunting_SPRTMAN_Saturday_43
+4,101 Weapons that Changed the World_MILH_Sunday_44
+5,12 O'Clock Boys_SHOCSE_Sunday_42
+6,12 O'Clock Boys_SHOW_Tuesday_41
+7,13 Going on 30_FXX_Monday_40
+8,1999 Original Breeders' Cup_HRTV_Monday_40
+9,2 Broke Girls_CBS_Monday_40
+10,2 Guns_MAX_Saturday_42
+11,20 Animals That Will Kill You_NGC_Wednesday_42
+12,20/20_ABC_Friday_44
+13,2014 Eastern Conference Draft Review_NBATV_Friday_44
+14,2014 NBA Draft_ESPN_Thursday_40
+15,2014 NBA Draft_NBATV_Saturday_43
+16,2014 NHL Awards Recap_NHLNET_Tuesday_42
+17,2014 NHL Awards Show_NBCSN_Tuesday_40
+18,2014 NHL Entry Draft_NBCSN_Friday_40
+19,2014 NHL Scouting Combine Recap_NHLNET_Thursday_40
+20,2014 New York Yankees Old-Timers' Day_YES_Thursday_40
+21,2014 Stanley Cup Final_NHLNET_Wednesday_40
+22,2014 Tour de France Preview_NBCSN_Saturday_43
+23,2014 Tour de France Preview_NBCSN_Tuesday_42
+24,2014 Western Conference Draft Review_NBATV_Friday_40
+25,227_ENCORE_Monday_41
+26,227_ENCORE_Thursday_41
+27,24: Live Another Day_FOX_Monday_42
+28,25th Hour_STARZ_Thursday_42
+29,28 Days Later_ENCORE_Sunday_44
+30,28 Days Later_ENCORE_Wednesday_42
+31,30 Rock_CW_Friday_45
+32,30 Rock_CW_Monday_45
+33,30 Rock_CW_Thursday_45
+34,30 Rock_CW_Tuesday_45
+35,30 Rock_CW_Wednesday_45
+36,42_MAX_Sunday_44
+37,48 Hours on ID: Left for Dead_ID_Sunday_42
+38,48 Hours: Hard Evidence_DFH_Saturday_40
+39,48 Hours_CBS_Saturday_42
+40,54_SHOW_Wednesday_40
+41,747: The Jumbo Revolution_SMTHHD_Monday_42
+42,747: The Jumbo Revolution_SMTHHD_Saturday_40
+43,8: The Mormon Proposition_PIVOT_Sunday_42
+44,A Cadaver Christmas_TMC_Saturday_42
+45,A Case of You_SHOCSE_Saturday_40
+46,A Crush on You_HMC_Friday_40
+47,A Day That Changed the Game_NHLNET_Friday_40
+48,A Day That Changed the Game_NHLNET_Tuesday_40
+49,A Fine Pair_TCM_Thursday_40
+50,A Fistful of Dollars_ENCORE_Monday_40
+51,A Fistful of Dollars_ENCORE_Thursday_42
+52,A Football Life_NFLNET_Monday_42
+53,A Football Life_NFLNET_Saturday_42
+54,A Football Life_NFLNET_Thursday_42
+55,A Football Life_NFLNET_Tuesday_42
+56,A Good Day to Die Hard_MAXLAT_Thursday_42
+57,A Good Day to Die Hard_MAX_Friday_40
+58,A Good Day to Die Hard_MAX_Thursday_42
+59,A Good Day to Die Hard_MAX_Tuesday_44
+60,A Haunting At Silver Falls_LMN_Sunday_44
+61,A Kid for Two Farthings_TCM_Sunday_40
+62,A Kid in King Arthur's Court_SHOW_Tuesday_42
+63,A Knight's Tale_ENCORE_Saturday_40
+64,A Knight's Tale_STARZ_Thursday_44
+65,A Leap of Faith: A Meredith Vieira Special_NBC_Friday_40
+66,A Lot Like Love_STARZ_Monday_40
+67,A Place at the Table_PIVOT_Saturday_40
+68,A Ring by Spring_HALL_Saturday_40
+69,A Touch of Gold_JTV_Wednesday_44
+70,A-List Vacations_E_Thursday_40
+71,ACM Awards 2014_GAC_Saturday_42
+72,ACM Red Carpet Live_GAC_Saturday_40
+73,AFL Premiership Football_Fox Sports_Monday_40
+74,AFL Premiership Football_Fox Sports_Sunday_44
+75,AXS TV Fights_AXSTV_Friday_44
+76,Aachen_HRTV_Thursday_42
+77,Abby's Studio Rescue_LIFE_Friday_44
+78,Abby's Studio Rescue_LIFE_Tuesday_42
+79,About Cherry_SHOW_Monday_43
+80,About a Boy_HBO_Thursday_40
+81,Abraham Lincoln: Vampire Hunter_MAX_Sunday_44
+82,Abraham Lincoln: Vampire Hunter_MAX_Tuesday_44
+83,Across the Board_HRTV_Thursday_41
+84,Across the Board_HRTV_Wednesday_40
+85,Acumuladores_DFAM_Wednesday_42
+86,Admission_HBO_Friday_40
+87,Aerial America_SMTHHD_Friday_40
+88,Aerosmith: Rock for the Rising Sun_PLDHD_Thursday_40
+89,Afghan Luke_SHOW_Saturday_44
+90,Africa's Thunder River_NGC_Tuesday_42
+91,African Voices_CNN_Sunday_43
+92,After Earth_STARZ_Tuesday_44
+93,After the Sunset_STARZ_Wednesday_40
+94,Ag PhD_RFDTV_Tuesday_40
+95,Against the Odds_HRTV_Thursday_40
+96,Ain't Them Bodies Saints_SHOW_Tuesday_44
+97,Air Disasters_SMTHHD_Thursday_44
+98,Airbrushed Beauty_ABC_Sunday_44
+99,Airbrushed Beauty_ABC_Thursday_44
+100,Airbrushed Beauty_ABC_Wednesday_44
+101,Airline_LIFE_Sunday_40
+102,Alaska Outdoors TV_OUTD_Friday_43
+103,Alaska State Troopers_NGC_Saturday_40
+104,Alaska State Troopers_NGC_Tuesday_40
+105,Alaska: La éltima Frontera_DSC_Sunday_40
+106,Alaskan Bush People: Off the Grid_DSC_Saturday_40
+107,Alaskan Bush People: Off the Grid_DSC_Tuesday_44
+108,Alex Cross_SHOW_Monday_44
+109,Alicia Menendez Tonight_FUSION_Thursday_42
+110,Alien Encounters 3_SCIENCE_Tuesday_44
+111,Alive_FLIX_Tuesday_40
+112,All Access_SHOW_Friday_42
+113,All American Cowgirl Chicks_RFDTV_Wednesday_40
+114,All Dogs Go to Heaven 2_HUB_Thursday_40
+115,All In With Chris Hayes_MSNBC_Friday_40
+116,All In With Chris Hayes_MSNBC_Monday_40
+117,All In With Chris Hayes_MSNBC_Thursday_40
+118,All In With Chris Hayes_MSNBC_Tuesday_40
+119,All In With Chris Hayes_MSNBC_Wednesday_40
+120,All Is Bright_STARZ_Saturday_44
+121,All Things Are Possible_CHURCH_Wednesday_42
+122,All in the Family_ABC_Friday_42
+123,All in the Family_ABC_Monday_42
+124,All in the Family_ABC_Thursday_42
+125,All in the Family_ABC_Tuesday_42
+126,All in the Family_ABC_Wednesday_42
+127,All in the Family_CW_Friday_42
+128,All in the Family_CW_Monday_42
+129,All in the Family_CW_Thursday_42
+130,All in the Family_CW_Tuesday_42
+131,All in the Family_CW_Wednesday_42
+132,Almost Royal_BBCA_Saturday_44
+133,Amanpour_CNN_Thursday_44
+134,Amazing Grace_Independent_Saturday_41
+135,Amazon Rising_CNBC_Sunday_42
+136,Amen_ENCORE_Monday_42
+137,Amen_ENCORE_Thursday_42
+138,Amen_ENCORE_Wednesday_42
+139,America Unplugged_SPMNHD_Thursday_40
+140,America Unplugged_SPRTMAN_Thursday_40
+141,America's Cutest_APL_Saturday_44
+142,America's Funniest Home Videos_WGNAMER_Monday_40
+143,America's Got Talent_NBC_Tuesday_40
+144,America's Got Talent_NBC_Wednesday_40
+145,America's Secret Slang_HISTORY_Saturday_40
+146,America's Test Kitchen From Cook's Illustrated_PBS_Saturday_44
+147,America's Test Kitchen From Cook's Illustrated_PBS_Sunday_41
+148,America's Test Kitchen From Cook's Illustrated_PBS_Thursday_41
+149,America's Test Kitchen From Cook's Illustrated_PBS_Tuesday_41
+150,American Airgunner_SPMNHD_Monday_43
+151,American Airgunner_SPRTMAN_Monday_43
+152,American Dad_FOX_Sunday_43
+153,American Dad_TOON_Friday_44
+154,American Dad_TOON_Saturday_42
+155,American Dad_TOON_Thursday_44
+156,American Dad_TOON_Tuesday_44
+157,American Dad_TOON_Wednesday_44
+158,American Gigolo_ENCORE_Wednesday_45
+159,American Greed_CNBC_Saturday_44
+160,American Greed_CNBC_Thursday_40
+161,American Greed_CNBC_Wednesday_40
+162,American Ninja Warrior_ESQTV_Tuesday_40
+163,American Ninja Warrior_NBCSN_Thursday_40
+164,American Ninja Warrior_NBC_Monday_42
+165,American Ninja Warrior_NBC_Sunday_40
+166,American Pickers_HISTORY_Friday_40
+167,American Pickers_HISTORY_Wednesday_40
+168,American Restoration_HISTORY_Thursday_44
+169,American Rifleman TV_OUTD_Wednesday_44
+170,American River Renegades_APL_Sunday_40
+171,American River Renegades_APL_Thursday_44
+172,Americas Now_CCTVNWS_Sunday_40
+173,Amy Schumer: Mostly Sex Stuff_COMEDY_Saturday_43
+174,Amlie_TMC_Thursday_40
+175,Ancient Aliens: Special Edition_HISTORY_Friday_44
+176,Ancient Aliens: Special Edition_HISTORY_Thursday_40
+177,Ancient Aliens_HISTORY_Friday_40
+178,Ancient Discoveries_MILH_Sunday_40
+179,Ancient Impossible_HISTORY_Sunday_44
+180,Anderson Cooper 360_CNN_Friday_40
+181,Anderson Cooper 360_CNN_Monday_40
+182,Anderson Cooper 360_CNN_Thursday_40
+183,Anderson Cooper 360_CNN_Tuesday_40
+184,Anderson Cooper 360_CNN_Wednesday_40
+185,Android Watches_SHOPHQ_Friday_40
+186,Angelina Ballerina_SPROUT_Friday_43
+187,Angelina Ballerina_SPROUT_Monday_43
+188,Angelina Ballerina_SPROUT_Saturday_43
+189,Angelina Ballerina_SPROUT_Sunday_43
+190,Angelina Ballerina_SPROUT_Thursday_43
+191,Angelina Ballerina_SPROUT_Tuesday_43
+192,Angelina Ballerina_SPROUT_Wednesday_43
+193,Animal Atlas_SMCHILD_Sunday_41
+194,Animals Gone Wild_NGC_Friday_40
+195,Annie Hall_HDNETMV_Sunday_42
+196,Annie_ENCORE_Wednesday_40
+197,Another Cinderella Story_DISN_Monday_40
+198,Another Man's Poison_TCM_Tuesday_43
+199,Another Stakeout_SHOW_Saturday_42
+200,Answers With Bayless Conley_CHURCH_Wednesday_43
+201,Anthony Bourdain Parts Unknown_CNN_Sunday_40
+202,Anthony Bourdain Parts Unknown_CNN_Wednesday_42
+203,Antiques Roadshow_PBS_Monday_40
+204,Antthony Designs Originals Fashions Celebration_HSN_Friday_40
+205,Antwone Fisher_STARZ_Friday_40
+206,Anything Goes with Rick & Shawn_QVC_Tuesday_44
+207,Apollo 13_MAX_Friday_40
+208,Apollo 13_MAX_Sunday_44
+209,Aprs Vous ..._SHOW_Thursday_40
+210,Aquamarine_HBO_Monday_42
+211,Are We Done Yet?_STARZ_Friday_43
+212,Are We Done Yet?_STARZ_Tuesday_41
+213,Arena Football_CBSSN_Saturday_40
+214,Arena Football_Comcast SportsNet_Sunday_40
+215,Arena Football_ESPN_Saturday_44
+216,Argo_MAX_Friday_43
+217,Argo_MAX_Thursday_44
+218,Argo_MAX_Wednesday_43
+219,Around the House_SHOPHQ_Thursday_42
+220,Arrow Affliction_OUTD_Friday_42
+221,Arrow_CW_Wednesday_40
+222,Art Mann Presents_AXSTV_Wednesday_40
+223,Arthritis pain?_Independent_Friday_45
+224,As Cool as I Am_SHOW_Sunday_42
+225,As Time Goes By_PBS_Saturday_41
+226,Ask This Old House_PBS_Sunday_44
+227,Ask This Old House_PBS_Wednesday_44
+228,Assault on Precinct 13_HBO_Monday_44
+229,Assault on Precinct 13_HBO_Sunday_40
+230,Assault on Wall Street_TMC_Tuesday_44
+231,At First Sight_MGMHD_Monday_40
+232,Atrocious_CHILLER_Monday_40
+233,Austin & Ally_DISN_Saturday_43
+234,Austin & Ally_DISN_Sunday_42
+235,Austin City Limits_PBS_Saturday_44
+236,Auto Racing_CBSSN_Friday_40
+237,Auto Racing_CBSSN_Saturday_44
+238,Auto Racing_CBSSN_Sunday_40
+239,Auto Racing_CBSSN_Wednesday_40
+240,Autopsy: The Last Hours Of ..._REELZ_Saturday_40
+241,Autopsy: The Last Hours Of ..._REELZ_Tuesday_44
+242,Autopsy: The Last Hours Of ..._REELZ_Wednesday_42
+243,AwesomenessTV_NIK_Saturday_43
+244,B2: Stealth at War_SMTHHD_Monday_40
+245,Baby Boom_ENCORE_Saturday_42
+246,Baby Boom_ENCORE_Tuesday_45
+247,Back of the Shop_Fox Sports_Tuesday_41
+248,Back to You and Me_HMC_Wednesday_40
+249,Back to the Future_ENCORE_Monday_42
+250,BackStory_CNN_Sunday_40
+251,Backyard Wedding_HALL_Sunday_40
+252,Bad Boys II_STARZ_Sunday_43
+253,Bad Boys_NBATV_Saturday_40
+254,Bad Girls Club: Chicago_OXYGEN_Tuesday_40
+255,Bad Girls Club: Chicago_OXYGEN_Wednesday_41
+256,Badass Animals_NGC_Wednesday_40
+257,Badman's Territory_TCM_Wednesday_42
+258,Bahama Lobster Pirates_SPMNHD_Saturday_41
+259,Bahama Lobster Pirates_SPRTMAN_Saturday_41
+260,Bailando por un Sue¤o_UNI_Sunday_40
+261,Bait_STARZ_Sunday_40
+262,Bar Rescue_SPIKETV_Sunday_40
+263,Barbecue University With Steven Raichlen_PBS_Saturday_40
+264,Barney Miller_ABC_Sunday_45
+265,Barney Miller_CW_Sunday_44
+266,Baseball Tonight_ESPN_Tuesday_44
+267,Basketball Wives LA_MTV_Sunday_40
+268,Bass 2 Billfish_WFNUS_Monday_41
+269,Bass 2 Billfish_WFNUS_Sunday_45
+270,Bass Champs_WFNUS_Monday_42
+271,Bass Dr._WFNUS_Friday_45
+272,Batman Begins_MAX_Saturday_40
+273,Batman Begins_MAX_Wednesday_44
+274,Battle 360_MILH_Thursday_40
+275,Battle of the Year_STARZ_Wednesday_40
+276,Battleground_DODNWS_Saturday_40
+277,Beaches_SHOW_Tuesday_40
+278,Beachfront Bargain Hunt_HGTV_Sunday_40
+279,Beauty Best Sellers_QVC_Saturday_40
+280,Beauty Report With Amy Morrison_HSN_Thursday_40
+281,Beauty Shop_SHOW_Saturday_42
+282,Beauty Shop_SHOW_Thursday_40
+283,Beauty and the Beast_CW_Monday_42
+284,Behind the Scenes_CHURCH_Tuesday_40
+285,Behind the Scenes_CHURCH_Wednesday_40
+286,Behind the Scenes_TBN_Friday_40
+287,Behind the Scenes_TBN_Thursday_40
+288,Behind the Scenes_TBN_Tuesday_40
+289,Behind the Scenes_TBN_Wednesday_40
+290,Being John Malkovich_SHOW_Thursday_44
+291,Bella Luce Jewelry_JTV_Friday_44
+292,Bella Luce Jewelry_JTV_Monday_44
+293,Belly Up!_COOK_Monday_42
+294,Belly Up!_COOK_Sunday_40
+295,Belly of the Beast_REELZ_Thursday_44
+296,Best Bars in America_ESQTV_Wednesday_44
+297,Best in Chow_COOK_Wednesday_45
+298,Bet on Your Baby_ABC_Saturday_40
+299,Bewitched_ABC_Friday_40
+300,Bewitched_ABC_Monday_40
+301,Bewitched_ABC_Thursday_40
+302,Bewitched_ABC_Tuesday_40
+303,Bewitched_ABC_Wednesday_40
+304,Bewitched_CW_Friday_40
+305,Bewitched_CW_Monday_40
+306,Bewitched_CW_Thursday_40
+307,Bewitched_CW_Tuesday_40
+308,Bewitched_CW_Wednesday_40
+309,Beyonc: X10_HBO_Sunday_41
+310,Beyond Scared Straight_AETV_Thursday_44
+311,Big 12 Showcase_Fox College Sports_Thursday_41
+312,Big Brother_CBS_Sunday_40
+313,Big Brother_CBS_Thursday_42
+314,Big Brother_CBS_Wednesday_40
+315,Big Coast Sportfishing_WFNUS_Thursday_45
+316,Big Fish_STARZ_Tuesday_44
+317,Big Freedia_FUSE_Saturday_44
+318,Big Love_HBO_Friday_40
+319,Big Love_HBO_Monday_40
+320,Big Love_HBO_Thursday_40
+321,Big Love_HBO_Tuesday_40
+322,Big Love_HBO_Wednesday_40
+323,Big Miracle_FX_Saturday_44
+324,Big Rig Bounty Hunters_HISTORY_Monday_44
+325,Big Smo_AETV_Wednesday_45
+326,Big Sticks with Ken Griffey  Jr._Fox Sports_Tuesday_43
+327,Big Trouble in Little China_ENCORE_Monday_43
+328,Bigfoot: The New Evidence_NGC_Friday_40
+329,Bill Boyce's Baja_WFNUS_Sunday_43
+330,Bill Boyce's Baja_WFNUS_Wednesday_40
+331,Billy Graham Classic Crusades_TBN_Saturday_44
+332,Billy Madison_COMEDY_Saturday_40
+333,Billy Madison_COMEDY_Sunday_40
+334,Bio-Dome_STARZ_Monday_43
+335,Biz Asia American Edition_CCTVNWS_Monday_40
+336,Bizarre ER_DFH_Wednesday_40
+337,Bizarre Foods America_TRAV_Friday_40
+338,Bizarre Foods America_TRAV_Monday_40
+339,Bizarre Foods America_TRAV_Thursday_40
+340,Bizarre Foods America_TRAV_Tuesday_40
+341,Bizarre Foods America_TRAV_Wednesday_40
+342,Black Box_ABC_Thursday_40
+343,Black Dynamite_TOON_Saturday_45
+344,Black Gunn_ABC_Saturday_40
+345,Black Gunn_CW_Saturday_40
+346,Black Ops_AHC_Wednesday_44
+347,Black Snake Moan_REELZ_Sunday_40
+348,Blast From the Past_ENCORE_Sunday_45
+349,Blast From the Past_ENCORE_Tuesday_41
+350,Blazing Saddles_AMC_Thursday_40
+351,Blood Diamond_SUNDANC_Saturday_40
+352,Blood Relatives_ID_Thursday_40
+353,Blood Simple_ENCORE_Saturday_40
+354,Blue Bloods_CBS_Friday_44
+355,Blue Caprice_TMC_Thursday_44
+356,Blue Jasmine_STARZ_Friday_42
+357,Bob's Burgers_TOON_Sunday_43
+358,Bone Collector_OUTD_Monday_40
+359,Bone Collector_OUTD_Sunday_45
+360,Bones_MNT_Tuesday_44
+361,Bones_WGNAMER_Saturday_44
+362,Bordertown: Laredo_CIN_Sunday_44
+363,Bosom Buddies_CW_Thursday_44
+364,Botched_E_Friday_40
+365,Botched_E_Saturday_45
+366,Botched_E_Sunday_44
+367,Botched_E_Tuesday_42
+368,Bottom Feeders_OUTD_Friday_41
+369,Bottom Feeders_OUTD_Thursday_42
+370,Boundless_ESQTV_Tuesday_44
+371,Bow Madness_OUTD_Thursday_44
+372,Bowhunter TV_SPMNHD_Friday_40
+373,Bowhunter TV_SPRTMAN_Friday_40
+374,Boxeo_ESPN_Friday_42
+375,Boxeo_HBO_Saturday_44
+376,Boxing 30_YES_Sunday_44
+377,Boxing_ESPN_Friday_42
+378,Boxing_HBO_Saturday_44
+379,Boxing_SHOW_Friday_42
+380,Boxing_SHOW_Monday_44
+381,Boxing_SHOW_Thursday_44
+382,Boxing_SHOW_Tuesday_44
+383,Boxing_SHOW_Wednesday_44
+384,Boxing_SNY_Saturday_41
+385,Boyster_DXD_Sunday_41
+386,Brad Farris' Game Plan_SPMNHD_Tuesday_45
+387,Brad Farris' Game Plan_SPRTMAN_Tuesday_45
+388,Brazil Gone Wild_APL_Tuesday_42
+389,Brazil: Exporting Beauty_FUSION_Saturday_43
+390,Breakin' All the Rules_STARZ_Sunday_44
+391,Breaking Bald_Independent_Monday_45
+392,Brew Dogs_ESQTV_Friday_45
+393,Brew Dogs_ESQTV_Wednesday_42
+394,Brian Houston at Hillsong TV_TBN_Thursday_43
+395,British House of Commons_CSPAN_Sunday_42
+396,Broken City_HBO_Friday_44
+397,Broken City_HBO_Monday_40
+398,Brooklyn Nets Magazine_YES_Tuesday_43
+399,Brooklyn Nine-Nine_FOX_Tuesday_41
+400,Brother vs. Brother_HGTV_Sunday_42
+401,Bruce Almighty_ABC_Sunday_42
+402,Bruce Springsteen & the E Street Band: Live in New York City_VH1_Monday_40
+403,Brunch at Bobby's_COOK_Tuesday_43
+404,Bubble Guppies_NIK_Friday_40
+405,Bubble Guppies_NIK_Monday_40
+406,Bubble Guppies_NIK_Saturday_40
+407,Bubble Guppies_NIK_Sunday_40
+408,Bubble Guppies_NIK_Thursday_40
+409,Bubble Guppies_NIK_Tuesday_40
+410,Bubble Guppies_NIK_Wednesday_40
+411,Buffy the Vampire Slayer_PIVOT_Tuesday_40
+412,Bugtime Adventures_SMCHILD_Saturday_41
+413,Building Alaska_GAC_Tuesday_44
+414,Bull Durham_HDNETMV_Tuesday_40
+415,Bullet to the Head_MAX_Wednesday_40
+416,Bullitt_SPIKETV_Tuesday_45
+417,Bulloch Family Ranch_UP_Wednesday_44
+418,Buried Treasure_CNBC_Friday_40
+419,Burn Notice_MNT_Sunday_40
+420,Busted!: Animal Smugglers_NGC_Monday_44
+421,Buying Alaska_DEST_Monday_40
+422,Buying Naked_DEST_Tuesday_44
+423,Buying Naked_TLC_Saturday_44
+424,Buying the Beach_DEST_Monday_42
+425,CBGB_STARZ_Sunday_40
+426,CBS 15min - 15 Minutes  Time That Changes the World_Independent_Friday_41
+427,CBS 15min - 15 Minutes  Time That Changes the World_Independent_Thursday_41
+428,CBS Great Satisfaction_Independent_Saturday_43
+429,CBS Mentoring_Independent_Thursday_43
+430,CBS Theology Lecture_Independent_Saturday_42
+431,CNN Marketplace Middle East_CNN_Friday_44
+432,CNN Newsroom_CNN_Friday_44
+433,CNN Special Report_CNN_Tuesday_42
+434,CNN Tonight_CNN_Monday_44
+435,CNN Tonight_CNN_Tuesday_44
+436,CNN Tonight_CNN_Wednesday_44
+437,CSI: Crime Scene Investigation_CBS_Wednesday_44
+438,CSI: Miami_WE_Monday_40
+439,CSI: Miami_WE_Sunday_40
+440,Cable-11 News_BRC13HD_Thursday_45
+441,Cable-11 News_BRC13HD_Wednesday_45
+442,Caillou_SPROUT_Friday_41
+443,Caillou_SPROUT_Monday_41
+444,Caillou_SPROUT_Saturday_41
+445,Caillou_SPROUT_Sunday_41
+446,Caillou_SPROUT_Thursday_41
+447,Caillou_SPROUT_Tuesday_41
+448,Caillou_SPROUT_Wednesday_41
+449,Cajun Justice_CIN_Saturday_44
+450,Cake Boss: Next Great Baker_TLC_Tuesday_42
+451,Cake Boss_DFAM_Monday_40
+452,Cala_CNN_Monday_42
+453,Cala_CNN_Thursday_42
+454,Cala_CNN_Tuesday_42
+455,Californication_SHOW_Friday_44
+456,Californication_SHOW_Monday_45
+457,Californication_SHOW_Sunday_43
+458,Californication_SHOW_Tuesday_40
+459,Californication_SHOW_Wednesday_44
+460,Call of the Wildman: More Live Action!_APL_Monday_43
+461,Call of the Wildman: More Live Action!_APL_Sunday_43
+462,Call of the Wildman_APL_Sunday_42
+463,Camp Lakebottom_DXD_Saturday_43
+464,Camp Lakebottom_DXD_Sunday_43
+465,Canada in the Rough_SPMNHD_Saturday_40
+466,Canada in the Rough_SPRTMAN_Saturday_40
+467,Canadian Sportfishing_WFNUS_Wednesday_44
+468,Candles on Bay Street_HMC_Monday_40
+469,Captain Phillips_STARZ_Saturday_41
+470,Carlito's Way: Rise to Power_SHOW_Sunday_40
+471,Carroll Roberson_CHURCH_Monday_41
+472,Castle_TNT_Friday_40
+473,Castle_TNT_Thursday_40
+474,Castle_TNT_Wednesday_40
+475,Catching Hell_WEATH_Friday_42
+476,Catching Hell_WEATH_Monday_44
+477,Catching Hell_WEATH_Saturday_40
+478,Catching Hell_WEATH_Sunday_40
+479,Catfish: The TV Show_MTV_Sunday_40
+480,Catfish: The TV Show_MTV_Tuesday_40
+481,Catfish: The TV Show_MTV_Wednesday_40
+482,Cattlemen to Cattlemen_RFDTV_Tuesday_41
+483,Caught on Camera_MSNBC_Saturday_40
+484,Caught on Camera_MSNBC_Sunday_40
+485,Cavuto_FOX_Friday_40
+486,Cavuto_FOX_Monday_40
+487,Cavuto_FOX_Saturday_40
+488,Cavuto_FOX_Sunday_40
+489,Cavuto_FOX_Thursday_40
+490,Cavuto_FOX_Tuesday_40
+491,Cavuto_FOX_Wednesday_40
+492,CeeLo Green's The Good Life_TBS_Monday_45
+493,Celebrity Wife Swap_ABC_Tuesday_44
+494,Celebrity Wife Swap_LIFE_Friday_40
+495,CenterStage_YES_Sunday_40
+496,CenterStage_YES_Thursday_44
+497,CenterStage_YES_Tuesday_40
+498,Changeling_MAX_Sunday_42
+499,Chappelle's Show_COMEDY_Tuesday_40
+500,Charles Wilhelm Training_HRTV_Tuesday_43
+501,Charlie Rose -- The Week_PBS_Friday_41
+502,Charlie and the Chocolate Factory_HBO_Friday_40
+503,Charlie's Angels: Full Throttle_ENCORE_Monday_44
+504,Charlie's Angels: Full Throttle_ENCORE_Sunday_40
+505,Chasing Classic Cars_VEL_Tuesday_40
+506,Chasing Life_ABC_Tuesday_42
+507,Chasing Life_ABC_Wednesday_44
+508,Cheaper by the Dozen 2_HBO_Saturday_40
+509,Cheech & Chong's Next Movie_IFC_Friday_45
+510,Chef Ming Tsai Birthday Celebration Kickoff_HSN_Friday_42
+511,Chef's Kitchen_BRC13_Friday_42
+512,Chef's Kitchen_BRC13_Wednesday_45
+513,Chiaroscuro Jazz Conservancy Sessions_PBS_Thursday_43
+514,Chicken Little_HUB_Saturday_44
+515,Chicken Little_HUB_Sunday_40
+516,Choke_MAX_Wednesday_40
+517,Choose Your Weapon_OUTD_Saturday_45
+518,Chopped Canada_FOOD_Thursday_42
+519,Chopped_FOOD_Thursday_40
+520,Chopped_FOOD_Tuesday_40
+521,Chowder_BOOM_Friday_42
+522,Chowder_BOOM_Monday_42
+523,Chowder_BOOM_Saturday_42
+524,Chowder_BOOM_Sunday_42
+525,Chowder_BOOM_Thursday_42
+526,Chowder_BOOM_Tuesday_42
+527,Chowder_BOOM_Wednesday_42
+528,Christ in Prophecy_CHURCH_Saturday_43
+529,Christian News Weekly Korean_Independent_Sunday_41
+530,Christian Topics C Story_Independent_Monday_41
+531,Christian Topics C Story_Independent_Wednesday_41
+532,Chrome Underground_VEL_Sunday_44
+533,Chuck's Eat the Street_COOK_Thursday_44
+534,Chuggington_DISN_Monday_45
+535,Chuggington_DISN_Thursday_45
+536,Chuggington_DISN_Tuesday_45
+537,Chuggington_DISN_Wednesday_45
+538,Cinch High School Rodeo Tour_RFDTV_Friday_45
+539,Cinch High School Rodeo Tour_RFDTV_Wednesday_42
+540,Cinderella Man_HBO_Wednesday_44
+541,Circle of Friends_FLIX_Wednesday_43
+542,Civilization Lost_HISTORY_Thursday_44
+543,Cloud Atlas_MAX_Saturday_40
+544,Cloudy With a Chance of Meatballs_DISN_Tuesday_40
+545,Cl sicos de South Beach_DSC_Monday_40
+546,Coach Carter_SHOCSE_Sunday_45
+547,Coast Guard Cape Disappointment: Pacific Northwest_WEATH_Monday_42
+548,Coast Guard Cape Disappointment: Pacific Northwest_WEATH_Tuesday_42
+549,Cocaine: History Between the Lines_HISTORY_Wednesday_40
+550,Cocktail_FLIX_Friday_44
+551,Cocoon_STARZ_Monday_43
+552,Cold Case Files_CIN_Tuesday_40
+553,Cold Case Files_MNT_Monday_44
+554,Cold Case Files_MNT_Wednesday_44
+555,Cold Case_ION_Friday_40
+556,Cold Case_ION_Wednesday_40
+557,Cold Justice_TNT_Friday_42
+558,Cold Water Captains_WEATH_Saturday_44
+559,Cold Water Captains_WEATH_Sunday_44
+560,Cold Water Captains_WEATH_Wednesday_42
+561,College Baseball_ESPN_Monday_40
+562,College Baseball_ESPN_Sunday_40
+563,College Baseball_ESPN_Tuesday_40
+564,College Baseball_ESPN_Wednesday_40
+565,College Baseball_Fox College Sports_Thursday_42
+566,College Basketball_Fox College Sports_Tuesday_40
+567,College Football_ESPN_Friday_40
+568,College Football_ESPN_Monday_40
+569,College Football_ESPN_Saturday_40
+570,College Football_ESPN_Thursday_40
+571,College Football_ESPN_Tuesday_40
+572,College Football_ESPN_Wednesday_40
+573,College Football_Fox College Sports_Friday_40
+574,College Football_Fox College Sports_Sunday_40
+575,College Football_Fox College Sports_Wednesday_40
+576,College Softball_Fox College Sports_Thursday_40
+577,College Track and Field_Fox College Sports_Tuesday_40
+578,College Wrestling_Fox College Sports_Thursday_40
+579,Color & Karat_JTV_Tuesday_44
+580,Columbo_CW_Sunday_40
+581,Comedy Bang! Bang!_IFC_Thursday_45
+582,Community_CW_Friday_44
+583,Community_CW_Monday_44
+584,Community_CW_Thursday_44
+585,Community_CW_Tuesday_44
+586,Community_CW_Wednesday_44
+587,Conan the Barbarian_SHOW_Friday_40
+588,Conan the Destroyer_SHOW_Friday_44
+589,Conociendo la Verdad_ENLUSA_Sunday_45
+590,Consejo  Inspiraci¢n y Victoria_ENLUSA_Sunday_44
+591,Consenting Adults_FLIX_Monday_44
+592,Constantine_MAXLAT_Friday_40
+593,Constantine_MAX_Friday_40
+594,Consuming the Word_EWTN_Friday_45
+595,Continuum_SYFY_Friday_44
+596,Contraband_FX_Friday_45
+597,Cook's Country From America's Test Kitchen_PBS_Friday_41
+598,Cook's Country From America's Test Kitchen_PBS_Monday_41
+599,Cook's Country From America's Test Kitchen_PBS_Saturday_41
+600,Cook's Country From America's Test Kitchen_PBS_Wednesday_41
+601,Cooking With Nick Stellino_PBS_Sunday_42
+602,Cooking With Nick Stellino_PBS_Thursday_42
+603,Cooking With Nick Stellino_PBS_Tuesday_42
+604,Cool Hand Luke_PBS_Saturday_42
+605,Cool Pools_TRAV_Sunday_42
+606,Cop Land_IFC_Sunday_44
+607,Cops_SPIKETV_Friday_40
+608,Cops_SPIKETV_Saturday_40
+609,Cops_SPIKETV_Thursday_40
+610,Cornerstone With John Hagee_CHURCH_Thursday_41
+611,Counting Cars_HISTORY_Tuesday_44
+612,Country's Family Reunion_RFDTV_Friday_40
+613,Cousins Undercover_HGTV_Wednesday_40
+614,Covert Affairs_USA_Tuesday_44
+615,Cowboy Country_HRTV_Wednesday_42
+616,Cowboy_ENCORE_Thursday_40
+617,Coyote Ugly_ENCORE_Sunday_40
+618,Crash Test Heroes: The Dummy Revolution_SMTHHD_Friday_42
+619,Crash_FLIX_Thursday_40
+620,Creflo Dollar_TBN_Sunday_43
+621,Criminal Minds_AETV_Friday_40
+622,Criminal Minds_AETV_Monday_40
+623,Criminal Minds_AETV_Saturday_40
+624,Criminal Minds_CBS_Wednesday_42
+625,Criminal Minds_ION_Monday_40
+626,Criminal Minds_ION_Thursday_40
+627,Criminal Minds_ION_Tuesday_40
+628,Criminal Minds_MNT_Saturday_42
+629,Crooklyn_SHOW_Monday_43
+630,Crooklyn_SHOW_Sunday_44
+631,Cross Training_EWTN_Friday_44
+632,Crossbones_NBC_Friday_44
+633,Crossing the Goal_EWTN_Thursday_45
+634,Crossroads Guitar Festival_PLDHD_Wednesday_40
+635,Cry Wolfe_ID_Tuesday_44
+636,Cults: Dangerous Devotion_HISTORY_Wednesday_44
+637,Culture Click_QUBO_Saturday_41
+638,Culture Click_QUBO_Sunday_41
+639,Cumberland Highlanders_RFDTV_Saturday_43
+640,Cupcake Wars_FOOD_Saturday_40
+641,Cutback_JUCE_Friday_44
+642,Cutter's Way_MGMHD_Saturday_44
+643,Cutthroat Island_HBO_Friday_42
+644,Cutthroat Kitchen_FOOD_Sunday_44
+645,D.L. Hughley: Clear_SHOW_Monday_42
+646,D.L. Hughley: Clear_SHOW_Wednesday_40
+647,DJ SKEE Live_AXSTV_Friday_40
+648,Daddy Day Care_UP_Friday_42
+649,Dana_BLAZETV_Friday_42
+650,Dana_BLAZETV_Saturday_40
+651,Dana_BLAZETV_Sunday_40
+652,Dance  Girl  Dance_TCM_Monday_40
+653,Dance Moms_LIFE_Saturday_40
+654,Dance Moms_LIFE_Tuesday_40
+655,Dances With Wolves_MGMHD_Tuesday_44
+656,Daniel Tosh: Happy Thoughts_COMEDY_Friday_45
+657,Dark Shadows_MAX_Monday_40
+658,Dark Shadows_MAX_Saturday_40
+659,Dark Shadows_MAX_Tuesday_44
+660,Dark Skies_TMC_Wednesday_40
+661,Darts_Fox Sports_Friday_42
+662,Darts_Fox Sports_Sunday_40
+663,Date Movie_HBO_Wednesday_44
+664,Dateline NBC_NBC_Saturday_40
+665,Dateline on OWN_OWN_Monday_40
+666,David Beckham Into the Unknown_SHOW_Thursday_41
+667,David Beckham Into the Unknown_SHOW_Tuesday_44
+668,Dazed and Confused_SHOW_Sunday_40
+669,De Que Te Quiero  Te Quiero_UNI_Friday_40
+670,De Que Te Quiero  Te Quiero_UNI_Monday_40
+671,De Que Te Quiero  Te Quiero_UNI_Thursday_40
+672,De Que Te Quiero  Te Quiero_UNI_Tuesday_40
+673,De Que Te Quiero  Te Quiero_UNI_Wednesday_40
+674,Dead Dog Walkin'_SPMNHD_Sunday_44
+675,Dead of Night_ID_Wednesday_42
+676,Deadliest Catch: Decked_DSC_Tuesday_40
+677,Deadliest Catch: On Deck_DSC_Friday_44
+678,Deadliest Catch_DSC_Friday_40
+679,Deadliest Catch_DSC_Tuesday_42
+680,Deadline: Crime With Tamron Hall_ID_Sunday_44
+681,Dear America_QUBO_Saturday_43
+682,Debate Final_Fox Sports_Friday_42
+683,Debate Final_Fox Sports_Monday_43
+684,Debate Final_Fox Sports_Thursday_42
+685,Debate Final_Fox Sports_Tuesday_42
+686,Debate Final_Fox Sports_Wednesday_42
+687,Deep Impact_SHOW_Saturday_44
+688,Def Leppard: Viva! Hysteria_AXSTV_Sunday_45
+689,Defiance_SYFY_Thursday_40
+690,Degrassi_NIK_Saturday_42
+691,Degrassi_NIK_Sunday_42
+692,Degrassi_NIK_Tuesday_42
+693,Dell Computers_QVC_Saturday_42
+694,Demolition Man_WGNAMER_Tuesday_40
+695,Deportes CNN_CNN_Friday_45
+696,Deportes CNN_CNN_Thursday_45
+697,Derailed_ENCORE_Wednesday_40
+698,Derm Exclusive!_Independent_Saturday_44
+699,Derm Exclusive!_Independent_Thursday_44
+700,Derm Exclusive!_Independent_Tuesday_45
+701,Desaparecidos_DSC_Wednesday_43
+702,Desperate Landscapes_DIY_Wednesday_42
+703,Destination: Spain_WFNUS_Tuesday_43
+704,Detroit ER_DFH_Wednesday_44
+705,Detroit SWAT_CIN_Saturday_40
+706,Devil in the Details_ID_Saturday_44
+707,Devious Maids_LIFE_Sunday_44
+708,Diamond Treasures_SHOPHQ_Saturday_42
+709,Diamond Treasures_SHOPHQ_Sunday_40
+710,Diamonds and Dirt Barrel Horse Classic 2014_HRTV_Sunday_45
+711,Diamonds and Dirt Barrel Horse Classic 2014_HRTV_Tuesday_40
+712,Diane Gilman Fashions Celebration_HSN_Saturday_40
+713,Diary of a Mad Black Woman_SHOW_Saturday_40
+714,Die Another Day_MAX_Tuesday_40
+715,Die Hard With a Vengeance_ESQTV_Saturday_43
+716,Die Hard With a Vengeance_ESQTV_Thursday_40
+717,Die Hard With a Vengeance_ESQTV_Wednesday_40
+718,Diff'rent Strokes_ABC_Sunday_42
+719,Diff'rent Strokes_CW_Sunday_42
+720,Diff'rent Strokes_ENCORE_Monday_40
+721,Diff'rent Strokes_ENCORE_Thursday_40
+722,Diff'rent Strokes_ENCORE_Wednesday_40
+723,Dillinger_TCM_Wednesday_40
+724,Diners  Drive-Ins and Dives_FOOD_Friday_40
+725,Diners  Drive-Ins and Dives_FOOD_Monday_41
+726,Diners  Drive-Ins and Dives_FOOD_Saturday_44
+727,Dinner: Impossible_COOK_Monday_40
+728,Dirty Dancing: Havana Nights_FLIX_Wednesday_40
+729,Dirty Jobs: Down Under_APL_Wednesday_40
+730,Dirty Teacher_LMN_Wednesday_40
+731,Disconnect_HBO_Sunday_42
+732,Divine Secrets of the Ya-Ya Sisterhood_OXYGEN_Thursday_40
+733,Diving With Crocodiles_SMTHHD_Wednesday_44
+734,Django Unchained_TMC_Monday_44
+735,Django Unchained_TMC_Sunday_40
+736,Doc Hollywood_UP_Monday_42
+737,Doc McStuffins_DISN_Saturday_40
+738,Doc McStuffins_DISN_Thursday_40
+739,Doc McStuffins_DISN_Tuesday_40
+740,Doc McStuffins_DISN_Wednesday_40
+741,Documented_CNN_Sunday_42
+742,Dodgeball: A True Underdog Story_MAX_Saturday_45
+743,Dog and Beth: On the Hunt_CMTV_Saturday_42
+744,Dogfights_MILH_Friday_42
+745,Dogfights_MILH_Monday_40
+746,Dogfights_MILH_Thursday_42
+747,Dominion_SYFY_Thursday_42
+748,Donut Showdown_COOK_Wednesday_44
+749,Doom_MAX_Wednesday_43
+750,Double Divas_LIFE_Friday_42
+751,Double Divas_LIFE_Monday_43
+752,Double Divas_LIFE_Thursday_42
+753,Double Divas_LIFE_Tuesday_42
+754,Double Divas_LIFE_Wednesday_42
+755,Down to You_STARZ_Saturday_40
+756,Down to You_STARZ_Tuesday_44
+757,Downunder Horsemanship_RFDTV_Tuesday_44
+758,Dr. Dolittle 2_STARZ_Saturday_40
+759,Dr. Dolittle 2_STARZ_Tuesday_45
+760,Dr. Drew on Call_HLN_Monday_42
+761,Dr. Drew on Call_HLN_Thursday_42
+762,Dr. Drew on Call_HLN_Tuesday_42
+763,Dr. Drew on Call_HLN_Wednesday_42
+764,Dr. Tony Evans_CHURCH_Tuesday_43
+765,Dracula 3000_TMC_Friday_44
+766,Dragonheart: A New Beginning_SHOW_Tuesday_44
+767,Dragonheart_SHOW_Tuesday_41
+768,Drake & Josh_NIK_Monday_42
+769,Drake & Josh_NIK_Sunday_40
+770,Drake & Josh_NIK_Thursday_45
+771,Drake & Josh_NIK_Tuesday_45
+772,Drake & Josh_NIK_Wednesday_45
+773,Dream House_MAX_Monday_44
+774,Dream House_MAX_Saturday_44
+775,DreamPoint's Extend Your Range Tv_SPRTMAN_Wednesday_45
+776,Dreamer: Inspired by a True Story_HBO_Wednesday_40
+777,Drive Thru_ENCORE_Monday_42
+778,Driven With Pat & Nicole_OUTD_Tuesday_43
+779,Drugs  Inc._NGC_Sunday_40
+780,Drumline_ENCORE_Saturday_40
+781,Dual Survival: Untamed_DSC_Wednesday_40
+782,Dual Survival_DSC_Wednesday_42
+783,Duck Dynasty_AETV_Sunday_40
+784,Duck Dynasty_AETV_Wednesday_40
+785,Dumb and Dumberer: When Harry Met Lloyd_STARZ_Sunday_43
+786,Dumb and Dumberer: When Harry Met Lloyd_STARZ_Thursday_45
+787,Dune_BBCA_Wednesday_40
+788,E! News_E_Monday_40
+789,EDtv_MAX_Monday_40
+790,ESPN FC_ESPN_Friday_40
+791,ESPN FC_ESPN_Saturday_42
+792,ESPN FC_ESPN_Sunday_41
+793,ESPN FC_ESPN_Thursday_41
+794,ESPN FC_ESPN_Tuesday_40
+795,ESPN Sports Package_ESPN_Friday_42
+796,ESPN Sports Package_ESPN_Tuesday_41
+797,EUNHEE_Independent_Tuesday_43
+798,EUNHEE_Independent_Wednesday_43
+799,EWTN Live_EWTN_Wednesday_40
+800,EWTN News Nightly_EWTN_Friday_42
+801,EWTN News Nightly_EWTN_Monday_42
+802,EWTN News Nightly_EWTN_Thursday_42
+803,EWTN News Nightly_EWTN_Tuesday_42
+804,EWTN News Nightly_EWTN_Wednesday_42
+805,EWTN Religious Catalogue_EWTN_Wednesday_44
+806,Eagle Eye_AMC_Saturday_40
+807,Easton Bowhunting_SPMNHD_Friday_44
+808,Easton Bowhunting_SPRTMAN_Friday_44
+809,Eat St._COOK_Thursday_40
+810,Egypt: What Lies Beneath_AHC_Thursday_40
+811,El Gringo_HBO_Wednesday_40
+812,El Lugar de Su Presencia_ENLUSA_Sunday_41
+813,El Se¤or de los Cielos_TELE_Friday_44
+814,El Se¤or de los Cielos_TELE_Monday_44
+815,El Se¤or de los Cielos_TELE_Thursday_44
+816,El Se¤or de los Cielos_TELE_Tuesday_44
+817,El Se¤or de los Cielos_TELE_Wednesday_44
+818,Election_SHOW_Sunday_43
+819,Electrified: The Guitar Revolution_SMTHHD_Tuesday_44
+820,Electronic Connection Celebration_HSN_Sunday_40
+821,Electronic Connection_SHOPHQ_Monday_40
+822,Electronics Birthday Celebration_HSN_Saturday_42
+823,Electronics Birthday Celebration_HSN_Thursday_44
+824,Elementary_CBS_Thursday_44
+825,Elf_STARZ_Monday_40
+826,Elite Archery's Respect the Game TV_SPMNHD_Tuesday_42
+827,Elite Archery's Respect the Game TV_SPRTMAN_Tuesday_42
+828,Elvis Presley  Tony Bennett  Johnny Mathis_NBC_Saturday_44
+829,En Otra Piel_TELE_Friday_42
+830,En Otra Piel_TELE_Monday_42
+831,En Otra Piel_TELE_Thursday_42
+832,En Otra Piel_TELE_Tuesday_42
+833,En Otra Piel_TELE_Wednesday_42
+834,Encuentros Peligrosos_DSC_Wednesday_44
+835,End of the Age With Rev. Irvin Baxter_CHURCH_Monday_44
+836,End of the Age With Rev. Irvin Baxter_CHURCH_Saturday_44
+837,Ender's Game_MAXLAT_Wednesday_42
+838,Ender's Game_MAX_Friday_40
+839,Ender's Game_MAX_Sunday_40
+840,Ender's Game_MAX_Tuesday_42
+841,Ender's Game_MAX_Wednesday_42
+842,Ends of the Earth_EWTN_Sunday_44
+843,Enduring Love_SHOW_Monday_40
+844,Enemy of the State_MAX_Friday_42
+845,Enemy of the State_MAX_Saturday_40
+846,Enemy of the State_MAX_Sunday_40
+847,Entity_LMN_Sunday_40
+848,Equestrian Nation_RFDTV_Wednesday_45
+849,Escape Club_E_Thursday_42
+850,Eternal Sunshine of the Spotless Mind_MAX_Monday_40
+851,Everything Under the Sun_HSN_Wednesday_40
+852,Everything You Always Wanted to Know About Sex (But Were Afraid to Ask)_ENCORE_Tuesday_45
+853,Evil Twins_ID_Tuesday_40
+854,Executive Decision_REELZ_Sunday_45
+855,Exotic World of Gemstones_JTV_Thursday_44
+856,Explorers_OUTSDSD_Monday_43
+857,Extra Virgin_COOK_Wednesday_40
+858,Extreme Auto Hunters_VEL_Wednesday_40
+859,Extreme RVs_TRAV_Monday_44
+860,Extreme RVs_TRAV_Thursday_44
+861,Extreme RVs_TRAV_Tuesday_44
+862,Extreme RVs_TRAV_Wednesday_44
+863,Extreme Weight Loss_ABC_Tuesday_40
+864,Eye Care Today_BRC13_Tuesday_45
+865,Eye of the Beholder_ENCORE_Thursday_40
+866,F Troop_CW_Wednesday_44
+867,FBN Investigates: Joe Nacchio- Qwest for Redemption_FOX_Saturday_44
+868,FBN Investigates: Joe Nacchio- Qwest for Redemption_FOX_Sunday_44
+869,FOX 56 News Edge at 10:30_FOX_Friday_45
+870,FOX 56 News Edge at 10:30_FOX_Monday_45
+871,FOX 56 News Edge at 10:30_FOX_Saturday_45
+872,FOX 56 News Edge at 10:30_FOX_Sunday_45
+873,FOX 56 News Edge at 10:30_FOX_Thursday_45
+874,FOX 56 News Edge at 10:30_FOX_Tuesday_45
+875,FOX 56 News Edge at 10:30_FOX_Wednesday_45
+876,FOX 56 News First at Ten_FOX_Friday_44
+877,FOX 56 News First at Ten_FOX_Monday_44
+878,FOX 56 News First at Ten_FOX_Saturday_44
+879,FOX 56 News First at Ten_FOX_Sunday_44
+880,FOX 56 News First at Ten_FOX_Thursday_44
+881,FOX 56 News First at Ten_FOX_Tuesday_44
+882,FOX 56 News First at Ten_FOX_Wednesday_44
+883,FOX News Reporting: Iraq and the Rise of a Terrorist State_FOX_Friday_44
+884,FOX News Reporting: Iraq and the Rise of a Terrorist State_FOX_Saturday_44
+885,FOX News Reporting: Iraq and the Rise of a Terrorist State_FOX_Sunday_42
+886,FOX Sports Live_Fox Sports_Thursday_45
+887,FXM Presents_FX_Friday_41
+888,FXM Presents_FX_Monday_44
+889,FXM Presents_FX_Saturday_43
+890,FXM Presents_FX_Sunday_43
+891,FXM Presents_FX_Thursday_43
+892,FXM Presents_FX_Tuesday_44
+893,FXM Presents_FX_Wednesday_43
+894,Faces of Africa_CCTVNWS_Sunday_43
+895,Failure to Launch_OXYGEN_Thursday_44
+896,Falling Skies_TNT_Sunday_44
+897,Familias en Crisis con Jo Frost_DFAM_Tuesday_42
+898,Family BrainSurge_NIK_Friday_40
+899,Family BrainSurge_NIK_Monday_40
+900,Family BrainSurge_NIK_Thursday_40
+901,Family BrainSurge_NIK_Tuesday_40
+902,Family Feud_GSN_Monday_40
+903,Family Feud_GSN_Saturday_40
+904,Family Feud_GSN_Thursday_44
+905,Family Feud_GSN_Tuesday_44
+906,Family Feud_GSN_Wednesday_40
+907,Family Game Night_HUB_Friday_44
+908,Family Guy_FOX_Sunday_42
+909,Family Guy_FOX_Tuesday_40
+910,Family Guy_TBS_Friday_40
+911,Family Guy_TBS_Monday_40
+912,Family Guy_TBS_Thursday_40
+913,Family Guy_TBS_Wednesday_40
+914,Family Guy_TOON_Monday_44
+915,Family Guy_TOON_Saturday_43
+916,Family Guy_TOON_Sunday_45
+917,Famous in 12_CW_Tuesday_40
+918,Fanatikada_SORPRESA_Thursday_40
+919,Fanatikada_SORPRESA_Wednesday_40
+920,FantomWorks_VEL_Friday_42
+921,Far From Home_TMC_Saturday_45
+922,Fareed Zakaria GPS_CNN_Saturday_42
+923,Farscape_PIVOT_Monday_40
+924,Farscape_PIVOT_Sunday_40
+925,Fashion & Accessories Clearance Up to 60 percent Off_HSN_Tuesday_40
+926,Fashion Police_E_Friday_42
+927,Fast & Furious 6_HBO_Saturday_44
+928,Fast & Furious 6_HBO_Tuesday_40
+929,Fast N' Loud_VEL_Sunday_40
+930,Fast Track_HRTV_Friday_40
+931,Fat N' Furious: Rolling Thunder_DSC_Monday_44
+932,Favorite Destinations_ABC_Friday_41
+933,Fear Factor_CHILLER_Wednesday_40
+934,Fear Factor_MTV_Friday_40
+935,Fear and Loathing in Las Vegas_STARZ_Friday_43
+936,Feasting on Asphalt_GAC_Monday_40
+937,Feherty_GOLF_Monday_44
+938,Female Forces_CIN_Thursday_42
+939,Fight Night_UHD_Wednesday_42
+940,Fill the Void_STARZ_Wednesday_44
+941,Film School Shorts_PBS_Thursday_45
+942,Final Destination_STARZ_Tuesday_42
+943,Finding Bigfoot: Further Evidence_APL_Monday_40
+944,Finding Bigfoot_APL_Monday_42
+945,Finding Bigfoot_APL_Sunday_44
+946,Fire Down Below_REELZ_Monday_40
+947,First Love_Independent_Sunday_42
+948,Fish Hooks_DXD_Thursday_44
+949,Fish Hooks_DXD_Tuesday_44
+950,Fish Hooks_DXD_Wednesday_44
+951,Fish Tank_SHOW_Tuesday_44
+952,Fishing With Bill Miller_WFNUS_Thursday_44
+953,Fishing the Flats_WFNUS_Friday_44
+954,Fit for Duty_DODNWS_Wednesday_40
+955,Fixer Upper_HGTV_Thursday_40
+956,Flashpoint_ION_Thursday_44
+957,Flats Class_WFNUS_Wednesday_42
+958,Flea Market Flip_GAC_Sunday_40
+959,Flight of Fury_REELZ_Monday_45
+960,Flight of Fury_REELZ_Tuesday_40
+961,Flip or Flop_HGTV_Tuesday_40
+962,Flipping Vegas_FYISD_Wednesday_40
+963,Flower Girl_HMC_Tuesday_40
+964,Food  Inc._PIVOT_Saturday_44
+965,Food Factory_FYISD_Sunday_40
+966,Food Factory_FYISD_Thursday_40
+967,Food For Your Soul_CHURCH_Tuesday_41
+968,Food Network Star_FOOD_Sunday_42
+969,Food Rush_ABC_Saturday_40
+970,Food Rush_ABC_Wednesday_41
+971,Footloose_HDNETMV_Wednesday_41
+972,Forensic Files_HLN_Friday_40
+973,Forensic Files_HLN_Monday_44
+974,Forensic Files_HLN_Saturday_40
+975,Forensic Files_HLN_Sunday_40
+976,Forensic Files_HLN_Thursday_44
+977,Forensic Files_HLN_Tuesday_44
+978,Forensic Files_HLN_Wednesday_44
+979,Forgetting Sarah Marshall_FXX_Saturday_40
+980,Fox 5 News at 10_FOX_Friday_44
+981,Fox 5 News at 10_FOX_Monday_44
+982,Fox 5 News at 10_FOX_Saturday_44
+983,Fox 5 News at 10_FOX_Sunday_44
+984,Fox 5 News at 10_FOX_Thursday_44
+985,Fox 5 News at 10_FOX_Tuesday_44
+986,Fox 5 News at 10_FOX_Wednesday_44
+987,Fox 5 Sports Extra_FOX_Sunday_45
+988,Frankenfood_SPIKETV_Sunday_44
+989,Frankenstein's Army_SHOW_Wednesday_40
+990,Free NutriBullet offer!_Independent_Friday_44
+991,Freedom Summer: American Experience_PBS_Tuesday_42
+992,Freeloaders_HBO_Sunday_45
+993,Fresh Produce_MTV_Friday_44
+994,Friday Night Live_FOX_Friday_45
+995,From Prada to Nada_MTV_Saturday_42
+996,Frozen River_UHD_Sunday_40
+997,Fuera de Juego_ESPN_Saturday_44
+998,Fugitive Chronicles_CIN_Sunday_40
+999,Full House_NIK_Friday_42
+1000,Full House_NIK_Monday_40
+1001,Full House_NIK_Sunday_44
+1002,Full House_NIK_Thursday_44
+1003,Full House_NIK_Tuesday_40
+1004,Full House_NIK_Wednesday_40
+1005,Fun Fun Book Cafe_Independent_Tuesday_40
+1006,Funniest Pets & People_QUBO_Friday_40
+1007,Funniest Pets & People_QUBO_Monday_40
+1008,Funniest Pets & People_QUBO_Saturday_40
+1009,Funniest Pets & People_QUBO_Sunday_40
+1010,Funniest Pets & People_QUBO_Thursday_40
+1011,Funniest Pets & People_QUBO_Tuesday_40
+1012,Funniest Pets & People_QUBO_Wednesday_40
+1013,Funniest Wins_TBS_Friday_44
+1014,Fusion Live_FUSION_Tuesday_40
+1015,Fusion Live_FUSION_Wednesday_40
+1016,Futurama_COMEDY_Monday_40
+1017,F£tbol Picante_ESPN_Friday_40
+1018,F£tbol Picante_ESPN_Saturday_40
+1019,F£tbol Picante_ESPN_Sunday_40
+1020,F£tbol Picante_ESPN_Tuesday_42
+1021,G.K. Chesterton: Apostle of Common Sense_EWTN_Sunday_42
+1022,GI Film Festival_DODNWS_Friday_40
+1023,GI Film Festival_DODNWS_Thursday_44
+1024,GMA Honors_JUCE_Friday_41
+1025,Gaither's Homecoming_BRC13HD_Wednesday_40
+1026,Galapagos_NGC_Sunday_40
+1027,Game Fisher's Diary_WFNUS_Thursday_43
+1028,Gang Related_FOX_Thursday_42
+1029,Gangster Squad_HBO_Thursday_44
+1030,Garage Sale Mystery_HMC_Saturday_42
+1031,GatorZone_Fox College Sports_Wednesday_40
+1032,Gems en Vogue: An American Story_SHOPHQ_Wednesday_42
+1033,George Poveromo's World of Saltwater Fishing_WFNUS_Sunday_44
+1034,George Poveromo's World of Saltwater Fishing_WFNUS_Wednesday_41
+1035,Georgia Farm Monitor_RFDTV_Thursday_41
+1036,Get Low_STARZ_Friday_40
+1037,Get Smart_CW_Monday_44
+1038,Getaway_MAX_Saturday_40
+1039,Ghost Adventures_TRAV_Saturday_40
+1040,Ghost_CMTV_Wednesday_40
+1041,Gilligan's Island_CW_Friday_40
+1042,Gilligan's Island_CW_Monday_40
+1043,Gilligan's Island_CW_Thursday_40
+1044,Gilligan's Island_CW_Tuesday_40
+1045,Gilligan's Island_CW_Wednesday_40
+1046,Girl Meets World_DISN_Friday_43
+1047,Girl Meets World_DISN_Saturday_41
+1048,Girl Meets World_DISN_Sunday_43
+1049,Girls Against Boys_ENCORE_Thursday_45
+1050,Girls High-School Hockey_Fox College Sports_Monday_40
+1051,Glastonbury 2009_PLDHD_Saturday_42
+1052,Glastonbury 2011_PLDHD_Sunday_40
+1053,Glenn Beck Program_BLAZETV_Monday_40
+1054,Glenn Beck Program_BLAZETV_Saturday_42
+1055,Glenn Beck Program_BLAZETV_Sunday_42
+1056,Glenn Beck Program_BLAZETV_Thursday_40
+1057,Glenn Beck Program_BLAZETV_Tuesday_40
+1058,Glenn Beck Program_BLAZETV_Wednesday_40
+1059,Global Artisan-Crafted Silver Jewelry_QVC_Tuesday_40
+1060,Global Rosary Relay for Priests_EWTN_Friday_43
+1061,Go_HBO_Wednesday_41
+1062,Gold Fever_OUTD_Friday_44
+1063,Gold Gala_QVC_Thursday_40
+1064,Golf Central_GOLF_Saturday_42
+1065,Golf Central_GOLF_Sunday_42
+1066,Golf's Greatest Rounds_GOLF_Tuesday_40
+1067,Gone Country_MTV_Monday_42
+1068,Good Eats_COOK_Friday_40
+1069,Good Luck Charlie_DISN_Monday_44
+1070,Good Luck Charlie_DISN_Wednesday_44
+1071,Goon_SHOW_Sunday_43
+1072,Gotham Comedy Live_AXSTV_Thursday_44
+1073,Gotham Comedy Live_AXSTV_Wednesday_42
+1074,Graceland_USA_Wednesday_44
+1075,Grand Ole Opry - Live!_NBC_Saturday_45
+1076,Grandstand_HRTV_Saturday_40
+1077,Grandstand_HRTV_Sunday_40
+1078,Gravity Falls_DXD_Friday_40
+1079,Gravity Falls_DXD_Monday_43
+1080,Gravity Falls_DXD_Thursday_40
+1081,Gravity Falls_DXD_Tuesday_40
+1082,Gravity Falls_DXD_Wednesday_40
+1083,Great Performances at the Met_PBS_Friday_42
+1084,Greatest Tank Battles: War Monsters_AHC_Tuesday_44
+1085,Green Lantern_FX_Monday_40
+1086,Gregg Ritz's Hunt Masters_OUTD_Monday_41
+1087,Gremlins_ENCORE_Friday_42
+1088,Gridiron Outdoors_OUTD_Saturday_42
+1089,Grown Ups 2_ENCORE_Saturday_44
+1090,Grown Ups 2_ENCORE_Tuesday_40
+1091,Guided With Mark Melnyk_WFNUS_Tuesday_40
+1092,Guitar Center Sessions_AXSTV_Tuesday_40
+1093,Gun Talk Television_SPMNHD_Monday_45
+1094,Gun Talk Television_SPRTMAN_Monday_45
+1095,Guns & Gear_SPMNHD_Monday_41
+1096,Guns & Gear_SPRTMAN_Monday_41
+1097,Guns N' Roses Appetite For Democracy - Live At The Hard Rock Casino_AXSTV_Sunday_40
+1098,Guns and Ammo TV_SPMNHD_Monday_40
+1099,Guns and Ammo TV_SPRTMAN_Monday_40
+1100,Guy Code_MTV_Monday_40
+1101,Guy Code_MTV_Tuesday_40
+1102,Guy Code_MTV_Wednesday_40
+1103,Guy's Grocery Games_FOOD_Sunday_40
+1104,HRTV Rewind_HRTV_Sunday_42
+1105,HSN2 Clearance_HSN_Thursday_40
+1106,Hacking the System: Hack Your Car_NGC_Monday_40
+1107,Hacking the System: Hack Your Home_NGC_Monday_41
+1108,Hail! Hail! Rock 'n' Roll_VH1_Friday_42
+1109,Hal Lindsey_TBN_Friday_41
+1110,Half Past Dead_ENCORE_Thursday_44
+1111,Hall Pass_FXX_Friday_40
+1112,Halloween II_SUNDANC_Wednesday_44
+1113,Halt and Catch Fire_AMC_Sunday_44
+1114,Handbag & Shoe Shopping with Jane_QVC_Thursday_42
+1115,Hannibal_BBCA_Sunday_40
+1116,Hannity_FOX_Monday_44
+1117,Hannity_FOX_Thursday_44
+1118,Hannity_FOX_Tuesday_44
+1119,Hannity_FOX_Wednesday_44
+1120,Happily Never After_ID_Saturday_40
+1121,Happy Days_CW_Friday_41
+1122,Happy Days_CW_Monday_41
+1123,Happy Days_CW_Thursday_41
+1124,Happy Days_CW_Tuesday_41
+1125,Happy Days_CW_Wednesday_41
+1126,Hardcore Pawn_TRUTV_Wednesday_44
+1127,Hart of Dixie_CW_Friday_42
+1128,Harvest_TBN_Friday_42
+1129,Have a Turkey Neck?_ABC_Monday_44
+1130,Have a Turkey Neck?_Independent_Tuesday_44
+1131,Have a Turkey Neck?_Independent_Wednesday_45
+1132,Haven_CHILLER_Sunday_44
+1133,Haven_SHOW_Tuesday_40
+1134,Hawaii Five-0_CBS_Friday_42
+1135,Hawaii Five-0_CBS_Saturday_40
+1136,Hazleton Auto Group_CW_Sunday_45
+1137,Head 2 Head_Music Choice_Friday_42
+1138,Head 2 Head_Music Choice_Thursday_42
+1139,Head 2 Head_Music Choice_Tuesday_42
+1140,Heads of State_MTV_Wednesday_44
+1141,Health Plus_Independent_Tuesday_41
+1142,Heartland Bowhunter_OUTD_Monday_42
+1143,Heartland_UP_Wednesday_42
+1144,Heathers_SUNDANC_Saturday_42
+1145,Heatwave Hits_MTV_Wednesday_40
+1146,Heaven Is Waiting_UP_Tuesday_42
+1147,Hee Haw_RFDTV_Sunday_40
+1148,Heli-Hunter_SPMNHD_Thursday_42
+1149,Heli-Hunter_SPRTMAN_Sunday_41
+1150,Heli-Hunter_SPRTMAN_Thursday_42
+1151,Helicopter Missions_SMTHHD_Friday_44
+1152,Hell Baby_MAX_Sunday_40
+1153,Hell's Kitchen_FOX_Thursday_40
+1154,Hellraiser: Deader_ENCORE_Monday_45
+1155,Hellraiser: Inferno_ENCORE_Saturday_45
+1156,Here Comes Honey Boo Boo_TLC_Thursday_40
+1157,Hermie & Friends_SMCHILD_Sunday_44
+1158,Heroes of Cosplay_SYFY_Tuesday_44
+1159,Heroes_G4_Friday_42
+1160,Heroes_G4_Monday_42
+1161,Heroes_G4_Thursday_42
+1162,Heroes_G4_Tuesday_42
+1163,Heroes_G4_Wednesday_42
+1164,Hey Bartender!_SHOW_Sunday_45
+1165,Hey Bartender!_SHOW_Thursday_40
+1166,Hickey and Boggs_CW_Saturday_44
+1167,Hide and Seek_SHOW_Saturday_40
+1168,Hiding_LIFE_Thursday_40
+1169,High Fidelity_ENCORE_Sunday_42
+1170,High School Baseball_Fox College Sports_Friday_40
+1171,High School Softball_Fox College Sports_Tuesday_40
+1172,High School Track and Field_Fox College Sports_Saturday_44
+1173,History of the World in Two Hours_HISTORY_Sunday_40
+1174,Hit the Floor_VH1_Monday_42
+1175,HitRECord on TV_PIVOT_Friday_43
+1176,Hitler's Jurassic Zoo_AHC_Sunday_40
+1177,Hoarders_LIFE_Monday_40
+1178,Hoarding: Buried Alive_DFH_Sunday_40
+1179,Hoarding: Buried Alive_DFH_Tuesday_44
+1180,Hogan's Heroes_CW_Friday_42
+1181,Hogan's Heroes_CW_Monday_42
+1182,Hogan's Heroes_CW_Thursday_42
+1183,Hogan's Heroes_CW_Tuesday_42
+1184,Hogan's Heroes_CW_Wednesday_42
+1185,Hollywood Exes_VH1_Wednesday_40
+1186,Hollywood Game Night_NBC_Thursday_40
+1187,Hollywood Scandals_REELZ_Wednesday_40
+1188,Holmes Makes It Right_DIY_Tuesday_40
+1189,Holy Wood Acting Studio Presents_EWTN_Thursday_44
+1190,Hombres Lobo: Mito o Realidad_DSC_Sunday_42
+1191,Home Chef Showdown_ABC_Monday_41
+1192,Home Chef Showdown_ABC_Sunday_40
+1193,Home Chef Showdown_ABC_Tuesday_41
+1194,Home Fashion Clearance_HSN_Wednesday_42
+1195,Home Solutions Clearance_HSN_Wednesday_40
+1196,Honey Badgers_NGC_Tuesday_40
+1197,Honey_MTV_Friday_42
+1198,Hook_BBCA_Saturday_40
+1199,Hornet's Nest_MGMHD_Wednesday_45
+1200,Horse Flicks_HRTV_Tuesday_45
+1201,Horse Flicks_HRTV_Wednesday_43
+1202,Horse Shows in the Sun_HRTV_Monday_43
+1203,Horsetalk_HRTV_Friday_45
+1204,Horsetalk_HRTV_Wednesday_45
+1205,Hostage_STARZ_Sunday_44
+1206,Hot Fuzz_MAX_Thursday_40
+1207,Hot Off the Press_JUCE_Friday_40
+1208,Hot Shots_SPMNHD_Monday_42
+1209,Hot Shots_SPRTMAN_Monday_42
+1210,Hot in Cleveland_TVLAND_Wednesday_44
+1211,Hotel Transylvania_ENCORE_Sunday_42
+1212,Hour of Power_TBN_Saturday_42
+1213,House Hunters International_HGTV_Friday_45
+1214,House Hunters International_HGTV_Monday_45
+1215,House Hunters International_HGTV_Sunday_45
+1216,House Hunters International_HGTV_Thursday_45
+1217,House Hunters International_HGTV_Tuesday_45
+1218,House Hunters International_HGTV_Wednesday_45
+1219,House Hunters Renovation_HGTV_Saturday_44
+1220,House Hunters_GAC_Wednesday_40
+1221,House Hunters_HGTV_Friday_44
+1222,House Hunters_HGTV_Monday_44
+1223,House Hunters_HGTV_Sunday_44
+1224,House Hunters_HGTV_Thursday_44
+1225,House Hunters_HGTV_Tuesday_44
+1226,House Hunters_HGTV_Wednesday_44
+1227,House Hunting_CHILLER_Tuesday_44
+1228,House of Games_MGMHD_Saturday_40
+1229,House_MNT_Saturday_40
+1230,House_MNT_Thursday_40
+1231,House_UHD_Tuesday_40
+1232,Houseguest_SHOW_Friday_40
+1233,Household Helpers_HSN_Monday_40
+1234,How Do They Do It?_SCIENCE_Thursday_43
+1235,How I Met Your Mother_WGNAMER_Friday_40
+1236,How I Met Your Mother_WGNAMER_Thursday_40
+1237,How It's Made_SCIENCE_Monday_41
+1238,How It's Made_SCIENCE_Thursday_40
+1239,Huckabee_FOX_Saturday_40
+1240,Huckabee_FOX_Sunday_40
+1241,Human Wrecking Balls_G4_Sunday_40
+1242,Hunt for the Super Predator_SMTHHD_Wednesday_40
+1243,Hunting the Country_OUTD_Tuesday_42
+1244,Hurricane Festival 2012_PLDHD_Wednesday_44
+1245,I (Almost) Got Away With It_ID_Monday_42
+1246,I (Almost) Got Away: What Would Kenda Do?_ID_Monday_40
+1247,I Am Steve McQueen_SPIKETV_Tuesday_42
+1248,I Dated a Psycho_LMN_Monday_44
+1249,I Didn't Do It_DISN_Friday_44
+1250,I Didn't Do It_DISN_Saturday_42
+1251,I Didn't Do It_DISN_Sunday_41
+1252,I Found the Gown_TLC_Friday_44
+1253,I Hate My Yard_DIY_Friday_40
+1254,I Hate My Yard_DIY_Tuesday_44
+1255,I Was Dead_DFH_Tuesday_40
+1256,I Will Bless the Lord at All Times_TBN_Monday_40
+1257,I'm Pregnant and..._DFH_Thursday_44
+1258,Ice Age: Continental Drift_HBO_Sunday_40
+1259,Ice Age: Continental Drift_HBO_Wednesday_41
+1260,Ice Age: Dawn of the Dinosaurs_FX_Sunday_40
+1261,Ice Station Zebra_TCM_Thursday_43
+1262,Icons of Coaching_Fox College Sports_Thursday_40
+1263,Imagine Me & You_MAX_Monday_43
+1264,Impractical Jokers_TRUTV_Thursday_40
+1265,Impractical Jokers_TRUTV_Tuesday_40
+1266,Improve your memory and brain power_Independent_Saturday_45
+1267,In Coldest Blood_MSNBC_Sunday_44
+1268,In Depth With Graham Bensinger_Comcast SportsNet_Saturday_43
+1269,In Play With Jimmy Roberts_GOLF_Monday_40
+1270,In Touch With Dr. Charles Stanley_TBN_Saturday_40
+1271,In the Dark_LMN_Friday_44
+1272,In the Kitchen With David_QVC_Wednesday_40
+1273,In the Mix_FUSE_Wednesday_42
+1274,Inescapable_SHOW_Monday_42
+1275,Inescapable_SHOW_Sunday_45
+1276,Infernal Affairs_STARZ_Monday_44
+1277,Infierno en la Frontera_DSC_Friday_40
+1278,Innerspace_ENCORE_Wednesday_42
+1279,Inside Africa_CNN_Sunday_41
+1280,Inside College Basketball_CBSSN_Monday_40
+1281,Inside College Basketball_CBSSN_Wednesday_44
+1282,Inside Edition Weekend_ABC_Saturday_45
+1283,Inside Edition_ABC_Friday_45
+1284,Inside Edition_ABC_Monday_45
+1285,Inside Edition_ABC_Thursday_45
+1286,Inside Edition_ABC_Tuesday_45
+1287,Inside Edition_ABC_Wednesday_45
+1288,Inside Edition_MNT_Friday_45
+1289,Inside Edition_MNT_Monday_45
+1290,Inside Edition_MNT_Thursday_45
+1291,Inside Edition_MNT_Wednesday_45
+1292,Inside Information_HRTV_Sunday_41
+1293,Inside MMA_AXSTV_Friday_42
+1294,Inside Rising Star_Music Choice_Thursday_40
+1295,Inside Special Ops_AHC_Wednesday_42
+1296,Inside Wildcat Country_Fox College Sports_Wednesday_41
+1297,Inside a Crack House_MSNBC_Sunday_42
+1298,Instant Mom_NIK_Saturday_44
+1299,Instant Mom_NIK_Thursday_42
+1300,Intervention_LMN_Tuesday_40
+1301,Invitation to a Gunfighter_MGMHD_Tuesday_40
+1302,Iron Man 3_STARZ_Friday_42
+1303,Iron Man 3_STARZ_Tuesday_40
+1304,Iron Man_SPIKETV_Monday_40
+1305,Iron Man_SPIKETV_Tuesday_40
+1306,Isaac Mizrahi Live_QVC_Monday_44
+1307,Ishine Knect_SMCHILD_Sunday_40
+1308,It Takes a Church_GSN_Friday_44
+1309,It Takes a Church_GSN_Sunday_40
+1310,It Takes a Church_GSN_Thursday_42
+1311,It's Effin' Science_G4_Saturday_40
+1312,Iyanla  Fix My Life_OWN_Saturday_40
+1313,JP DeRose Breaking Boundaries_WFNUS_Monday_40
+1314,JP DeRose Breaking Boundaries_WFNUS_Sunday_42
+1315,Jack French London Handbags_SHOPHQ_Tuesday_40
+1316,Jack the Giant Slayer_HBO_Thursday_40
+1317,Jacob's Ladder_SMCHILD_Sunday_43
+1318,Jake and the Never Land Pirates_DISN_Friday_41
+1319,Jake and the Never Land Pirates_DISN_Saturday_41
+1320,Jake and the Never Land Pirates_DISN_Sunday_41
+1321,Jams Live_MTV_Saturday_40
+1322,Jams Live_MTV_Sunday_40
+1323,Jams Mix_MTV_Friday_40
+1324,Jams Mix_MTV_Monday_44
+1325,Jams Mix_MTV_Thursday_40
+1326,Jams Mix_MTV_Wednesday_40
+1327,Jarhead_TMC_Monday_40
+1328,Jarrett Edwards Outdoors_WFNUS_Wednesday_45
+1329,Jeepers Creepers 2_SYFY_Monday_40
+1330,Jeff Dunham: Birth of a Dummy_FYISD_Friday_40
+1331,Jennifer Falls_TVLAND_Wednesday_45
+1332,Jersey Girl_STARZ_Monday_40
+1333,Jersey Shore_MTV_Sunday_44
+1334,Jersey Shore_MTV_Thursday_40
+1335,Jesse Duplantis_TBN_Monday_43
+1336,Jesse James: Outlaw Garage_VEL_Saturday_42
+1337,Jesse James: Outlaw Garage_VEL_Thursday_42
+1338,Jessie_DISN_Monday_45
+1339,Jessie_DISN_Saturday_40
+1340,Jessie_DISN_Thursday_45
+1341,Jessie_DISN_Wednesday_45
+1342,Jewelry Television_JTV_Saturday_42
+1343,Jewelry Television_JTV_Thursday_42
+1344,Jewelry Television_JTV_Wednesday_42
+1345,Jewish Voice With Jonathan Bernis_CHURCH_Saturday_45
+1346,Jim Shockey's Hunting Adventures_OUTD_Sunday_40
+1347,Joe Dirt_STARZ_Sunday_40
+1348,Joe Dirt_STARZ_Wednesday_45
+1349,Joel Osteen_TBN_Sunday_40
+1350,Joel Osteen_TBN_Thursday_41
+1351,John Carter_TELE_Saturday_41
+1352,John Gillespie's Water & Woods_WFNUS_Friday_42
+1353,John Tucker Must Die_ABC_Friday_42
+1354,Joseph Prince_TBN_Thursday_42
+1355,Joseph Prince_TBN_Tuesday_42
+1356,Joseph Prince_TBN_Wednesday_42
+1357,Joy Mangano Birthday Celebration_HSN_Sunday_40
+1358,Joyce Meyer: Enjoying Everyday Life_TBN_Tuesday_41
+1359,June in January_HALL_Friday_42
+1360,Jungle Fever_SHOW_Tuesday_40
+1361,Junior_SHOW_Sunday_40
+1362,Junior_SHOW_Wednesday_43
+1363,Junk Gypsies_GAC_Thursday_40
+1364,Just Go With It_FX_Tuesday_40
+1365,Justice With Judge Jeanine_FOX_Saturday_42
+1366,Kansas City SWAT_CIN_Saturday_42
+1367,Kate Plus 8: Sextuplets Turn 10_TLC_Thursday_44
+1368,Kate Plus 8: Sextuplets Turn 10_TLC_Tuesday_40
+1369,Kate and Mallory Fashions_SHOPHQ_Tuesday_42
+1370,Keeping Up Appearances_PBS_Saturday_40
+1371,Keeping Up With the Kardashians_E_Monday_42
+1372,Keeping Up With the Kardashians_E_Sunday_40
+1373,Keeping Up With the Kardashians_E_Thursday_44
+1374,Keeping Up With the Kardashians_E_Tuesday_40
+1375,Keeping Up With the Kardashians_E_Wednesday_40
+1376,Keeping the Faith_STARZ_Thursday_40
+1377,Kenneth Copeland_TBN_Sunday_42
+1378,Kerry Shook Ministries_TBN_Sunday_41
+1379,Kevin Dundon's Modern Irish Food_PBS_Friday_42
+1380,Kevin Dundon's Modern Irish Food_PBS_Monday_42
+1381,Kevin Dundon's Modern Irish Food_PBS_Wednesday_42
+1382,Kevin Hart: I'm a Grown Little Man_COMEDY_Friday_43
+1383,Key & Peele_COMEDY_Friday_40
+1384,Key & Peele_COMEDY_Wednesday_40
+1385,Key Capitol Hill Hearings_CSPAN_Friday_40
+1386,Key Capitol Hill Hearings_CSPAN_Monday_40
+1387,Key Capitol Hill Hearings_CSPAN_Thursday_40
+1388,Key Capitol Hill Hearings_CSPAN_Tuesday_40
+1389,Key Capitol Hill Hearings_CSPAN_Wednesday_40
+1390,Kick-Ass 2_MAX_Monday_40
+1391,Kick-Ass 2_MAX_Thursday_44
+1392,Kickin' It_DISN_Saturday_45
+1393,Kickin' It_DXD_Friday_42
+1394,Kickin' It_DXD_Monday_40
+1395,Kickin' It_DXD_Wednesday_45
+1396,Kill Theory_CHILLER_Tuesday_40
+1397,Killer Kids_LMN_Monday_40
+1398,King Ralph_ENCORE_Friday_41
+1399,King of the Hill_TOON_Friday_40
+1400,King of the Hill_TOON_Monday_40
+1401,King of the Hill_TOON_Saturday_40
+1402,King of the Hill_TOON_Sunday_40
+1403,King of the Hill_TOON_Thursday_40
+1404,King of the Hill_TOON_Tuesday_40
+1405,King of the Hill_TOON_Wednesday_40
+1406,King of the River_WFNUS_Tuesday_42
+1407,Kingdom Connection Jentezen Franklin_TBN_Monday_42
+1408,Kitchen Nightmares_BBCA_Thursday_40
+1409,Kitchen Nightmares_FYISD_Monday_40
+1410,Kitchen Nightmares_FYISD_Saturday_40
+1411,Kitchen Nightmares_FYISD_Tuesday_40
+1412,Knock It Off_ABC_Friday_40
+1413,Knock It Off_ABC_Monday_40
+1414,Kung Fu Hustle_ENCORE_Tuesday_44
+1415,Kung Fu Panda 2_FX_Friday_42
+1416,Kung Fu Panda: Legends of Awesomeness_NIK_Friday_41
+1417,Kung Fu Panda: Legends of Awesomeness_NIK_Monday_41
+1418,Kung Fu Panda_FX_Friday_40
+1419,L.A. Hair_WE_Thursday_40
+1420,LMN Preview_CIN_Friday_44
+1421,LPGA Tour Golf_GOLF_Friday_41
+1422,La Cage aux Folles II_MGMHD_Thursday_44
+1423,La Cage aux Folles_MGMHD_Thursday_40
+1424,La Gran Se¤ora_TELE_Sunday_40
+1425,La Impostora_TELE_Friday_40
+1426,La Impostora_TELE_Monday_40
+1427,La Impostora_TELE_Thursday_40
+1428,La Impostora_TELE_Tuesday_40
+1429,La Impostora_TELE_Wednesday_40
+1430,La La's Full Court Life_VH1_Wednesday_44
+1431,Lab Rats_DXD_Friday_44
+1432,Lab Rats_DXD_Monday_42
+1433,Ladder 49_ENCORE_Monday_45
+1434,Ladies of London_BRAVO_Monday_44
+1435,Lake Placid: The Final Chapter_SYFY_Saturday_40
+1436,Lamar Thomas Show_BRC13_Monday_40
+1437,Larger Than Life_ENCORE_Tuesday_40
+1438,Lassie_SMCHILD_Saturday_43
+1439,Last Comic Standing_NBC_Monday_40
+1440,Last Comic Standing_NBC_Sunday_42
+1441,Last Comic Standing_NBC_Thursday_44
+1442,Last Seen Alive_ID_Monday_44
+1443,Last Tango in Halifax_PBS_Sunday_40
+1444,Last Week Tonight With John Oliver_HBO_Friday_41
+1445,Last Week Tonight With John Oliver_HBO_Monday_41
+1446,Last Week Tonight With John Oliver_HBO_Tuesday_43
+1447,Last Week Tonight With John Oliver_HBO_Wednesday_40
+1448,Laura Geller Makeup Studio_QVC_Friday_44
+1449,Law & Order: Criminal Intent_ION_Saturday_40
+1450,Law & Order: Criminal Intent_ION_Wednesday_44
+1451,Law & Order: Criminal Intent_MNT_Wednesday_40
+1452,Law & Order: Special Victims Unit_MNT_Monday_40
+1453,Law & Order: Special Victims Unit_USA_Saturday_40
+1454,Law & Order: Special Victims Unit_USA_Sunday_40
+1455,Law & Order: Special Victims Unit_USA_Tuesday_40
+1456,Law & Order: Special Victims Unit_USA_Wednesday_40
+1457,Law & Order_SUNDANC_Monday_40
+1458,Law & Order_SUNDANC_Thursday_44
+1459,Law & Order_WE_Tuesday_40
+1460,Law & Order_WE_Wednesday_40
+1461,Leaving Las Vegas_MAX_Monday_42
+1462,Legally Blonde 2: Red  White & Blonde_CMTV_Tuesday_40
+1463,Legend of Hells Gate_ENCORE_Wednesday_40
+1464,Legendary Conversation: Palmer  Nicklaus  Player  Trevino_GOLF_Monday_42
+1465,Legendary Conversation: Palmer  Nicklaus  Player  Trevino_GOLF_Wednesday_44
+1466,Legislative Report With Dave Argall_BRC13_Tuesday_41
+1467,Legislative Report With Mario Scavello_BRC13_Monday_45
+1468,Let the Right One In_ENCORE_Sunday_42
+1469,Lethal Weapon_HBO_Monday_44
+1470,Leverage_ION_Sunday_40
+1471,Leviathan_ENCORE_Thursday_44
+1472,Lidia's Italy in America_PBS_Sunday_40
+1473,Lidia's Italy in America_PBS_Thursday_40
+1474,Lidia's Italy in America_PBS_Tuesday_40
+1475,Lidia's Kitchen_PBS_Friday_40
+1476,Lidia's Kitchen_PBS_Monday_40
+1477,Lidia's Kitchen_PBS_Wednesday_40
+1478,Life Below Zero_NGC_Thursday_40
+1479,Life Below Zero_NGC_Tuesday_44
+1480,Life With La Toya_OWN_Saturday_44
+1481,Life With Mikey_SHOW_Monday_40
+1482,Life on the Rock_EWTN_Friday_40
+1483,Limpiadores Compulsivos_DFAM_Wednesday_40
+1484,Lindner's Ultimate Angler_WFNUS_Sunday_40
+1485,Lions for Lambs_AXSTV_Monday_42
+1486,Lions for Lambs_HDNETMV_Monday_41
+1487,Listening to You: The Who at Isle of Wight_PLDHD_Tuesday_45
+1488,Listening to You: The Who at Isle of Wight_VH1_Tuesday_43
+1489,Little Einsteins_DISN_Friday_45
+1490,Little Einsteins_DISN_Monday_40
+1491,Little Einsteins_DISN_Saturday_45
+1492,Little Einsteins_DISN_Sunday_45
+1493,Little League: A History_PBS_Thursday_40
+1494,Little Secrets_ENCORE_Thursday_40
+1495,Little Women: LA_LIFE_Monday_44
+1496,Little Women: LA_LIFE_Tuesday_44
+1497,Little Women: LA_LIFE_Wednesday_40
+1498,Little Women_SMCHILD_Saturday_42
+1499,Liv & Maddie_DISN_Friday_45
+1500,Liv & Maddie_DISN_Monday_43
+1501,Liv & Maddie_DISN_Sunday_40
+1502,Liv & Maddie_DISN_Thursday_44
+1503,Liv & Maddie_DISN_Tuesday_43
+1504,Liv & Maddie_DISN_Wednesday_43
+1505,Live From Daryl's House_RFDTV_Sunday_43
+1506,Live From the Artists Den_PLDHD_Friday_44
+1507,Live and Learn_BRC13_Sunday_40
+1508,Living Alaska_GAC_Tuesday_40
+1509,Living By Faith_TBN_Wednesday_43
+1510,Living Life_Independent_Friday_42
+1511,Living Life_Independent_Monday_42
+1512,Living Life_Independent_Thursday_42
+1513,Living Life_Independent_Tuesday_42
+1514,Living Life_Independent_Wednesday_42
+1515,Living Right With Dr. Ray_EWTN_Saturday_44
+1516,Lizard Lick Towing_TRUTV_Friday_40
+1517,Lizard Lick Towing_TRUTV_Monday_40
+1518,Lo Que la Vida Me Rob¢_UNI_Friday_42
+1519,Lo Que la Vida Me Rob¢_UNI_Monday_42
+1520,Lo Que la Vida Me Rob¢_UNI_Thursday_42
+1521,Lo Que la Vida Me Rob¢_UNI_Tuesday_42
+1522,Lo Que la Vida Me Rob¢_UNI_Wednesday_42
+1523,Local Origination_LOOR015_Friday_40
+1524,Local Origination_LOOR015_Monday_40
+1525,Local Origination_LOOR015_Saturday_40
+1526,Local Origination_LOOR015_Sunday_40
+1527,Local Origination_LOOR015_Thursday_40
+1528,Local Origination_LOOR015_Tuesday_40
+1529,Local Origination_LOOR015_Wednesday_40
+1530,Local Origination_LOOR613_Friday_40
+1531,Local Origination_LOOR613_Monday_40
+1532,Local Origination_LOOR613_Saturday_40
+1533,Local Origination_LOOR613_Sunday_40
+1534,Local Origination_LOOR613_Thursday_40
+1535,Local Origination_LOOR613_Tuesday_40
+1536,Local Origination_LOOR613_Wednesday_40
+1537,Lock N' Load_MILH_Sunday_42
+1538,Lockup: Raw_MSNBC_Friday_44
+1539,Lockup: Raw_MSNBC_Saturday_42
+1540,London Live_PLDHD_Friday_43
+1541,Longmire_AETV_Monday_44
+1542,Looney Tunes: Back in Action_HUB_Saturday_40
+1543,Los Archivos del FBI_DSC_Friday_44
+1544,Los Peque¤os Fugitivos_SORPRESA_Sunday_42
+1545,Los Peque¤os Fugitivos_SORPRESA_Thursday_42
+1546,Los Peque¤os Fugitivos_SORPRESA_Wednesday_42
+1547,Losing Isaiah_ENCORE_Sunday_40
+1548,Lost in Space_ENCORE_Saturday_41
+1549,Lou Dobbs Tonight_FOX_Friday_44
+1550,Lou Dobbs Tonight_FOX_Monday_44
+1551,Lou Dobbs Tonight_FOX_Thursday_44
+1552,Lou Dobbs Tonight_FOX_Tuesday_44
+1553,Lou Dobbs Tonight_FOX_Wednesday_44
+1554,Love & Hip Hop: Atlanta_VH1_Monday_40
+1555,Love & Hip Hop: Atlanta_VH1_Tuesday_40
+1556,Love Actually_FLIX_Sunday_40
+1557,Love It or List It_HGTV_Friday_40
+1558,Love It or List It_HGTV_Monday_40
+1559,Love Thy Neighbor_OWN_Wednesday_40
+1560,Love Worth Finding_CHURCH_Sunday_42
+1561,M*A*S*H_CW_Sunday_43
+1562,MC '70s_Music Choice_Friday_40
+1563,MC '70s_Music Choice_Monday_40
+1564,MC '70s_Music Choice_Saturday_41
+1565,MC '70s_Music Choice_Sunday_40
+1566,MC '70s_Music Choice_Thursday_40
+1567,MC '70s_Music Choice_Tuesday_40
+1568,MC '70s_Music Choice_Wednesday_40
+1569,MC '80s_Music Choice_Friday_40
+1570,MC '80s_Music Choice_Saturday_40
+1571,MC '80s_Music Choice_Sunday_40
+1572,MC '80s_Music Choice_Thursday_40
+1573,MC '80s_Music Choice_Tuesday_40
+1574,MC '80s_Music Choice_Wednesday_40
+1575,MC '90s_Music Choice_Friday_40
+1576,MC '90s_Music Choice_Sunday_40
+1577,MC '90s_Music Choice_Thursday_40
+1578,MC '90s_Music Choice_Tuesday_40
+1579,MC '90s_Music Choice_Wednesday_40
+1580,MC Adult Alternative_Music Choice_Friday_40
+1581,MC Adult Alternative_Music Choice_Saturday_40
+1582,MC Alternative_Music Choice_Saturday_40
+1583,MC Alternative_Music Choice_Wednesday_40
+1584,MC Blues_Music Choice_Friday_40
+1585,MC Blues_Music Choice_Saturday_41
+1586,MC Blues_Music Choice_Sunday_44
+1587,MC Blues_Music Choice_Thursday_44
+1588,MC Blues_Music Choice_Wednesday_40
+1589,MC Classic Country_Music Choice_Friday_40
+1590,MC Classic Country_Music Choice_Monday_40
+1591,MC Classic Country_Music Choice_Saturday_40
+1592,MC Classic Country_Music Choice_Sunday_40
+1593,MC Classic Country_Music Choice_Thursday_40
+1594,MC Classic Country_Music Choice_Tuesday_40
+1595,MC Classic Country_Music Choice_Wednesday_41
+1596,MC Classic Rock_Music Choice_Friday_40
+1597,MC Classic Rock_Music Choice_Monday_40
+1598,MC Classic Rock_Music Choice_Saturday_40
+1599,MC Classic Rock_Music Choice_Sunday_40
+1600,MC Classic Rock_Music Choice_Thursday_40
+1601,MC Classic Rock_Music Choice_Tuesday_40
+1602,MC Classic Rock_Music Choice_Wednesday_40
+1603,MC Classical Masterpieces_Music Choice_Friday_40
+1604,MC Classical Masterpieces_Music Choice_Monday_40
+1605,MC Classical Masterpieces_Music Choice_Saturday_40
+1606,MC Classical Masterpieces_Music Choice_Sunday_44
+1607,MC Classical Masterpieces_Music Choice_Thursday_44
+1608,MC Classical Masterpieces_Music Choice_Tuesday_40
+1609,MC Classical Masterpieces_Music Choice_Wednesday_42
+1610,MC Contemporary Christian_Music Choice_Friday_40
+1611,MC Contemporary Christian_Music Choice_Monday_40
+1612,MC Contemporary Christian_Music Choice_Saturday_40
+1613,MC Contemporary Christian_Music Choice_Sunday_40
+1614,MC Contemporary Christian_Music Choice_Thursday_40
+1615,MC Contemporary Christian_Music Choice_Tuesday_40
+1616,MC Contemporary Christian_Music Choice_Wednesday_40
+1617,MC Country Hits_Music Choice_Monday_40
+1618,MC Country Hits_Music Choice_Saturday_40
+1619,MC Country Hits_Music Choice_Sunday_40
+1620,MC Country Hits_Music Choice_Thursday_40
+1621,MC Country Hits_Music Choice_Tuesday_40
+1622,MC Dance / EDM_Music Choice_Monday_42
+1623,MC Dance / EDM_Music Choice_Sunday_40
+1624,MC Easy Listening_Music Choice_Friday_40
+1625,MC Easy Listening_Music Choice_Monday_40
+1626,MC Easy Listening_Music Choice_Saturday_40
+1627,MC Easy Listening_Music Choice_Sunday_40
+1628,MC Easy Listening_Music Choice_Thursday_40
+1629,MC Easy Listening_Music Choice_Tuesday_40
+1630,MC Easy Listening_Music Choice_Wednesday_41
+1631,MC Gospel_Music Choice_Sunday_40
+1632,MC Hip Hop and R&B_Music Choice_Monday_40
+1633,MC Hip Hop and R&B_Music Choice_Tuesday_40
+1634,MC Hip Hop and R&B_Music Choice_Wednesday_41
+1635,MC Hip-Hop Classics_Music Choice_Monday_42
+1636,MC Hip-Hop Classics_Music Choice_Wednesday_42
+1637,MC Hit List_Music Choice_Friday_40
+1638,MC Hit List_Music Choice_Monday_40
+1639,MC Hit List_Music Choice_Saturday_40
+1640,MC Hit List_Music Choice_Sunday_40
+1641,MC Hit List_Music Choice_Thursday_40
+1642,MC Hit List_Music Choice_Tuesday_40
+1643,MC Hit List_Music Choice_Wednesday_40
+1644,MC Jazz_Music Choice_Friday_40
+1645,MC Jazz_Music Choice_Sunday_42
+1646,MC Jazz_Music Choice_Tuesday_40
+1647,MC Kidz Only_Music Choice_Friday_40
+1648,MC Kidz Only_Music Choice_Monday_40
+1649,MC Kidz Only_Music Choice_Saturday_40
+1650,MC Kidz Only_Music Choice_Thursday_40
+1651,MC Kidz Only_Music Choice_Tuesday_40
+1652,MC Kidz Only_Music Choice_Wednesday_40
+1653,MC Light Classical_Music Choice_Friday_40
+1654,MC Light Classical_Music Choice_Monday_40
+1655,MC Light Classical_Music Choice_Saturday_40
+1656,MC Light Classical_Music Choice_Sunday_44
+1657,MC Light Classical_Music Choice_Thursday_40
+1658,MC Light Classical_Music Choice_Tuesday_40
+1659,MC Light Classical_Music Choice_Wednesday_40
+1660,MC Love Songs_Music Choice_Friday_40
+1661,MC Love Songs_Music Choice_Monday_40
+1662,MC Love Songs_Music Choice_Tuesday_40
+1663,MC Love Songs_Music Choice_Wednesday_42
+1664,MC Metal_Music Choice_Friday_41
+1665,MC Metal_Music Choice_Saturday_40
+1666,MC Metal_Music Choice_Thursday_40
+1667,MC Metal_Music Choice_Wednesday_42
+1668,MC Mexicana_Music Choice_Friday_44
+1669,MC Mexicana_Music Choice_Monday_40
+1670,MC Mexicana_Music Choice_Thursday_44
+1671,MC Musica Urbana_Music Choice_Monday_40
+1672,MC Party Favorites_Music Choice_Friday_40
+1673,MC Party Favorites_Music Choice_Monday_40
+1674,MC Party Favorites_Music Choice_Saturday_40
+1675,MC Party Favorites_Music Choice_Sunday_40
+1676,MC Party Favorites_Music Choice_Thursday_40
+1677,MC Party Favorites_Music Choice_Tuesday_40
+1678,MC Party Favorites_Music Choice_Wednesday_40
+1679,MC Pop Country_Music Choice_Monday_40
+1680,MC Pop Country_Music Choice_Saturday_40
+1681,MC Pop Country_Music Choice_Sunday_40
+1682,MC Pop Country_Music Choice_Thursday_40
+1683,MC Pop Country_Music Choice_Tuesday_40
+1684,MC Pop Hits_Music Choice_Friday_40
+1685,MC Pop Hits_Music Choice_Monday_40
+1686,MC Pop Hits_Music Choice_Saturday_40
+1687,MC Pop Hits_Music Choice_Sunday_40
+1688,MC Pop Hits_Music Choice_Thursday_40
+1689,MC Pop Hits_Music Choice_Tuesday_40
+1690,MC Pop Hits_Music Choice_Wednesday_40
+1691,MC Pop Latino_Music Choice_Saturday_40
+1692,MC Pop Rhythmic_Music Choice_Saturday_40
+1693,MC Pop Rhythmic_Music Choice_Sunday_40
+1694,MC Pop Rhythmic_Music Choice_Thursday_40
+1695,MC R&B Classics_Music Choice_Sunday_40
+1696,MC R&B Classics_Music Choice_Thursday_40
+1697,MC R&B Classics_Music Choice_Tuesday_40
+1698,MC R&B Soul_Music Choice_Friday_40
+1699,MC R&B Soul_Music Choice_Thursday_40
+1700,MC Rap_Music Choice_Friday_40
+1701,MC Rap_Music Choice_Monday_40
+1702,MC Rap_Music Choice_Saturday_40
+1703,MC Rap_Music Choice_Sunday_40
+1704,MC Rap_Music Choice_Thursday_40
+1705,MC Rap_Music Choice_Tuesday_40
+1706,MC Rap_Music Choice_Wednesday_41
+1707,MC Reggae_Music Choice_Monday_40
+1708,MC Reggae_Music Choice_Thursday_40
+1709,MC Rock Hits_Music Choice_Friday_41
+1710,MC Rock Hits_Music Choice_Saturday_40
+1711,MC Rock Hits_Music Choice_Sunday_40
+1712,MC Rock Hits_Music Choice_Thursday_40
+1713,MC Rock Hits_Music Choice_Tuesday_40
+1714,MC Rock_Music Choice_Friday_40
+1715,MC Rock_Music Choice_Monday_41
+1716,MC Rock_Music Choice_Saturday_40
+1717,MC Rock_Music Choice_Sunday_40
+1718,MC Rock_Music Choice_Tuesday_40
+1719,MC Singers & Swing_Music Choice_Friday_40
+1720,MC Singers & Swing_Music Choice_Monday_43
+1721,MC Singers & Swing_Music Choice_Sunday_40
+1722,MC Singers & Swing_Music Choice_Thursday_40
+1723,MC Singers & Swing_Music Choice_Tuesday_40
+1724,MC Singers & Swing_Music Choice_Wednesday_40
+1725,MC Smooth Jazz_Music Choice_Friday_41
+1726,MC Soft Rock_Music Choice_Friday_41
+1727,MC Soft Rock_Music Choice_Monday_40
+1728,MC Soft Rock_Music Choice_Saturday_40
+1729,MC Soft Rock_Music Choice_Thursday_40
+1730,MC Soft Rock_Music Choice_Tuesday_40
+1731,MC Soft Rock_Music Choice_Wednesday_41
+1732,MC Solid Gold Oldies_Music Choice_Friday_40
+1733,MC Solid Gold Oldies_Music Choice_Monday_40
+1734,MC Solid Gold Oldies_Music Choice_Saturday_40
+1735,MC Solid Gold Oldies_Music Choice_Sunday_40
+1736,MC Solid Gold Oldies_Music Choice_Thursday_40
+1737,MC Solid Gold Oldies_Music Choice_Tuesday_40
+1738,MC Solid Gold Oldies_Music Choice_Wednesday_40
+1739,MC Sounds of the Seasons_Music Choice_Monday_40
+1740,MC Soundscapes_Music Choice_Friday_44
+1741,MC Soundscapes_Music Choice_Monday_40
+1742,MC Soundscapes_Music Choice_Saturday_40
+1743,MC Soundscapes_Music Choice_Sunday_40
+1744,MC Soundscapes_Music Choice_Thursday_44
+1745,MC Soundscapes_Music Choice_Tuesday_40
+1746,MC Soundscapes_Music Choice_Wednesday_40
+1747,MC Stage & Screen_Music Choice_Thursday_40
+1748,MC Stage & Screen_Music Choice_Tuesday_40
+1749,MC Throwback Jamz_Music Choice_Monday_40
+1750,MC Throwback Jamz_Music Choice_Saturday_40
+1751,MC Throwback Jamz_Music Choice_Sunday_42
+1752,MC Throwback Jamz_Music Choice_Thursday_40
+1753,MC Throwback Jamz_Music Choice_Tuesday_43
+1754,MC Throwback Jamz_Music Choice_Wednesday_44
+1755,MC Today's Country_Music Choice_Friday_40
+1756,MC Today's Country_Music Choice_Monday_40
+1757,MC Today's Country_Music Choice_Saturday_40
+1758,MC Today's Country_Music Choice_Sunday_40
+1759,MC Today's Country_Music Choice_Thursday_40
+1760,MC Today's Country_Music Choice_Tuesday_40
+1761,MC Today's Country_Music Choice_Wednesday_40
+1762,MC Toddler Tunes_Music Choice_Wednesday_40
+1763,MC Tropicales_Music Choice_Friday_40
+1764,MC Tropicales_Music Choice_Monday_40
+1765,MC Tropicales_Music Choice_Tuesday_40
+1766,MC Tropicales_Music Choice_Wednesday_41
+1767,MC Y2K_Music Choice_Monday_40
+1768,MC Y2K_Music Choice_Thursday_40
+1769,MC Y2K_Music Choice_Tuesday_40
+1770,MC Y2K_Music Choice_Wednesday_40
+1771,MLB 162_Fox Sports_Tuesday_40
+1772,MLB Baseball_Comcast SportsNet_Friday_40
+1773,MLB Baseball_Comcast SportsNet_Monday_40
+1774,MLB Baseball_Comcast SportsNet_Thursday_40
+1775,MLB Baseball_Comcast SportsNet_Tuesday_40
+1776,MLB Baseball_Comcast SportsNet_Wednesday_40
+1777,MLB Baseball_ESPN_Monday_40
+1778,MLB Baseball_ESPN_Sunday_40
+1779,MLB Baseball_ESPN_Wednesday_40
+1780,MLB Baseball_FOX_Saturday_40
+1781,MLB Baseball_GAME1_Friday_43
+1782,MLB Baseball_GAME1_Thursday_40
+1783,MLB Baseball_GAME1_Tuesday_43
+1784,MLB Baseball_GAME1_Wednesday_44
+1785,MLB Baseball_GAME2_Friday_42
+1786,MLB Baseball_GAME2_Monday_43
+1787,MLB Baseball_GAME2_Saturday_40
+1788,MLB Baseball_GAME2_Thursday_40
+1789,MLB Baseball_GAME3_Monday_40
+1790,MLB Baseball_GAME3_Wednesday_40
+1791,MLB Baseball_GAME4_Saturday_45
+1792,MLB Baseball_GAME6_Friday_40
+1793,MLB Baseball_GAME8_Monday_40
+1794,MLB Baseball_GAME8_Wednesday_40
+1795,MLB Baseball_GAME9_Saturday_44
+1796,MLB Baseball_GAME9_Tuesday_40
+1797,MLB Baseball_GME10_Thursday_44
+1798,MLB Baseball_MLBN_Friday_40
+1799,MLB Baseball_MLBN_Saturday_44
+1800,MLB Baseball_MLBN_Thursday_44
+1801,MLB Baseball_MLBN_Tuesday_40
+1802,MLB Baseball_MNT_Tuesday_40
+1803,MLB Baseball_SNY_Friday_40
+1804,MLB Baseball_SNY_Thursday_40
+1805,MLB Baseball_SNY_Tuesday_40
+1806,MLB Baseball_SNY_Wednesday_40
+1807,MLB Baseball_WGNAMER_Wednesday_40
+1808,MLB Baseball_YES_Friday_40
+1809,MLB Baseball_YES_Monday_40
+1810,MLB Baseball_YES_Tuesday_45
+1811,MLB Baseball_YES_Wednesday_40
+1812,MLB Extra Innings_GAME2_Saturday_44
+1813,MLB Extra Innings_GAME3_Monday_44
+1814,MLB Extra Innings_GAME6_Friday_44
+1815,MLB Extra Innings_GME12_Tuesday_40
+1816,MLB Extra Innings_GME14_Tuesday_40
+1817,MLB Tonight_MLBN_Friday_44
+1818,MLB Tonight_MLBN_Monday_40
+1819,MLB Tonight_MLBN_Thursday_40
+1820,MLB Tonight_MLBN_Wednesday_40
+1821,MLB Whiparound_Fox Sports_Friday_44
+1822,MLB Whiparound_Fox Sports_Monday_44
+1823,MLB Whiparound_Fox Sports_Tuesday_44
+1824,MLL Lacrosse_CBSSN_Thursday_40
+1825,MLS Soccer_Comcast SportsNet_Saturday_40
+1826,MLS Soccer_NBCSN_Saturday_45
+1827,MOCKpocalypse_AXSTV_Thursday_41
+1828,MTV World Stage_PLDHD_Wednesday_42
+1829,Mad Max 2: The Road Warrior_SUNDANC_Thursday_40
+1830,Mad Money_FUSE_Saturday_40
+1831,Mafia's Greatest Hits_AHC_Saturday_42
+1832,Magic City_STARZ_Monday_44
+1833,Magnum  P.I._ENCORE_Friday_40
+1834,Magnum  P.I._ENCORE_Monday_40
+1835,Magnum  P.I._ENCORE_Thursday_40
+1836,Magnum  P.I._ENCORE_Tuesday_40
+1837,Magnum  P.I._ENCORE_Wednesday_40
+1838,Mail Call_MILH_Saturday_44
+1839,Major Crimes_TNT_Monday_40
+1840,Major League Bowhunter_SPMNHD_Tuesday_41
+1841,Major League Bowhunter_SPRTMAN_Tuesday_41
+1842,Major League Fishing_OUTD_Thursday_40
+1843,Making: The Leftovers_HBO_Friday_43
+1844,Mama_MAX_Tuesday_40
+1845,Man Fire Food_COOK_Tuesday_40
+1846,Man of Steel_HBO_Saturday_41
+1847,Man-Thing_CHILLER_Thursday_44
+1848,Manhunters: Fugitive Task Force_CIN_Monday_40
+1849,Manna-Fest With Perry Stone_CHURCH_Saturday_40
+1850,Manna-Fest With Perry Stone_TBN_Friday_43
+1851,Marijuana in America: Colorado Pot Rush_CNBC_Sunday_40
+1852,Marmaduke_HUB_Friday_40
+1853,Maron_IFC_Thursday_44
+1854,Marriage Boot Camp: Reality Stars_WE_Friday_40
+1855,Married to Medicine_BRAVO_Sunday_42
+1856,Married to Medicine_BRAVO_Thursday_45
+1857,Marrying the Game_VH1_Wednesday_45
+1858,Martin Lawrence Presents 1st Amendment Standup_ENCORE_Friday_44
+1859,Martin Lawrence Presents 1st Amendment Standup_ENCORE_Saturday_44
+1860,Martin_MTV_Sunday_44
+1861,MasterChef_FOX_Friday_40
+1862,MasterChef_FOX_Monday_40
+1863,Masterpiece Mystery!_PBS_Sunday_42
+1864,Masterpiece Mystery!_PBS_Thursday_42
+1865,Masters of Sex_SHOW_Thursday_44
+1866,Maternal Obsession_LMN_Wednesday_44
+1867,Mathew's Dominant Bucks_SPMNHD_Wednesday_42
+1868,Mathew's Dominant Bucks_SPRTMAN_Wednesday_42
+1869,Mathews Adventure Bowhunter_OUTD_Monday_44
+1870,Maximum Archery Big Five Tour_SPMNHD_Friday_45
+1871,Maximum Archery Big Five Tour_SPRTMAN_Friday_45
+1872,McBride: Anybody Here Murder Marty?_HMC_Monday_42
+1873,McBride: Dogged_HMC_Thursday_42
+1874,McBride: Fallen Idol_HMC_Tuesday_42
+1875,McBride: Requiem_HMC_Friday_42
+1876,McBride: Semper Fi_HMC_Wednesday_42
+1877,Meatballs_ENCORE_Thursday_43
+1878,Mecum Auctions: Collector Cars and More_NBCSN_Monday_40
+1879,Mecum Auctions: Collector Cars and More_NBCSN_Sunday_40
+1880,Meet the Fockers_AMC_Tuesday_43
+1881,Mega Dens_DIY_Sunday_40
+1882,Mega RV Countdown_TRAV_Monday_42
+1883,Mega RV Countdown_TRAV_Thursday_42
+1884,Mega RV Countdown_TRAV_Tuesday_42
+1885,Mega RV Countdown_TRAV_Wednesday_42
+1886,Megalodon: The Monster Shark Lives_DSC_Thursday_40
+1887,Megastorm: World's Biggest Typhoon_SCIENCE_Friday_44
+1888,Megastorm_SCIENCE_Friday_40
+1889,Men in Black 3_STARZ_Wednesday_40
+1890,Men in Black II_SPIKETV_Wednesday_43
+1891,Men in Black_SPIKETV_Wednesday_40
+1892,Menace II Society_FUSE_Thursday_40
+1893,Mercenary for Justice_REELZ_Thursday_40
+1894,Merle Haggard Live at Billy Bob's_AXSTV_Saturday_45
+1895,MetroFocus_PBS_Thursday_41
+1896,Mets Classics_SNY_Monday_40
+1897,Mets Postgame_SNY_Friday_44
+1898,Mets Postgame_SNY_Thursday_44
+1899,Mets Postgame_SNY_Tuesday_44
+1900,Mets Postgame_SNY_Wednesday_44
+1901,Mi Querido Viejo_TELE_Sunday_42
+1902,Michael Jackson's This Is It_PLDHD_Monday_42
+1903,Michael Jackson: A Tribute_FUSE_Wednesday_40
+1904,Mickey Mouse Clubhouse_DISN_Friday_42
+1905,Mickey Mouse Clubhouse_DISN_Monday_42
+1906,Mickey Mouse Clubhouse_DISN_Saturday_42
+1907,Mickey Mouse Clubhouse_DISN_Sunday_42
+1908,Mickey Mouse Clubhouse_DISN_Thursday_42
+1909,Mickey Mouse Clubhouse_DISN_Tuesday_42
+1910,Mickey Mouse Clubhouse_DISN_Wednesday_42
+1911,Mickey Mouse_DISN_Monday_44
+1912,Mickey Mouse_DISN_Thursday_43
+1913,Mickey Mouse_DISN_Tuesday_45
+1914,Mickey Mouse_DISN_Wednesday_44
+1915,Midwest Country_RFDTV_Saturday_41
+1916,Mighty Med_DISN_Saturday_44
+1917,Mighty Med_DXD_Monday_41
+1918,Mighty Med_DXD_Tuesday_45
+1919,Mighty Ships_SMTHHD_Saturday_44
+1920,Mike & Molly_CBS_Monday_42
+1921,Million Dollar Listing Miami_BRAVO_Wednesday_42
+1922,Million Dollar Listing New York_BRAVO_Wednesday_40
+1923,Mined in America Finale_SHOPHQ_Wednesday_44
+1924,Mined in America_SHOPHQ_Wednesday_40
+1925,Minor League Baseball_BRC13HD_Saturday_40
+1926,Minor League Baseball_BRC13HD_Thursday_40
+1927,Minor League Baseball_CBSSN_Thursday_44
+1928,Miracle Landing on the Hudson_NGC_Wednesday_42
+1929,Miracle_HDNETMV_Friday_40
+1930,Mirror/Mirror_ABC_Friday_41
+1931,Mischief Night_CHILLER_Saturday_40
+1932,Miss March_FXX_Saturday_45
+1933,Mission to Mars_STARZ_Wednesday_40
+1934,Mission: Impossible_HBO_Friday_40
+1935,Mistresses_ABC_Monday_44
+1936,Modern Family_ABC_Wednesday_42
+1937,Modern Family_MNT_Sunday_44
+1938,Modern Family_USA_Friday_40
+1939,Mollie B Polka Party_RFDTV_Saturday_44
+1940,Mom_CBS_Monday_41
+1941,Moments of Glory_YES_Thursday_43
+1942,Monk_MNT_Friday_40
+1943,Monk_UHD_Friday_40
+1944,Monster Croc Hunt_NGC_Wednesday_44
+1945,Monster Jam_Fox Sports_Friday_40
+1946,Monster Jam_Fox Sports_Monday_40
+1947,Monsters Inside Me_DFH_Monday_44
+1948,Monsters and Mysteries in America_DEST_Saturday_40
+1949,Monsters vs. Aliens_NIK_Saturday_42
+1950,Monsters vs. Aliens_NIK_Wednesday_44
+1951,Monty Roberts Backstage Pass_HRTV_Tuesday_42
+1952,Monumental Mysteries_TRAV_Friday_42
+1953,Moonrise Kingdom_MAX_Friday_40
+1954,More Than Money_BRC13_Tuesday_40
+1955,Mother Angelica Live Classics_EWTN_Tuesday_40
+1956,Motion_ABC_Thursday_40
+1957,Motive_ABC_Wednesday_44
+1958,Motor City Masters_TRUTV_Sunday_44
+1959,Motor City Masters_TRUTV_Tuesday_44
+1960,Motorcycle Racing_NBCSN_Tuesday_44
+1961,Mountain Men_HISTORY_Sunday_40
+1962,Mountain Monsters: Uncaged_DEST_Friday_42
+1963,Mountain Monsters_DEST_Friday_40
+1964,Movie Loft_BRC13_Thursday_42
+1965,Movie Loft_BRC13_Wednesday_43
+1966,Movie_SMCHILD_Saturday_44
+1967,Moving Country_GAC_Wednesday_42
+1968,Mr. 3000_ENCORE_Tuesday_43
+1969,Mr. Baseball_MLBN_Saturday_40
+1970,Mr. Deeds_STARZ_Wednesday_43
+1971,Mr. Magorium's Wonder Emporium_NIK_Friday_44
+1972,Mr. Magorium's Wonder Emporium_NIK_Sunday_40
+1973,Mulholland Dr._STARZ_Monday_40
+1974,Murder in the First_TNT_Monday_44
+1975,Museum Secrets Revealed_SMTHHD_Tuesday_40
+1976,Music Revolution_STARZ_Wednesday_44
+1977,Music Videos_JUCE_Sunday_41
+1978,My Cat From Hell_APL_Saturday_40
+1979,My Dad Is a Soccer Mom_UP_Sunday_40
+1980,My Darling Clementine_ENCORE_Saturday_40
+1981,My Family Recipe Rocks!_ABC_Sunday_41
+1982,My Family Recipe Rocks!_ABC_Tuesday_40
+1983,My Family Recipe Rocks!_ABC_Wednesday_40
+1984,My Gal Sunday_HMC_Saturday_40
+1985,My Grandmother's Ravioli_COOK_Friday_44
+1986,My Haunted House_LMN_Saturday_40
+1987,Mysteries at the Museum_TRAV_Friday_44
+1988,Mystery Diagnosis_DFH_Monday_40
+1989,Mystery Diners_COOK_Tuesday_44
+1990,Mystery Diners_FOOD_Monday_44
+1991,Mystery Girls_ABC_Thursday_44
+1992,Mystery Girls_ABC_Wednesday_41
+1993,Mystery Millionaire_WE_Friday_44
+1994,Mystery Woman: In the Shadows_HMC_Sunday_42
+1995,Mystery Woman: Redemption_HMC_Sunday_40
+1996,Myth Hunters_AHC_Sunday_42
+1997,MythBusters_SCIENCE_Sunday_40
+1998,NASA's Unexplained Files_SCIENCE_Tuesday_42
+1999,NASCAR Racing_ESPN_Friday_40
+2000,NASCAR Racing_Fox Sports_Thursday_40
+2001,NASCAR Racing_TNT_Saturday_40
+2002,NBA GameTime_NBATV_Tuesday_42
+2003,NBA Playoffs Playback_NBATV_Sunday_40
+2004,NBA Rooks_NBATV_Tuesday_44
+2005,NBA TV Draft HQ_NBATV_Monday_42
+2006,NBA TV Draft HQ_NBATV_Tuesday_40
+2007,NBA TV Draft HQ_NBATV_Wednesday_40
+2008,NBA TV's Mock Draft 2014_NBATV_Wednesday_42
+2009,NCIS: Los Angeles_CBS_Tuesday_42
+2010,NCIS_CBS_Tuesday_40
+2011,NFL Total Access: Week in Review_NFLNET_Saturday_40
+2012,NFL Total Access_NFLNET_Friday_40
+2013,NFL Total Access_NFLNET_Monday_40
+2014,NFL Total Access_NFLNET_Thursday_40
+2015,NFL Total Access_NFLNET_Tuesday_40
+2016,NFL Total Access_NFLNET_Wednesday_40
+2017,NHL Tonight_NHLNET_Saturday_40
+2018,NHL Tonight_NHLNET_Sunday_40
+2019,NHL Tonight_NHLNET_Thursday_42
+2020,NHL Tonight_NHLNET_Wednesday_42
+2021,NHRA Drag Racing_ESPN_Saturday_40
+2022,NOVA_PBS_Wednesday_42
+2023,NRA All Access_OUTD_Sunday_44
+2024,NRL Rugby_Fox Sports_Monday_42
+2025,NRL Rugby_Fox Sports_Saturday_40
+2026,NRL Rugby_Fox Sports_Sunday_40
+2027,NRL Rugby_Fox Sports_Thursday_42
+2028,NRL Rugby_Fox Sports_Tuesday_43
+2029,NRL Rugby_Fox Sports_Wednesday_42
+2030,NY Med_ABC_Thursday_44
+2031,NYC Arts_PBS_Thursday_40
+2032,Naked and Afraid: Uncensored_DSC_Sunday_42
+2033,Naked and Afraid_DSC_Sunday_40
+2034,Naked and Afraid_DSC_Wednesday_44
+2035,Nancy Grace_HLN_Monday_40
+2036,Nancy Grace_HLN_Thursday_40
+2037,Nancy Grace_HLN_Tuesday_40
+2038,Nancy Grace_HLN_Wednesday_40
+2039,National Lampoon's Vacation_AMC_Tuesday_40
+2040,National Security_ENCORE_Wednesday_44
+2041,National Treasure_STARZ_Saturday_45
+2042,National Treasure_STARZ_Tuesday_40
+2043,Natural Born Killers_MAX_Thursday_40
+2044,Nature Island Challenge_OUTSDSD_Friday_44
+2045,Nature_PBS_Wednesday_40
+2046,Navy SEALS_ENCORE_Friday_45
+2047,Nazis: Evolution of Evil_AHC_Friday_40
+2048,Nazis: Evolution of Evil_AHC_Monday_40
+2049,Neven Maguire: Home Chef_PBS_Friday_43
+2050,Neven Maguire: Home Chef_PBS_Monday_43
+2051,Neven Maguire: Home Chef_PBS_Sunday_43
+2052,Neven Maguire: Home Chef_PBS_Thursday_43
+2053,Neven Maguire: Home Chef_PBS_Tuesday_43
+2054,Neven Maguire: Home Chef_PBS_Wednesday_43
+2055,New Jack City_VH1_Tuesday_44
+2056,New York Yankees Postgame_YES_Friday_44
+2057,New York Yankees Postgame_YES_Monday_44
+2058,New York Yankees Postgame_YES_Wednesday_44
+2059,News Update_CCTVNWS_Friday_42
+2060,News Update_CCTVNWS_Monday_42
+2061,News Update_CCTVNWS_Sunday_42
+2062,News/Chasing NJ_MNT_Friday_44
+2063,News/Chasing NJ_MNT_Monday_44
+2064,News/Chasing NJ_MNT_Thursday_44
+2065,News/Chasing NJ_MNT_Tuesday_44
+2066,News/Chasing NJ_MNT_Wednesday_44
+2067,NewsChannel 10 24/7 News & Weather_LWEA_Friday_40
+2068,NewsChannel 10 24/7 News & Weather_LWEA_Monday_40
+2069,NewsChannel 10 24/7 News & Weather_LWEA_Saturday_40
+2070,NewsChannel 10 24/7 News & Weather_LWEA_Sunday_40
+2071,NewsChannel 10 24/7 News & Weather_LWEA_Thursday_40
+2072,NewsChannel 10 24/7 News & Weather_LWEA_Tuesday_40
+2073,NewsChannel 10 24/7 News & Weather_LWEA_Wednesday_40
+2074,Newswatch 16 at 10pm_ABC_Friday_44
+2075,Newswatch 16 at 10pm_ABC_Monday_44
+2076,Newswatch 16 at 10pm_ABC_Saturday_44
+2077,Newswatch 16 at 10pm_ABC_Sunday_44
+2078,Newswatch 16 at 10pm_ABC_Thursday_44
+2079,Newswatch 16 at 10pm_ABC_Tuesday_44
+2080,Newswatch 16 at 10pm_ABC_Wednesday_44
+2081,Niagara Falls: Fatal Attraction_DEST_Wednesday_44
+2082,Nice to meet you_Independent_Friday_43
+2083,Nick Cannon Presents: Wild 'n Out_MTV_Saturday_40
+2084,Nick Cannon Presents: Wild 'n Out_MTV_Tuesday_42
+2085,NickMom Night Out_NIK_Saturday_44
+2086,NickMom Night Out_NIK_Sunday_45
+2087,Nightline Prime_ABC_Saturday_44
+2088,Nightmare Next Door_ID_Wednesday_40
+2089,Nine Months_HBO_Thursday_43
+2090,No Strings Attached_BRAVO_Saturday_40
+2091,Nock On TV_SPMNHD_Friday_42
+2092,Nock On TV_SPRTMAN_Friday_42
+2093,North American Whitetail_SPMNHD_Wednesday_40
+2094,North American Whitetail_SPRTMAN_Wednesday_40
+2095,North Woods Law: On the Hunt_APL_Thursday_40
+2096,North Woods Law_APL_Thursday_42
+2097,Note to Self_ENCORE_Sunday_44
+2098,Notting Hill_FLIX_Sunday_44
+2099,Now You See Me_MAX_Friday_44
+2100,Now You See Me_MAX_Tuesday_44
+2101,Nurse Betty_FLIX_Thursday_44
+2102,Nurse Jackie_SHOW_Friday_45
+2103,Nurse Jackie_SHOW_Monday_44
+2104,Nurse Jackie_SHOW_Sunday_42
+2105,Nurse Jackie_SHOW_Wednesday_45
+2106,OMG! EMT!_DFH_Friday_44
+2107,Ocean's Twelve_HBO_Monday_40
+2108,Octonauts_DISN_Friday_44
+2109,Octonauts_DISN_Monday_44
+2110,Octonauts_DISN_Saturday_44
+2111,Octonauts_DISN_Sunday_44
+2112,Octonauts_DISN_Thursday_44
+2113,Octonauts_DISN_Tuesday_44
+2114,Octonauts_DISN_Wednesday_44
+2115,Off the Grid_NBCSN_Saturday_42
+2116,Offbeat Eats With Jim Stacy_COOK_Thursday_42
+2117,Oh Yeah ..._SNY_Sunday_44
+2118,Olive the Ostrich_SPROUT_Friday_44
+2119,Olive the Ostrich_SPROUT_Monday_44
+2120,Olive the Ostrich_SPROUT_Saturday_44
+2121,Olive the Ostrich_SPROUT_Sunday_44
+2122,Olive the Ostrich_SPROUT_Thursday_44
+2123,Olive the Ostrich_SPROUT_Tuesday_44
+2124,Olive the Ostrich_SPROUT_Wednesday_44
+2125,On Angel's Wings_UP_Saturday_40
+2126,On Demand_VODDM_Friday_40
+2127,On Demand_VODDM_Monday_40
+2128,On Demand_VODDM_Saturday_40
+2129,On Demand_VODDM_Sunday_40
+2130,On Demand_VODDM_Thursday_40
+2131,On Demand_VODDM_Tuesday_40
+2132,On Demand_VODDM_Wednesday_40
+2133,On The Living Edge_TBN_Monday_41
+2134,On the Case With Paula Zahn_ID_Sunday_40
+2135,On the Road_SPMNHD_Saturday_45
+2136,On the Road_SPRTMAN_Saturday_45
+2137,Operaci¢n Repo_MUN2_Monday_42
+2138,Operation Change_OWN_Monday_44
+2139,Oprah's Master Class_OWN_Sunday_40
+2140,Oprah: Where Are They Now?_OWN_Friday_40
+2141,Oprah: Where Are They Now?_OWN_Sunday_42
+2142,Orgazmo_HBO_Saturday_44
+2143,Our America With Lisa Ling_OWN_Thursday_40
+2144,Our Town Luzerne_PBS_Saturday_42
+2145,Out in the Open_BRC13_Friday_43
+2146,Out in the Open_BRC13_Thursday_43
+2147,Out of Time_TNT_Friday_44
+2148,Outdoor Passion_WFNUS_Thursday_42
+2149,Outdoors in the Heartland_OUTD_Saturday_40
+2150,Outfitters Rating TV_SPMNHD_Wednesday_43
+2151,Outfitters Rating TV_SPRTMAN_Wednesday_43
+2152,Outlanders_SPMNHD_Thursday_44
+2153,Outlaw Empires_AHC_Saturday_40
+2154,Outlaw Prophet: Warren Jeffs_LIFE_Saturday_40
+2155,Outlaw Prophet: Warren Jeffs_LIFE_Sunday_40
+2156,Outrageous Acts of Science_SCIENCE_Saturday_40
+2157,Outrageous Acts of Science_SCIENCE_Thursday_44
+2158,Outrageous Wedding Cakes_FOOD_Saturday_42
+2159,Overhaulin'_VEL_Friday_44
+2160,Overhaulin'_VEL_Tuesday_42
+2161,Oz the Great and Powerful_STARZ_Thursday_40
+2162,P. Allen Smith's Garden to Table_PBS_Saturday_43
+2163,P.S. I Love You_OXYGEN_Friday_40
+2164,PA Crossfire_BRC13_Friday_41
+2165,PA Live! in Prime_NBC_Thursday_40
+2166,PBA Bowling_CBSSN_Tuesday_40
+2167,PBR Heroes & Legends_RFDTV_Wednesday_41
+2168,PCN Evening - pcntv.com_PCN_Friday_44
+2169,PCN Evening - pcntv.com_PCN_Monday_44
+2170,PCN Evening - pcntv.com_PCN_Sunday_44
+2171,PCN Evening - pcntv.com_PCN_Thursday_44
+2172,PCN Evening - pcntv.com_PCN_Tuesday_44
+2173,PCN Evening - pcntv.com_PCN_Wednesday_44
+2174,PCN PM - pcntv.com_PCN_Saturday_40
+2175,PCN PM - pcntv.com_PCN_Sunday_40
+2176,PCN Primetime - pcntv.com_PCN_Friday_40
+2177,PCN Primetime - pcntv.com_PCN_Monday_40
+2178,PCN Primetime - pcntv.com_PCN_Thursday_40
+2179,PCN Primetime - pcntv.com_PCN_Tuesday_40
+2180,PCN Primetime - pcntv.com_PCN_Wednesday_40
+2181,PGA Tour Golf_GOLF_Friday_40
+2182,PGA Tour Golf_GOLF_Saturday_40
+2183,PGA Tour Golf_GOLF_Sunday_40
+2184,PGA Tour Golf_GOLF_Thursday_40
+2185,PGA Tour Golf_GOLF_Wednesday_42
+2186,PIX11 News at Ten With Kaity Tong_CW_Saturday_44
+2187,PIX11 News at Ten With Kaity Tong_CW_Sunday_44
+2188,PIX11 News at Ten_CW_Friday_44
+2189,PIX11 News at Ten_CW_Monday_44
+2190,PIX11 News at Ten_CW_Thursday_44
+2191,PIX11 News at Ten_CW_Tuesday_44
+2192,PIX11 News at Ten_CW_Wednesday_44
+2193,PIX11 Sports Desk_CW_Friday_45
+2194,PM Style With Lisa Robertson_QVC_Monday_40
+2195,PMC: Pathways to Healthy Living_BRC13_Monday_41
+2196,PMC: Pathways to Healthy Living_BRC13_Tuesday_42
+2197,PMC: Pathways to Healthy Living_BRC13_Wednesday_41
+2198,POV_PBS_Monday_44
+2199,PURE 12 Pack Countdown_CMTV_Friday_42
+2200,PURE Music_CMTV_Friday_40
+2201,PURE Music_CMTV_Monday_40
+2202,PURE Music_CMTV_Saturday_40
+2203,PURE Music_CMTV_Sunday_40
+2204,PURE Music_CMTV_Thursday_40
+2205,PURE Music_CMTV_Tuesday_40
+2206,PURE Music_CMTV_Wednesday_40
+2207,Pac-Man and the Ghostly Adventures_DXD_Saturday_41
+2208,Pacific Rim_HBO_Monday_40
+2209,Pacific Rim_HBO_Saturday_40
+2210,Paid Programming_Independent_Sunday_44
+2211,Paid Programming_Independent_Thursday_45
+2212,Pair of Kings_DXD_Thursday_45
+2213,Pajanimals_SPROUT_Friday_40
+2214,Pajanimals_SPROUT_Monday_40
+2215,Pajanimals_SPROUT_Saturday_40
+2216,Pajanimals_SPROUT_Sunday_40
+2217,Pajanimals_SPROUT_Thursday_40
+2218,Pajanimals_SPROUT_Tuesday_40
+2219,Pajanimals_SPROUT_Wednesday_40
+2220,Pan's Labyrinth_SUNDANC_Sunday_44
+2221,Paranormal Entity_CHILLER_Friday_40
+2222,Parelli Natural Horsemanship_RFDTV_Wednesday_44
+2223,Parental Discretion With Stefanie Wilder-Taylor_NIK_Sunday_44
+2224,Parkland_STARZ_Thursday_44
+2225,Parks and Recreation_ESQTV_Friday_40
+2226,Parks and Recreation_ESQTV_Monday_40
+2227,Party Down South_CMTV_Thursday_40
+2228,Par sitos Asesinos_DSC_Saturday_42
+2229,Pasi¢n Mundial_ENLUSA_Saturday_42
+2230,Passionate Living With David Uth_CHURCH_Sunday_43
+2231,Pawn Stars_HISTORY_Saturday_40
+2232,Pawn Stars_HISTORY_Thursday_40
+2233,Pawn Stars_HISTORY_Tuesday_40
+2234,Pearl Harbor_BRAVO_Friday_40
+2235,Penn & Teller: Bulls...!_SHOW_Saturday_44
+2236,Pennsylvania Polka_PBS_Saturday_40
+2237,Penny Dreadful_SHOW_Monday_42
+2238,Penny Dreadful_SHOW_Saturday_40
+2239,Penny Dreadful_SHOW_Sunday_40
+2240,Penny Dreadful_SHOW_Thursday_44
+2241,Penny Dreadful_SHOW_Tuesday_44
+2242,Penny Dreadful_SHOW_Wednesday_42
+2243,People Like Us_TMC_Tuesday_42
+2244,Peppa Pig_NIK_Friday_42
+2245,Peppa Pig_NIK_Monday_42
+2246,Peppa Pig_NIK_Saturday_42
+2247,Peppa Pig_NIK_Sunday_42
+2248,Peppa Pig_NIK_Thursday_42
+2249,Peppa Pig_NIK_Tuesday_42
+2250,Peppa Pig_NIK_Wednesday_42
+2251,Perception_TNT_Tuesday_44
+2252,Percy Jackson: Sea of Monsters_MAX_Saturday_40
+2253,Perfect Stranger_ENCORE_Sunday_40
+2254,Perricone MD Cosmeceuticals_QVC_Saturday_44
+2255,Person of Interest_CBS_Tuesday_44
+2256,Pescador_HBO_Thursday_40
+2257,Petersen's Hunting Adventures_SPMNHD_Sunday_42
+2258,Petersen's Hunting Adventures_SPRTMAN_Sunday_42
+2259,Phil Phillips Unleashed_SPMNHD_Saturday_44
+2260,Phil Phillips Unleashed_SPRTMAN_Saturday_44
+2261,Philadelphia_UHD_Monday_42
+2262,Phineas and Ferb_DISN_Tuesday_44
+2263,Phineas and Ferb_DXD_Saturday_44
+2264,Phineas and Ferb_DXD_Sunday_44
+2265,Phineas and Ferb_DXD_Thursday_42
+2266,Phineas and Ferb_DXD_Tuesday_42
+2267,Phineas and Ferb_DXD_Wednesday_42
+2268,Picture of Health_BRC13_Saturday_40
+2269,Picture of Health_BRC13_Sunday_41
+2270,Pigman: The Series_SPRTMAN_Sunday_40
+2271,Pink Floyd: The Story of 'Wish You Were Here'_VH1_Tuesday_40
+2272,Pirate Radio_FUSE_Friday_40
+2273,Pitch Perfect_MAX_Tuesday_42
+2274,Pitch Perfect_MAX_Wednesday_40
+2275,Planes_STARZ_Sunday_40
+2276,Playing Lessons From the Pros_GOLF_Wednesday_40
+2277,Plays of the Week_MLBN_Sunday_45
+2278,Please Like Me_PIVOT_Wednesday_40
+2279,Pocono Landscape Challenge_BRC13_Thursday_41
+2280,Pocono Mountains Today_BRC13_Monday_43
+2281,Pocono Mountains Today_BRC13_Wednesday_40
+2282,Poker Night in America_CBSSN_Sunday_44
+2283,Pokmon: DP Galactic Battles_BOOM_Friday_40
+2284,Pokmon: DP Galactic Battles_BOOM_Monday_40
+2285,Pokmon: DP Galactic Battles_BOOM_Thursday_40
+2286,Pokmon: DP Galactic Battles_BOOM_Tuesday_40
+2287,Pokmon: DP Galactic Battles_BOOM_Wednesday_40
+2288,Polar Bears: Living on Thin Ice_SMTHHD_Wednesday_42
+2289,Police Academy 6: City Under Siege_IFC_Thursday_40
+2290,Police Academy_IFC_Thursday_40
+2291,Police Academy_IFC_Wednesday_42
+2292,Polo_HRTV_Saturday_44
+2293,Powder_SHOW_Thursday_40
+2294,Power Rangers Super Megaforce_NIK_Saturday_40
+2295,PowerPoint_CHURCH_Sunday_40
+2296,Power_STARZ_Friday_40
+2297,Power_STARZ_Monday_42
+2298,Power_STARZ_Saturday_40
+2299,Power_STARZ_Sunday_40
+2300,Power_STARZ_Thursday_40
+2301,Power_STARZ_Tuesday_40
+2302,Power_STARZ_Wednesday_44
+2303,Praise the Lord_TBN_Friday_44
+2304,Praise the Lord_TBN_Monday_44
+2305,Praise the Lord_TBN_Thursday_44
+2306,Praise the Lord_TBN_Tuesday_44
+2307,Praise the Lord_TBN_Wednesday_44
+2308,Precious World of Pearl Jewelry_JTV_Friday_40
+2309,Predator_ENCORE_Saturday_40
+2310,Pregnant Behind Bars_DFH_Thursday_40
+2311,Pretty Little Liars_ABC_Tuesday_40
+2312,Priest_SYFY_Sunday_40
+2313,Priest_SYFY_Wednesday_42
+2314,Primetime Gems_JTV_Tuesday_40
+2315,Primos Truth About Hunting_OUTD_Sunday_43
+2316,Private Parts_VH1_Saturday_41
+2317,Private Parts_VH1_Thursday_40
+2318,Proactiv Plus clears acne faster for radiant skin_Independent_Monday_44
+2319,Problem Child 2_HUB_Tuesday_40
+2320,Professional Roughstock Series_RFDTV_Friday_44
+2321,Project Runway_LIFE_Friday_40
+2322,Project Runway_LIFE_Monday_40
+2323,Project Runway_LIFE_Thursday_40
+2324,Project Runway_LIFE_Tuesday_40
+2325,Project Runway_LIFE_Wednesday_40
+2326,Prom Night_ENCORE_Saturday_42
+2327,Prometheus_HBO_Tuesday_42
+2328,Proof_STARZ_Wednesday_40
+2329,Property Brothers_HGTV_Saturday_40
+2330,Property Brothers_HGTV_Wednesday_42
+2331,Psych_ESQTV_Sunday_40
+2332,Pulp Fiction_ESQTV_Saturday_40
+2333,Q & A_CSPAN_Sunday_40
+2334,Quantum of Solace_BBCA_Friday_42
+2335,Quartet_SHOW_Thursday_42
+2336,Queer as Folk_SHOCSE_Friday_40
+2337,Queer as Folk_SHOCSE_Monday_40
+2338,Queer as Folk_SHOCSE_Thursday_40
+2339,Queer as Folk_SHOCSE_Tuesday_40
+2340,Queer as Folk_SHOCSE_Wednesday_40
+2341,Quest Means Business_CNN_Friday_42
+2342,Quest Means Business_CNN_Monday_42
+2343,Quest Means Business_CNN_Thursday_42
+2344,Quest Means Business_CNN_Tuesday_42
+2345,Quest Means Business_CNN_Wednesday_42
+2346,Qu Pobres Tan Ricos_UNI_Friday_44
+2347,Qu Pobres Tan Ricos_UNI_Monday_44
+2348,Qu Pobres Tan Ricos_UNI_Thursday_44
+2349,Qu Pobres Tan Ricos_UNI_Tuesday_44
+2350,Qu Pobres Tan Ricos_UNI_Wednesday_44
+2351,R.I.P.D._HBO_Friday_44
+2352,R.I.P.D._HBO_Sunday_41
+2353,R.I.P.D._HBO_Thursday_40
+2354,REAL Sports With Bryant Gumbel_HBO_Friday_42
+2355,REAL Sports With Bryant Gumbel_HBO_Thursday_40
+2356,REAL Sports With Bryant Gumbel_HBO_Tuesday_44
+2357,RMEF Team Elk_OUTD_Thursday_45
+2358,Raising Arizona_ENCORE_Monday_42
+2359,Raising Arizona_ENCORE_Saturday_45
+2360,Rake_FOX_Friday_42
+2361,Rally America_NBCSN_Saturday_40
+2362,Ram Outdoorsman_OUTD_Monday_45
+2363,Rambo: First Blood_CMTV_Friday_42
+2364,Rambo: First Blood_CMTV_Saturday_40
+2365,Rambo_IFC_Sunday_40
+2366,Rameses: Wrath of God or Man?_AHC_Thursday_42
+2367,Randy Cunningham: 9th Grade Ninja_DXD_Saturday_42
+2368,Randy Cunningham: 9th Grade Ninja_DXD_Sunday_42
+2369,Ray Donovan_SHOW_Thursday_40
+2370,Real News_BLAZETV_Friday_40
+2371,Real Time With Bill Maher_HBO_Friday_44
+2372,Real Time With Bill Maher_HBO_Monday_40
+2373,Real Time With Bill Maher_HBO_Thursday_42
+2374,Real Time With Bill Maher_HBO_Tuesday_44
+2375,Realtree Monster Bucks_SPMNHD_Tuesday_40
+2376,Realtree Monster Bucks_SPRTMAN_Tuesday_40
+2377,Realtree Outdoors_OUTD_Sunday_42
+2378,Reba_CMTV_Friday_40
+2379,Rebel Road_VEL_Saturday_40
+2380,Reckless_CBS_Sunday_42
+2381,Recon Revisited_DODNWS_Thursday_41
+2382,Rectify_SUNDANC_Sunday_42
+2383,Rectify_SUNDANC_Thursday_42
+2384,Red 2_HBO_Saturday_40
+2385,Red 2_HBO_Wednesday_44
+2386,Red Bull X Fighters_Fox Sports_Saturday_40
+2387,Red Bull: Air Race_Fox Sports_Monday_41
+2388,Red Bull: Air Race_Fox Sports_Saturday_42
+2389,Red Dragon_MAX_Friday_45
+2390,Red Dragon_MAX_Thursday_40
+2391,Red Steagall West of Wall Street_RFDTV_Monday_43
+2392,Reel Rock_OUTSDSD_Sunday_43
+2393,Rehab Addict_DIY_Thursday_44
+2394,Relentless Pursuit_SPMNHD_Friday_41
+2395,Relentless Pursuit_SPRTMAN_Friday_41
+2396,Renaissance Man_HDNETMV_Friday_42
+2397,Renew Me_Independent_Sunday_40
+2398,Renovation Realities_DIY_Saturday_40
+2399,Rescue Heroes_QUBO_Friday_42
+2400,Rescue Heroes_QUBO_Thursday_42
+2401,Rescue Heroes_QUBO_Wednesday_42
+2402,Rescue My Renovation_DIY_Wednesday_40
+2403,Resident Evil: Extinction_SYFY_Monday_42
+2404,Resident Evil: Extinction_SYFY_Tuesday_40
+2405,Restaurant Stakeout_FOOD_Wednesday_40
+2406,Restaurant Takeover_COOK_Monday_44
+2407,Restaurant: Impossible_FOOD_Wednesday_44
+2408,Return to Amish_TLC_Sunday_44
+2409,Return to Me_HBO_Sunday_40
+2410,Return to Paradise_SHOW_Friday_42
+2411,Rev Run's Sunday Suppers_COOK_Sunday_44
+2412,Rev Run's Sunday Suppers_COOK_Wednesday_41
+2413,Rewrapped_FOOD_Monday_40
+2414,Rhema Praise With Kenneth Hagin Jr._CHURCH_Sunday_44
+2415,Richard Winters_HRTV_Tuesday_44
+2416,Rick Steves' Europe_PBS_Friday_45
+2417,Rick Steves' Europe_PBS_Monday_45
+2418,Rick Steves' Europe_PBS_Sunday_45
+2419,Rick Steves' Europe_PBS_Thursday_45
+2420,Rick Steves' Europe_PBS_Tuesday_45
+2421,Rick Steves' Europe_PBS_Wednesday_45
+2422,Rick and Morty_TOON_Sunday_42
+2423,Ridiculousness_MTV_Saturday_40
+2424,Ridiculousness_MTV_Wednesday_42
+2425,Ridin' Horses With Kerry Kuhn_HRTV_Sunday_43
+2426,Riding to Win_HRTV_Sunday_44
+2427,Riding to Win_HRTV_Wednesday_41
+2428,Rising Star_ABC_Sunday_42
+2429,Rizzoli & Isles_TNT_Tuesday_40
+2430,Road Less Traveled_OUTSDSD_Wednesday_42
+2431,Road Trip_MAX_Monday_44
+2432,Road Trip_MAX_Sunday_40
+2433,Road to Total Slaughter_FUSE_Thursday_44
+2434,Road to the White House_CSPAN_Sunday_44
+2435,Roadtrip With G. Garvin_COOK_Wednesday_42
+2436,Rob Dyrdek's Fantasy Factory_MTV_Friday_40
+2437,Rob Dyrdek's Fantasy Factory_MTV_Sunday_40
+2438,Robin Hood: Prince of Thieves_ENCORE_Sunday_43
+2439,Robin Hood: Prince of Thieves_ENCORE_Thursday_40
+2440,Robocop_ENCORE_Wednesday_44
+2441,Rock Legends_AXSTV_Tuesday_42
+2442,Rock of Ages_MAX_Wednesday_42
+2443,Rockshow_PLDHD_Tuesday_40
+2444,Rockshow_VH1_Wednesday_40
+2445,Rollerball_MGMHD_Sunday_40
+2446,Romancing the Stone_ENCORE_Friday_42
+2447,Romancing the Stone_STARZ_Tuesday_40
+2448,Rookie Blue_ABC_Thursday_42
+2449,Rookie of the Year_NIK_Wednesday_40
+2450,Roseanne's Nuts_LIFE_Monday_42
+2451,Royal Pains_USA_Tuesday_42
+2452,Rudo y Cursi_STARZ_Friday_44
+2453,Rules of Engagement_CW_Saturday_40
+2454,Rules of Engagement_CW_Sunday_44
+2455,Rules of Engagement_WGNAMER_Saturday_40
+2456,Rules of Engagement_WGNAMER_Wednesday_44
+2457,Runner Runner_MAX_Friday_44
+2458,Runner Runner_MAX_Sunday_40
+2459,Runner Runner_MAX_Thursday_41
+2460,Rural America Live_RFDTV_Monday_40
+2461,Rural America Live_RFDTV_Thursday_44
+2462,Rush Hour_ENCORE_Friday_44
+2463,Russian Yeti: The Killer Lives_DSC_Thursday_42
+2464,S.W.A.T._STARZ_Saturday_44
+2465,SIGN OFF_MLS Direct Kick_Sunday_43
+2466,SNY Action Sports_SNY_Saturday_40
+2467,SNY Action Sports_SNY_Sunday_40
+2468,SOS Academia_SORPRESA_Thursday_44
+2469,SOS Academia_SORPRESA_Wednesday_44
+2470,Sabroso Video_BRC13HD_Sunday_44
+2471,Sabroso Video_BRC13_Saturday_42
+2472,Sabroso Video_BRC13_Sunday_43
+2473,Saddle Up!_HRTV_Wednesday_44
+2474,Safe House_FX_Friday_40
+2475,Safe House_FX_Tuesday_40
+2476,Sal y Pimienta_UNI_Sunday_44
+2477,Salem_WGNAMER_Monday_44
+2478,Salem_WGNAMER_Sunday_44
+2479,Salem_WGNAMER_Tuesday_44
+2480,Sally Bollywood Super Detective_QUBO_Friday_43
+2481,Sally Bollywood Super Detective_QUBO_Thursday_43
+2482,Sally Bollywood Super Detective_QUBO_Wednesday_43
+2483,Salvage Dawgs_DIY_Sunday_44
+2484,Salvage Dawgs_DIY_Thursday_40
+2485,Sam & Cat_NIK_Monday_43
+2486,Sam & Cat_NIK_Saturday_42
+2487,Sam & Cat_NIK_Sunday_44
+2488,Sam & Cat_NIK_Thursday_40
+2489,Sam & Cat_NIK_Tuesday_44
+2490,Sam & Cat_NIK_Wednesday_44
+2491,Sanford & Son_ABC_Sunday_40
+2492,Sanford & Son_CW_Friday_44
+2493,Sanford & Son_CW_Monday_44
+2494,Sanford & Son_CW_Sunday_40
+2495,Sanford & Son_CW_Thursday_44
+2496,Sanford & Son_CW_Tuesday_44
+2497,Sanford & Son_CW_Wednesday_44
+2498,Sara's Weeknight Meals_PBS_Saturday_45
+2499,Sarah & Duck_SPROUT_Friday_41
+2500,Sarah & Duck_SPROUT_Monday_41
+2501,Sarah & Duck_SPROUT_Saturday_41
+2502,Sarah & Duck_SPROUT_Sunday_41
+2503,Sarah & Duck_SPROUT_Thursday_41
+2504,Sarah & Duck_SPROUT_Tuesday_41
+2505,Sarah & Duck_SPROUT_Wednesday_41
+2506,Sarah Silverman: We Are Miracles_HBO_Tuesday_44
+2507,Saturday Night Sock Hop_BRC13HD_Saturday_43
+2508,Savage Alaska_DEST_Wednesday_42
+2509,Savage Outdoors_SPMNHD_Tuesday_44
+2510,Savage Outdoors_SPRTMAN_Tuesday_44
+2511,Savages_MAX_Thursday_44
+2512,Saving Private K-9_SPMNHD_Thursday_41
+2513,Saving Private K-9_SPRTMAN_Thursday_41
+2514,Say Yes to the Dress: Atlanta_TLC_Friday_40
+2515,Scarface_IFC_Wednesday_40
+2516,Scary Movie V_SHOCSE_Sunday_40
+2517,Scary Movie V_SHOW_Friday_41
+2518,Scentblocker's Most Wanted_OUTD_Tuesday_40
+2519,Science of Stupid_NGC_Friday_42
+2520,Secret Diary of a Call Girl_SHOW_Thursday_44
+2521,Secret Window_ENCORE_Thursday_45
+2522,Secrets of World War II_AHC_Monday_42
+2523,Secrets of the Third Reich_SMTHHD_Sunday_40
+2524,Secrets of the Third Reich_SMTHHD_Tuesday_42
+2525,Secrets of the Wild_NGC_Thursday_40
+2526,See Dad Run_NIK_Saturday_45
+2527,See Dad Run_NIK_Thursday_43
+2528,Seed of Chucky_TMC_Wednesday_43
+2529,Seeking a Friend for the End of the World_MAX_Thursday_40
+2530,Seinfeld_CW_Sunday_40
+2531,Seminole Sports Magazine_Fox College Sports_Wednesday_42
+2532,Senna Cosmetics_SHOPHQ_Thursday_40
+2533,Serta_QVC_Sunday_42
+2534,Seven Psychopaths_SHOW_Saturday_40
+2535,Sex Sent Me to the E.R._TLC_Saturday_40
+2536,Sex in America_DEST_Tuesday_42
+2537,Shadow People_SHOW_Thursday_40
+2538,Shanghai Noon_STARZ_Thursday_42
+2539,Shaqtin' a Fool_NBATV_Monday_44
+2540,Shaqtin' a Fool_NBATV_Tuesday_45
+2541,Shark Tank_ABC_Friday_40
+2542,Shark Tank_CNBC_Tuesday_40
+2543,She's All That_OXYGEN_Friday_40
+2544,She's All That_OXYGEN_Wednesday_40
+2545,She's Having a Baby_ENCORE_Saturday_40
+2546,Sheriff Callie's Wild West_DISN_Monday_41
+2547,Sheriff Callie's Wild West_DISN_Thursday_41
+2548,Sheriff Callie's Wild West_DISN_Tuesday_41
+2549,Sheriff Callie's Wild West_DISN_Wednesday_41
+2550,Shipping Wars_AETV_Tuesday_44
+2551,Shooting Gallery_OUTD_Wednesday_40
+2552,Shooting USA's Impossible Shots_OUTD_Wednesday_45
+2553,Shooting USA_OUTD_Wednesday_42
+2554,Shrek 2_TBS_Sunday_44
+2555,Shrek the Third_TBS_Sunday_40
+2556,Shutter Island_AMC_Monday_40
+2557,Sid Roth's It's Supernatural!_CHURCH_Friday_43
+2558,Sideways_SUNDANC_Sunday_40
+2559,Silent Draw Outdoors_SPMNHD_Saturday_42
+2560,Silent Draw Outdoors_SPRTMAN_Saturday_42
+2561,Silent Invaders_WFNUS_Thursday_40
+2562,Simon Says_CHILLER_Thursday_40
+2563,Sin City_ENCORE_Friday_44
+2564,Sinister Ministers: Collared_ID_Friday_40
+2565,Sinister_TMC_Friday_40
+2566,Sinister_TMC_Thursday_40
+2567,Sinister_TMC_Tuesday_40
+2568,Sister  Sister_HUB_Sunday_44
+2569,Sister Wives_TLC_Sunday_40
+2570,Skin to the Max_MAX_Wednesday_45
+2571,Skinn Cosmetics_SHOPHQ_Saturday_40
+2572,Skinn Cosmetics_SHOPHQ_Sunday_42
+2573,Skull Bound TV_SPMNHD_Wednesday_41
+2574,Skull Bound TV_SPRTMAN_Wednesday_41
+2575,Sleepy Hollow_SHOW_Saturday_40
+2576,Sleepy Hollow_SHOW_Wednesday_40
+2577,Slither_SHOW_Wednesday_40
+2578,Small Town Big Deal_RFDTV_Thursday_43
+2579,Snakehead Swamp_SYFY_Saturday_42
+2580,Snapped: Killer Couples_OXYGEN_Sunday_42
+2581,Snapped_OXYGEN_Monday_41
+2582,Snapped_OXYGEN_Sunday_40
+2583,Snapped_REELZ_Friday_40
+2584,Snapped_REELZ_Saturday_42
+2585,Snitch_MAX_Saturday_43
+2586,Snooki & JWOWW_MTV_Sunday_42
+2587,Snooki & JWOWW_MTV_Thursday_42
+2588,So You Think You Can Dance_FOX_Wednesday_40
+2589,Sofia the First_DISN_Friday_40
+2590,Sofia the First_DISN_Saturday_40
+2591,Sofia the First_DISN_Sunday_40
+2592,Some Girl(s)_SHOW_Friday_40
+2593,Some Like It Hot_HDNETMV_Sunday_40
+2594,Son of Maryam_EWTN_Saturday_40
+2595,Songs That Don't Suck_MTV_Friday_40
+2596,Sophisticated Steel_JTV_Monday_40
+2597,Soul Food_ENCORE_Tuesday_44
+2598,Soul Plane_TMC_Monday_40
+2599,Sound FX_NFLNET_Wednesday_45
+2600,South Beach Tow_TRUTV_Wednesday_40
+2601,South Park Zoo_COMEDY_Sunday_42
+2602,South Park: Bigger  Longer & Uncut_MAX_Saturday_45
+2603,South Park: Bigger  Longer & Uncut_MAX_Wednesday_40
+2604,South Park_COMEDY_Monday_41
+2605,South Park_COMEDY_Wednesday_41
+2606,Southern Fried Homicide_ID_Thursday_44
+2607,Space Jam_VH1_Friday_42
+2608,Space Jam_VH1_Saturday_44
+2609,Space Jam_VH1_Sunday_40
+2610,Sparkle in Silver_JTV_Saturday_40
+2611,Sparkle_STARZ_Friday_40
+2612,Spartacus: Blood and Sand_SYFY_Thursday_44
+2613,Species II_HDNETMV_Thursday_41
+2614,Species_HDNETMV_Thursday_40
+2615,Speed_OXYGEN_Monday_40
+2616,SpongeBob SquarePants_NIK_Friday_40
+2617,SpongeBob SquarePants_NIK_Monday_40
+2618,SpongeBob SquarePants_NIK_Saturday_40
+2619,SpongeBob SquarePants_NIK_Thursday_41
+2620,SpongeBob SquarePants_NIK_Tuesday_40
+2621,SpongeBob SquarePants_NIK_Wednesday_40
+2622,Sport Science_DXD_Thursday_44
+2623,SportsCenter_ESPN_Friday_40
+2624,SportsCenter_ESPN_Monday_40
+2625,SportsCenter_ESPN_Saturday_40
+2626,SportsCenter_ESPN_Sunday_40
+2627,SportsCenter_ESPN_Thursday_40
+2628,SportsCenter_ESPN_Tuesday_40
+2629,SportsCenter_ESPN_Wednesday_40
+2630,SportsMoney_YES_Saturday_45
+2631,SportsMoney_YES_Tuesday_42
+2632,SportsNation_ESPN_Friday_44
+2633,SportsNet Central_Comcast SportsNet_Friday_44
+2634,SportsNet Central_Comcast SportsNet_Monday_44
+2635,SportsNet Central_Comcast SportsNet_Saturday_44
+2636,SportsNet Central_Comcast SportsNet_Sunday_44
+2637,SportsNet Central_Comcast SportsNet_Thursday_44
+2638,SportsNet Central_Comcast SportsNet_Tuesday_44
+2639,SportsNet Central_Comcast SportsNet_Wednesday_44
+2640,SportsNite_SNY_Friday_45
+2641,SportsNite_SNY_Monday_45
+2642,SportsNite_SNY_Saturday_45
+2643,SportsNite_SNY_Sunday_45
+2644,SportsNite_SNY_Thursday_45
+2645,SportsNite_SNY_Tuesday_45
+2646,SportsNite_SNY_Wednesday_45
+2647,St. Bear's Dolls Hospital_SMCHILD_Sunday_45
+2648,StaannDUP!_STARZ_Wednesday_45
+2649,Stag Night_CHILLER_Saturday_42
+2650,Stagecoach_ENCORE_Friday_44
+2651,Stake Land_SHOW_Monday_40
+2652,Star Trek II: The Wrath of Khan_HDNETMV_Saturday_43
+2653,Star Trek: Insurrection_HBO_Thursday_42
+2654,Star Trek: The Motion Picture_HDNETMV_Saturday_40
+2655,Star Trek: The Next Generation_BBCA_Friday_40
+2656,Star Trek: The Next Generation_BBCA_Tuesday_40
+2657,Star Trek_CW_Saturday_42
+2658,Starting Over_ENCORE_Tuesday_42
+2659,Stay_MAX_Thursday_44
+2660,Stealth_ENCORE_Monday_44
+2661,Stella and Sam_SPROUT_Friday_42
+2662,Stella and Sam_SPROUT_Monday_42
+2663,Stella and Sam_SPROUT_Saturday_42
+2664,Stella and Sam_SPROUT_Sunday_42
+2665,Stella and Sam_SPROUT_Thursday_42
+2666,Stella and Sam_SPROUT_Tuesday_42
+2667,Stella and Sam_SPROUT_Wednesday_42
+2668,Step Up Revolution_TMC_Saturday_40
+2669,Step Up_ABC_Friday_40
+2670,Step by Step_HUB_Monday_45
+2671,Step by Step_HUB_Thursday_44
+2672,Step by Step_HUB_Tuesday_44
+2673,Stepmom_ENCORE_Saturday_45
+2674,Sterling Moments_JTV_Thursday_40
+2675,Steve's Outdoor Adventures_OUTD_Saturday_41
+2676,Steven Furtick_TBN_Tuesday_43
+2677,Steven and Chris_ABC_Friday_42
+2678,Steven and Chris_ABC_Monday_42
+2679,Steven and Chris_ABC_Saturday_42
+2680,Steven and Chris_ABC_Sunday_42
+2681,Steven and Chris_ABC_Thursday_42
+2682,Steven and Chris_ABC_Tuesday_42
+2683,Steven and Chris_ABC_Wednesday_42
+2684,Stockshow Confidential_RFDTV_Tuesday_43
+2685,Stoker_HBO_Sunday_44
+2686,Storage Wars_AETV_Tuesday_40
+2687,Storm Surfers_OUTSDSD_Saturday_42
+2688,Story Board_CCTVNWS_Monday_45
+2689,Stossel_FOX_Saturday_42
+2690,Stossel_FOX_Sunday_42
+2691,Stossel_FOX_Thursday_42
+2692,Stranger Than Fiction_SUNDANC_Wednesday_40
+2693,Street League Skateboarding_Fox Sports_Sunday_40
+2694,Street Outlaws: Full Throttle_DSC_Monday_40
+2695,Street Outlaws_DSC_Monday_42
+2696,Strike Back_MAX_Wednesday_44
+2697,Successful Farming Machinery Show_RFDTV_Sunday_44
+2698,Successful Farming Machinery Show_RFDTV_Thursday_42
+2699,Suits_USA_Wednesday_42
+2700,Sullivan & Son_TBS_Tuesday_44
+2701,Summertime Fine_MTV_Monday_44
+2702,Sunday Night Prime_EWTN_Sunday_40
+2703,Sunlight Jr._SHOCSE_Saturday_43
+2704,Sunlight Jr._SHOW_Sunday_42
+2705,Super Bowl Classics_NFLNET_Friday_42
+2706,Super Bowl Classics_NFLNET_Sunday_40
+2707,Super League Rugby_Fox Sports_Friday_40
+2708,Super League Rugby_Fox Sports_Thursday_40
+2709,Superman III_HUB_Wednesday_40
+2710,Supernatural_CW_Tuesday_42
+2711,Supervivencia al Desnudo_DSC_Friday_42
+2712,Survival Island_SHOW_Saturday_44
+2713,Surviving Zombies_SCIENCE_Wednesday_40
+2714,Survivorman_SCIENCE_Monday_40
+2715,Susan Graver Style_QVC_Friday_40
+2716,Susan Graver Style_QVC_Sunday_44
+2717,Swallowed by a Sinkhole_SCIENCE_Friday_42
+2718,Swamp Murders_ID_Tuesday_42
+2719,Swamp People_HISTORY_Monday_40
+2720,Swamplands USA_DEST_Wednesday_40
+2721,Sweet Heaven_Independent_Monday_43
+2722,Sweet Heaven_Independent_Thursday_40
+2723,Sweet Retreats_ABC_Saturday_41
+2724,Sweet Retreats_ABC_Thursday_41
+2725,Swing Clinic With Jimmy Hanlin_YES_Saturday_43
+2726,Switched at Birth_ABC_Monday_40
+2727,S bado Gigante_UNI_Saturday_40
+2728,TPC News_DODNWS_Thursday_42
+2729,TPC News_DODNWS_Tuesday_42
+2730,TV13 News - Night Report_BRC13HD_Monday_44
+2731,TV13 News - Night Report_BRC13HD_Thursday_44
+2732,TV13 News - Night Report_BRC13HD_Tuesday_44
+2733,TV13 News - Night Report_BRC13_Friday_44
+2734,TV13 News - Night Report_BRC13_Monday_44
+2735,TV13 News - Night Report_BRC13_Thursday_44
+2736,TV13 News - Night Report_BRC13_Tuesday_44
+2737,TV13 News - Night Report_BRC13_Wednesday_44
+2738,TV13 News 13 - Valley Report_BRC13_Friday_40
+2739,TV13 News 13 - Valley Report_BRC13_Thursday_40
+2740,Tactical Arms_SPMNHD_Monday_44
+2741,Tactical Arms_SPRTMAN_Monday_44
+2742,Take Part Live_PIVOT_Friday_44
+2743,Take Part Live_PIVOT_Monday_44
+2744,Take Part Live_PIVOT_Thursday_44
+2745,Take Part Live_PIVOT_Tuesday_44
+2746,Taken 2_MAX_Monday_44
+2747,Taken 2_MAX_Saturday_42
+2748,Talk Africa_CCTVNWS_Saturday_43
+2749,Taste This!_PBS_Saturday_42
+2750,Tattoos After Dark_OXYGEN_Tuesday_42
+2751,Taxi Brooklyn_NBC_Saturday_44
+2752,Taxi Brooklyn_NBC_Wednesday_44
+2753,Team America: World Police_TMC_Friday_43
+2754,Team America: World Police_TMC_Monday_43
+2755,Team America: World Police_TMC_Saturday_43
+2756,Technibond Jewelry_HSN_Monday_40
+2757,Tecomate Whitetail Nation_OUTD_Thursday_43
+2758,Ted Nugent Spirit of the Wild_OUTD_Tuesday_41
+2759,Ted Shuttlesworth_CHURCH_Friday_41
+2760,Teen Beach Movie_DISN_Wednesday_40
+2761,Teen MC_Music Choice_Friday_40
+2762,Teen MC_Music Choice_Monday_40
+2763,Teen MC_Music Choice_Saturday_40
+2764,Teen MC_Music Choice_Sunday_40
+2765,Teen MC_Music Choice_Thursday_40
+2766,Teen MC_Music Choice_Tuesday_40
+2767,Teen MC_Music Choice_Wednesday_40
+2768,Teen Mom 3_MTV_Monday_40
+2769,Teen Mom 3_MTV_Wednesday_42
+2770,Teen Wolf_MTV_Monday_40
+2771,TeenNick Top 10_NIK_Friday_44
+2772,TeenNick Top 10_NIK_Saturday_40
+2773,TeenNick Top 10_NIK_Sunday_43
+2774,Teenage Mutant Ninja Turtles_NIK_Friday_41
+2775,Teenage Mutant Ninja Turtles_NIK_Sunday_40
+2776,Telejornal Aores_RTPI_Sunday_43
+2777,Tender Mercies_AXSTV_Tuesday_44
+2778,Territories Wild_OUTD_Monday_43
+2779,Terry the Tomboy_NIK_Saturday_43
+2780,Texas Car Wars_VEL_Thursday_44
+2781,Texas Country Reporter_RFDTV_Friday_43
+2782,That Metal Show_VH1_Friday_40
+2783,That Metal Show_VH1_Thursday_45
+2784,That's My Boy_FXX_Sunday_40
+2785,That's My Boy_FXX_Wednesday_40
+2786,The '84 Draft_NBATV_Monday_40
+2787,The 100_CW_Wednesday_42
+2788,The 13th Warrior_SHOW_Monday_44
+2789,The 25th Anniversary Rock and Roll Hall of Fame Concert_VH1_Sunday_40
+2790,The 40-Year-Old Virgin_HBO_Friday_44
+2791,The Alamo_ENCORE_Friday_40
+2792,The American Bible Challenge_GSN_Thursday_40
+2793,The American Rancher_RFDTV_Monday_42
+2794,The Amityville Horror_ENCORE_Tuesday_42
+2795,The Andy Griffith Show_TVLAND_Friday_40
+2796,The Andy Griffith Show_TVLAND_Monday_40
+2797,The Andy Griffith Show_TVLAND_Thursday_40
+2798,The Andy Griffith Show_TVLAND_Tuesday_40
+2799,The Andy Griffith Show_TVLAND_Wednesday_40
+2800,The Animorphs_QUBO_Saturday_42
+2801,The Armstrong Lie_STARZ_Thursday_40
+2802,The Assets_ABC_Saturday_42
+2803,The Bachelorette_ABC_Monday_40
+2804,The Bang Bang Club_SHOW_Saturday_40
+2805,The Berenstain Bears_SPROUT_Friday_44
+2806,The Berenstain Bears_SPROUT_Monday_44
+2807,The Berenstain Bears_SPROUT_Saturday_44
+2808,The Berenstain Bears_SPROUT_Sunday_44
+2809,The Berenstain Bears_SPROUT_Thursday_44
+2810,The Berenstain Bears_SPROUT_Tuesday_44
+2811,The Berenstain Bears_SPROUT_Wednesday_44
+2812,The Best Thing I Ever Ate_COOK_Sunday_42
+2813,The Best of the West_OUTD_Saturday_44
+2814,The Bible_TBN_Sunday_44
+2815,The Big Bang Theory_CBS_Thursday_40
+2816,The Big Bang Theory_CW_Sunday_40
+2817,The Big Bang Theory_MNT_Sunday_40
+2818,The Big Bang Theory_TBS_Monday_42
+2819,The Big Bang Theory_TBS_Saturday_40
+2820,The Big Bang Theory_TBS_Thursday_42
+2821,The Big Bang Theory_TBS_Tuesday_40
+2822,The Big Bang Theory_TBS_Wednesday_42
+2823,The Big Broadcast of 1937_TCM_Saturday_44
+2824,The Big Chill_MSG_Tuesday_40
+2825,The Big Chill_MSG_Wednesday_40
+2826,The Big Interview_AXSTV_Monday_40
+2827,The Boondocks_TOON_Monday_45
+2828,The Boondocks_TOON_Saturday_44
+2829,The Bourne Legacy_HBO_Monday_44
+2830,The Bourne Legacy_HBO_Thursday_44
+2831,The Bourne Supremacy_USA_Thursday_40
+2832,The Bourne Ultimatum_USA_Thursday_45
+2833,The Boy and the Pirates_TCM_Friday_44
+2834,The Brass Teapot_SHOW_Wednesday_43
+2835,The Break-Up_VH1_Sunday_44
+2836,The Brides of Dracula_CW_Saturday_44
+2837,The Brothers Grimm_ENCORE_Friday_40
+2838,The Call_STARZ_Saturday_40
+2839,The Campaign_HBO_Saturday_45
+2840,The Campaign_HBO_Wednesday_45
+2841,The Canyons_TMC_Thursday_44
+2842,The Carbonaro Effect_TRUTV_Saturday_44
+2843,The Carbonaro Effect_TRUTV_Sunday_40
+2844,The Carbonaro Effect_TRUTV_Thursday_44
+2845,The Case Against 8_HBO_Monday_42
+2846,The Case Against 8_HBO_Thursday_42
+2847,The Case Against 8_HBO_Wednesday_40
+2848,The Central Park Five_PBS_Wednesday_42
+2849,The Challenge: Free Agents_MTV_Thursday_42
+2850,The Chase_GSN_Tuesday_40
+2851,The Chica Show_SPROUT_Friday_40
+2852,The Chica Show_SPROUT_Monday_40
+2853,The Chica Show_SPROUT_Saturday_40
+2854,The Chica Show_SPROUT_Sunday_40
+2855,The Chica Show_SPROUT_Thursday_40
+2856,The Chica Show_SPROUT_Tuesday_40
+2857,The Chica Show_SPROUT_Wednesday_40
+2858,The Chronicles of Riddick_IFC_Saturday_40
+2859,The Cleveland Show_TOON_Friday_42
+2860,The Cleveland Show_TOON_Monday_42
+2861,The Cleveland Show_TOON_Thursday_42
+2862,The Cleveland Show_TOON_Tuesday_42
+2863,The Cleveland Show_TOON_Wednesday_42
+2864,The Closer_MNT_Saturday_44
+2865,The Cold Light of Day_TMC_Wednesday_40
+2866,The Color of Rain_HMC_Thursday_40
+2867,The Color of War_AHC_Tuesday_40
+2868,The Color of War_MILH_Friday_44
+2869,The Color of War_MILH_Monday_44
+2870,The Color of War_MILH_Thursday_44
+2871,The Color of War_MILH_Tuesday_44
+2872,The Color of War_MILH_Wednesday_44
+2873,The Comedy Central Roast_COMEDY_Thursday_42
+2874,The Conjuring_HBO_Sunday_42
+2875,The Conjuring_HBO_Tuesday_40
+2876,The Cosby Show_TVLAND_Sunday_40
+2877,The Counselor_HBO_Saturday_40
+2878,The Counselor_HBO_Sunday_40
+2879,The Cowboy Way_SHOW_Friday_40
+2880,The Crazies_SYFY_Wednesday_40
+2881,The Crow: City of Angels_SHOW_Sunday_40
+2882,The Crow: Salvation_SHOW_Sunday_43
+2883,The Crusades: Crescent & the Cross_MILH_Tuesday_40
+2884,The Crusades: Crescent & the Cross_MILH_Wednesday_40
+2885,The Cut_Music Choice_Friday_41
+2886,The Cut_Music Choice_Saturday_41
+2887,The Cut_Music Choice_Tuesday_45
+2888,The Cutting Edge_HDNETMV_Wednesday_40
+2889,The Darjeeling Limited_MAX_Monday_40
+2890,The Dark Half_MGMHD_Sunday_44
+2891,The Dark Knight Rises_MAX_Monday_43
+2892,The Dark Knight Rises_MAX_Sunday_40
+2893,The Dark Knight_AMC_Sunday_40
+2894,The Day After Tomorrow_AMC_Friday_40
+2895,The Day the Earth Stood Still_FX_Monday_45
+2896,The Dead Files_TRAV_Saturday_44
+2897,The Dead Pool_ENCORE_Wednesday_43
+2898,The Devil Wears Prada_ABC_Thursday_40
+2899,The Devil's Brigade_MGMHD_Wednesday_40
+2900,The Devil's Rejects_SHOW_Saturday_45
+2901,The Dilemma_E_Saturday_40
+2902,The Dirties_SHOW_Monday_40
+2903,The Double_SHOW_Wednesday_40
+2904,The Dream Team_NBATV_Sunday_44
+2905,The Duchess and the Dirtwater Fox_ENCORE_Sunday_40
+2906,The Dukes of Hazzard_CMTV_Monday_40
+2907,The Dukes of Hazzard_CMTV_Sunday_40
+2908,The East_HBO_Tuesday_40
+2909,The Edge_HRTV_Friday_44
+2910,The Enforcer_ENCORE_Wednesday_42
+2911,The Fabulous Life Of ..._VH1_Friday_40
+2912,The Fabulous Life Of ..._VH1_Saturday_40
+2913,The Faculty_MAX_Friday_40
+2914,The Faculty_MAX_Monday_41
+2915,The Fairly OddParents_NIK_Thursday_41
+2916,The Fairly OddParents_NIK_Tuesday_41
+2917,The Fallen Idol_TCM_Sunday_44
+2918,The Family That Slays Together_CIN_Friday_40
+2919,The Famous Five_QUBO_Friday_44
+2920,The Famous Five_QUBO_Saturday_44
+2921,The Famous Five_QUBO_Thursday_44
+2922,The Famous Five_QUBO_Wednesday_44
+2923,The First 48: Missing Persons_CIN_Wednesday_44
+2924,The First 48_AETV_Thursday_40
+2925,The Fosters_ABC_Monday_42
+2926,The Fraternity_ENCORE_Monday_40
+2927,The Frighteners_FLIX_Saturday_44
+2928,The Garfield Show_BOOM_Friday_44
+2929,The Garfield Show_BOOM_Monday_44
+2930,The Garfield Show_BOOM_Saturday_44
+2931,The Garfield Show_BOOM_Sunday_44
+2932,The Garfield Show_BOOM_Thursday_44
+2933,The Garfield Show_BOOM_Tuesday_44
+2934,The Garfield Show_BOOM_Wednesday_44
+2935,The Girl With Half a Face_TLC_Wednesday_40
+2936,The Goldbergs_ABC_Wednesday_41
+2937,The Good Doctor_SHOW_Thursday_43
+2938,The Great Gatsby_MAX_Monday_41
+2939,The Great Gatsby_MAX_Saturday_40
+2940,The Green Hornet_FXX_Tuesday_45
+2941,The Green Mile_AMC_Wednesday_40
+2942,The Grudge_ENCORE_Friday_45
+2943,The Hangover Part III_MAX_Friday_42
+2944,The Hangover Part III_MAX_Sunday_44
+2945,The Hangover Part III_MAX_Tuesday_40
+2946,The Hangover Part III_MAX_Wednesday_40
+2947,The Haunted Hathaways_NIK_Saturday_40
+2948,The Haunted Hathaways_NIK_Sunday_43
+2949,The Haunted_DEST_Sunday_40
+2950,The Haunting Of ..._LMN_Saturday_44
+2951,The Haves and the Have Nots_OWN_Tuesday_40
+2952,The Heat_CCTVNWS_Friday_42
+2953,The Heat_MAXLAT_Saturday_44
+2954,The Heat_MAX_Saturday_44
+2955,The Hi-Lo Country_ENCORE_Monday_40
+2956,The Hi-Lo Country_ENCORE_Sunday_43
+2957,The Hitchhiker's Guide to the Galaxy_STARZ_Wednesday_42
+2958,The Hobbit: An Unexpected Journey_MAX_Thursday_40
+2959,The Hobbit: An Unexpected Journey_MAX_Wednesday_42
+2960,The Holy Rosary With Mother Angelica_EWTN_Monday_43
+2961,The Holy Rosary With Mother Angelica_EWTN_Saturday_43
+2962,The Holy Rosary With Mother Angelica_EWTN_Sunday_43
+2963,The Holy Rosary With Mother Angelica_EWTN_Thursday_43
+2964,The Holy Rosary With Mother Angelica_EWTN_Tuesday_43
+2965,The Holy Rosary With Mother Angelica_EWTN_Wednesday_43
+2966,The Honeymooners_CW_Tuesday_44
+2967,The Hook & the Cook_WFNUS_Saturday_45
+2968,The Hook & the Cook_WFNUS_Wednesday_43
+2969,The Horse Whisperer_HBO_Thursday_45
+2970,The Human Experiment_NGC_Monday_45
+2971,The Hunt for the I-5 Killer_LMN_Thursday_40
+2972,The Hunt_HISTORY_Sunday_44
+2973,The In Crowd_Music Choice_Friday_40
+2974,The In Crowd_Music Choice_Monday_40
+2975,The In Crowd_Music Choice_Wednesday_40
+2976,The Incredible Burt Wonderstone_HBO_Saturday_42
+2977,The Incredible Burt Wonderstone_HBO_Thursday_40
+2978,The Incredibles_ENCORE_Sunday_40
+2979,The Independents_FOX_Friday_42
+2980,The Independents_FOX_Monday_42
+2981,The Independents_FOX_Tuesday_42
+2982,The Independents_FOX_Wednesday_42
+2983,The Internship_MAX_Sunday_44
+2984,The Internship_MAX_Thursday_42
+2985,The Interrogators_CIN_Thursday_44
+2986,The Iron Lady_SHOW_Thursday_45
+2987,The Jayhawkers_ENCORE_Tuesday_44
+2988,The Jewel of the Nile_ENCORE_Friday_45
+2989,The Jewel of the Nile_STARZ_Wednesday_40
+2990,The Jewish Jesus_CHURCH_Friday_44
+2991,The Jewish Jesus_CHURCH_Tuesday_44
+2992,The Joey and Rory Show_RFDTV_Friday_42
+2993,The Journey Home_EWTN_Monday_40
+2994,The Journeyman_ENCORE_Monday_44
+2995,The Karate Kid_FX_Saturday_40
+2996,The Kayak Fishing Show_WFNUS_Thursday_41
+2997,The Kelly File_FOX_Friday_42
+2998,The Kelly File_FOX_Monday_42
+2999,The Kelly File_FOX_Thursday_42
+3000,The Kelly File_FOX_Tuesday_42
+3001,The Kelly File_FOX_Wednesday_42
+3002,The King of Queens_TVLAND_Friday_42
+3003,The King of Queens_TVLAND_Monday_42
+3004,The King of Queens_TVLAND_Saturday_43
+3005,The King of Queens_TVLAND_Sunday_44
+3006,The King of Queens_TVLAND_Thursday_42
+3007,The King of Queens_TVLAND_Tuesday_42
+3008,The King of Queens_TVLAND_Wednesday_42
+3009,The L Word_SHOCSE_Friday_44
+3010,The L Word_SHOCSE_Monday_44
+3011,The L Word_SHOCSE_Thursday_44
+3012,The L Word_SHOCSE_Tuesday_44
+3013,The L Word_SHOCSE_Wednesday_44
+3014,The Lads TV_SMCHILD_Saturday_40
+3015,The Last Exorcism_CHILLER_Friday_42
+3016,The Last King of Scotland_PIVOT_Thursday_40
+3017,The Last Kiss_MAX_Tuesday_44
+3018,The Last Ride_AXSTV_Saturday_42
+3019,The Last Ship_TBS_Saturday_44
+3020,The Last Ship_TNT_Sunday_42
+3021,The Last Winter_CHILLER_Monday_43
+3022,The Last Word With Lawrence O'Donnell_MSNBC_Monday_44
+3023,The Last Word With Lawrence O'Donnell_MSNBC_Thursday_44
+3024,The Last Word With Lawrence O'Donnell_MSNBC_Tuesday_44
+3025,The Last Word With Lawrence O'Donnell_MSNBC_Wednesday_44
+3026,The Leftovers_HBO_Sunday_44
+3027,The Legend of Korra_NIK_Friday_40
+3028,The List With Colleen Lopez_HSN_Thursday_42
+3029,The Live Room_PLDHD_Friday_42
+3030,The Lone Ranger_STARZ_Saturday_40
+3031,The Lone Ranger_STARZ_Thursday_42
+3032,The Long Kiss Goodnight_MAX_Friday_43
+3033,The Long Kiss Goodnight_MAX_Monday_40
+3034,The Long Kiss Goodnight_MAX_Tuesday_40
+3035,The Longest Yard_TMC_Saturday_40
+3036,The Lords of Salem_ENCORE_Thursday_42
+3037,The Lost Evidence_MILH_Friday_40
+3038,The Love of Jesus with Pastor Jason Alvarez_Independent_Wednesday_44
+3039,The Madness of King George_MGMHD_Friday_40
+3040,The Maharaja's Motor Car_SMTHHD_Thursday_40
+3041,The Making Of: Admission_HBO_Saturday_45
+3042,The Making Of: Oblivion_HBO_Monday_45
+3043,The Making Of: Red 2_HBO_Thursday_43
+3044,The Making Of: The Bourne Legacy_HBO_Saturday_44
+3045,The Making Of: The Wolverine_HBO_Wednesday_43
+3046,The Man Who Knew Too Little_HBO_Tuesday_41
+3047,The Man Who Lost His Face_TLC_Wednesday_44
+3048,The Man With the 200lb Tumor_TLC_Wednesday_42
+3049,The Mane Event_HRTV_Monday_45
+3050,The Mane Event_HRTV_Thursday_44
+3051,The March_PBS_Tuesday_40
+3052,The Marty Stuart Show_RFDTV_Saturday_40
+3053,The Marty Stuart Show_RFDTV_Sunday_42
+3054,The Matrix_AMC_Saturday_45
+3055,The Meanest Men in the West_ENCORE_Saturday_43
+3056,The Middle_ABC_Wednesday_40
+3057,The Middle_HALL_Monday_42
+3058,The Middle_HALL_Thursday_42
+3059,The Middle_HALL_Tuesday_42
+3060,The Middle_HALL_Wednesday_42
+3061,The Millers_CBS_Thursday_41
+3062,The Mindy Project_FOX_Tuesday_43
+3063,The Mothman Prophecies_STARZ_Sunday_40
+3064,The Music City Show_RFDTV_Thursday_40
+3065,The Musketeers_BBCA_Sunday_42
+3066,The Natural_ENCORE_Monday_40
+3067,The New Adventures of Old Christine_NIK_Monday_44
+3068,The New Adventures of Old Christine_NIK_Saturday_45
+3069,The New Adventures of Old Christine_NIK_Thursday_44
+3070,The New Adventures of Old Christine_NIK_Tuesday_44
+3071,The New Adventures of Old Christine_NIK_Wednesday_44
+3072,The New Daughter_SHOW_Wednesday_40
+3073,The New Guy_MTV_Thursday_40
+3074,The Newlywed Game_GSN_Friday_42
+3075,The Newlywed Game_GSN_Sunday_42
+3076,The Next Bite_WFNUS_Tuesday_44
+3077,The Next Karate Kid_HUB_Monday_40
+3078,The Night Shift_NBC_Tuesday_44
+3079,The Night They Raided Minsky's_TCM_Monday_43
+3080,The Night of the Grizzly_ENCORE_Thursday_43
+3081,The Normal Heart_HBO_Friday_40
+3082,The Numbers Game_NGC_Monday_42
+3083,The O'Reilly Factor_FOX_Friday_40
+3084,The O'Reilly Factor_FOX_Monday_40
+3085,The O'Reilly Factor_FOX_Thursday_40
+3086,The O'Reilly Factor_FOX_Tuesday_40
+3087,The O'Reilly Factor_FOX_Wednesday_40
+3088,The Object of My Affection_HBO_Friday_40
+3089,The Odd Couple_CW_Friday_44
+3090,The Odd Life of Timothy Green_ENCORE_Thursday_40
+3091,The Odd Life of Timothy Green_STARZ_Tuesday_44
+3092,The Office_CW_Saturday_44
+3093,The Originals_CW_Thursday_42
+3094,The Other Guys_FXX_Tuesday_40
+3095,The Out-of-Towners_SHOW_Friday_42
+3096,The Pacifier_STARZ_Friday_40
+3097,The Parent Trap_ABC_Saturday_40
+3098,The Pecos League_Fox Sports_Tuesday_42
+3099,The People vs. Larry Flynt_STARZ_Thursday_40
+3100,The People's Couch_BRAVO_Tuesday_44
+3101,The Perfect Game_MLBN_Sunday_40
+3102,The Pool Master_APL_Friday_40
+3103,The Pool Master_APL_Wednesday_44
+3104,The Pool Master_DSC_Saturday_44
+3105,The Princess Bride_STARZ_Wednesday_40
+3106,The Profit_CNBC_Monday_40
+3107,The Quick and the Dead_AMC_Thursday_44
+3108,The Rachel Maddow Show_MSNBC_Friday_42
+3109,The Rachel Maddow Show_MSNBC_Monday_42
+3110,The Rachel Maddow Show_MSNBC_Thursday_42
+3111,The Rachel Maddow Show_MSNBC_Tuesday_42
+3112,The Rachel Maddow Show_MSNBC_Wednesday_42
+3113,The Real Housewives of Atlanta_BRAVO_Sunday_40
+3114,The Real Housewives of Atlanta_BRAVO_Thursday_40
+3115,The Real Housewives of Atlanta_BRAVO_Tuesday_40
+3116,The Real Housewives of Atlanta_BRAVO_Wednesday_45
+3117,The Real Housewives of New York City_BRAVO_Thursday_45
+3118,The Real Housewives of New York City_BRAVO_Tuesday_42
+3119,The Real Housewives of Orange County_BRAVO_Monday_40
+3120,The Real L Word_SHOW_Wednesday_44
+3121,The Resident_LMN_Friday_40
+3122,The Revolutionary Life_JUCE_Wednesday_41
+3123,The River Wild_TMC_Sunday_40
+3124,The River Wild_TMC_Wednesday_44
+3125,The Rock_HDNETMV_Monday_40
+3126,The Rocketeer_HBO_Wednesday_44
+3127,The Rookies_CIN_Sunday_42
+3128,The Sandlot_ABC_Saturday_44
+3129,The Sandlot_ABC_Sunday_40
+3130,The Savage Line_NGC_Thursday_44
+3131,The Scorpion King 2: Rise of a Warrior_IFC_Friday_40
+3132,The Season with Justin Martin_SPMNHD_Sunday_43
+3133,The Season with Justin Martin_SPRTMAN_Sunday_43
+3134,The Second Jungle Book: Mowgli and Baloo_STARZ_Wednesday_43
+3135,The Session_WFNUS_Tuesday_41
+3136,The Shawshank Redemption_IFC_Tuesday_40
+3137,The Shining_MAX_Sunday_42
+3138,The Simpsons_FOX_Sunday_40
+3139,The Simpsons_MNT_Thursday_40
+3140,The Sixties_CNN_Friday_42
+3141,The Sixties_CNN_Saturday_40
+3142,The Sixties_CNN_Thursday_42
+3143,The Soccer Gods: Brazil 2014_FUSION_Monday_44
+3144,The Soccer Gods: Brazil 2014_FUSION_Saturday_44
+3145,The Soccer Gods: Brazil 2014_FUSION_Sunday_44
+3146,The Soccer Gods: Brazil 2014_FUSION_Thursday_44
+3147,The Soup_E_Monday_41
+3148,The Soup_E_Wednesday_44
+3149,The Specialist_ENCORE_Monday_40
+3150,The Starters_NBATV_Friday_42
+3151,The Sting_FLIX_Monday_40
+3152,The Super Sex Program_MAX_Saturday_45
+3153,The Surrogacy Trap_LIFE_Thursday_44
+3154,The Suze Orman Show_CNBC_Saturday_40
+3155,The Take_STARZ_Thursday_41
+3156,The Thin Red Line_IFC_Monday_40
+3157,The Three Musketeers_FLIX_Saturday_40
+3158,The Thundermans_NIK_Sunday_42
+3159,The Thundermans_NIK_Thursday_41
+3160,The Thundermans_NIK_Tuesday_43
+3161,The Thundermans_NIK_Wednesday_43
+3162,The Top 100 Players of 2014 - Reactions_NFLNET_Wednesday_44
+3163,The Top 100 Players of 2014_NFLNET_Sunday_42
+3164,The Top 100 Players of 2014_NFLNET_Wednesday_42
+3165,The Transporter 2_MAXLAT_Wednesday_40
+3166,The Transporter 2_MAX_Wednesday_40
+3167,The Transporter_ENCORE_Wednesday_40
+3168,The True Story of the Mary Celeste_SMTHHD_Thursday_42
+3169,The Truman Show_TMC_Friday_40
+3170,The Twilight Saga: Breaking Dawn Part 1_SHOW_Monday_40
+3171,The Twilight Saga: Breaking Dawn Part 2_SHOW_Friday_40
+3172,The Twilight Saga: Breaking Dawn Part 2_SHOW_Monday_40
+3173,The Twilight Saga: Breaking Dawn Part 2_SHOW_Sunday_40
+3174,The Twilight Saga: Breaking Dawn Part 2_SHOW_Tuesday_40
+3175,The Twilight Saga: Breaking Dawn Part 2_SHOW_Wednesday_44
+3176,The Twilight Saga: Eclipse_FX_Wednesday_44
+3177,The Twilight Saga: New Moon_FX_Wednesday_40
+3178,The Ultimate Fighter_Fox Sports_Sunday_44
+3179,The Ultimate Fighter_Fox Sports_Thursday_42
+3180,The Ultimate Fighter_Fox Sports_Wednesday_42
+3181,The Vampire Diaries_CW_Thursday_40
+3182,The Vanilla Ice Project_DIY_Saturday_44
+3183,The Waltons_HALL_Friday_40
+3184,The Waltons_HALL_Monday_40
+3185,The Waltons_HALL_Thursday_40
+3186,The Waltons_HALL_Tuesday_40
+3187,The Waltons_HALL_Wednesday_40
+3188,The Watch_MAX_Saturday_44
+3189,The Watch_MAX_Thursday_40
+3190,The Waterboy_HDNETMV_Tuesday_43
+3191,The Way  Way Back_HBO_Monday_42
+3192,The Way  Way Back_HBO_Saturday_40
+3193,The Wil Wheaton Project_SYFY_Tuesday_42
+3194,The Wisdom of Solomon_Independent_Saturday_40
+3195,The Wolfman_SYFY_Sunday_41
+3196,The Wolverine_HBO_Thursday_42
+3197,The Wolverine_HBO_Wednesday_42
+3198,The Wonder of Dogs_NGC_Saturday_40
+3199,The Wonderful World of Stu_BLAZETV_Saturday_44
+3200,The World Over_EWTN_Monday_44
+3201,The World Wars: Extended Edition_HISTORY_Monday_40
+3202,The World Wars: Extended Edition_HISTORY_Tuesday_40
+3203,The World of Jonathan Singh_SMCHILD_Sunday_42
+3204,The X-Files_CHILLER_Sunday_40
+3205,Thelma & Louise_SUNDANC_Friday_40
+3206,Thin Ice_STARZ_Tuesday_40
+3207,Think Like a Man_VH1_Thursday_40
+3208,This Is 40_MAX_Sunday_40
+3209,This Is Not a Ball_FUSION_Sunday_40
+3210,This Is Your Day_CHURCH_Friday_45
+3211,This Is Your Day_CHURCH_Monday_45
+3212,This Is Your Day_CHURCH_Thursday_45
+3213,This Is Your Day_CHURCH_Tuesday_45
+3214,This Is the End_STARZ_Friday_40
+3215,This Means War_FX_Monday_40
+3216,This Old House_PBS_Friday_44
+3217,This Old House_PBS_Monday_44
+3218,This Week at NASA; Education File_NASA_Tuesday_40
+3219,Thomas & Friends_SPROUT_Friday_42
+3220,Thomas & Friends_SPROUT_Monday_42
+3221,Thomas & Friends_SPROUT_Saturday_42
+3222,Thomas & Friends_SPROUT_Sunday_42
+3223,Thomas & Friends_SPROUT_Thursday_42
+3224,Thomas & Friends_SPROUT_Tuesday_42
+3225,Thomas & Friends_SPROUT_Wednesday_42
+3226,Thor: The Dark World_STARZ_Friday_40
+3227,Thor: The Dark World_STARZ_Monday_42
+3228,Three Can Play That Game_ENCORE_Saturday_45
+3229,Threshold of Hope_EWTN_Tuesday_44
+3230,Thriller_CW_Sunday_44
+3231,Through the Wormhole With Morgan Freeman_SCIENCE_Wednesday_44
+3232,Throwback Thursday_MTV_Thursday_44
+3233,Throwback_Music Choice_Friday_44
+3234,Throwback_Music Choice_Thursday_44
+3235,Throwback_Music Choice_Tuesday_44
+3236,Throwdown With Bobby Flay_COOK_Saturday_40
+3237,Throwdown With Bobby Flay_COOK_Tuesday_42
+3238,Thunder in the City_TCM_Tuesday_40
+3239,Tiffany Style Lighting and Accents_SHOPHQ_Thursday_44
+3240,Tim Samuels: The Hunt for Real Men_FYISD_Friday_44
+3241,Timeblazers_QUBO_Friday_41
+3242,Timeblazers_QUBO_Monday_41
+3243,Timeblazers_QUBO_Thursday_41
+3244,Timeblazers_QUBO_Wednesday_41
+3245,Timmy Horton Outdoors_WFNUS_Monday_43
+3246,Tin Men_FLIX_Friday_40
+3247,Titanic_OXYGEN_Saturday_40
+3248,To Be Announced_BRAVO_Thursday_45
+3249,To Be or Not to Be_TCM_Saturday_40
+3250,Today's Air Force_DODNWS_Thursday_43
+3251,Today's Birthdays_SPROUT_Friday_42
+3252,Today's Birthdays_SPROUT_Monday_42
+3253,Today's Birthdays_SPROUT_Saturday_42
+3254,Today's Birthdays_SPROUT_Sunday_42
+3255,Today's Birthdays_SPROUT_Thursday_42
+3256,Today's Birthdays_SPROUT_Tuesday_42
+3257,Today's Birthdays_SPROUT_Wednesday_42
+3258,Todos Tenemos un Plan_HBO_Monday_40
+3259,Tom & Jerry_BOOM_Saturday_40
+3260,Tom & Jerry_BOOM_Sunday_40
+3261,Tom Green Live_AXSTV_Thursday_42
+3262,Tom Green Live_AXSTV_Wednesday_44
+3263,Tom Jones_MGMHD_Friday_44
+3264,Tommy Bates_CHURCH_Friday_42
+3265,Tommy Bates_CHURCH_Sunday_45
+3266,Top 100 Bangin' Bodies_FUSE_Monday_40
+3267,Top 100 Sexiest Videos_FUSE_Sunday_40
+3268,Top 10_Music Choice_Tuesday_40
+3269,Top 20 Countdown_FUSE_Tuesday_42
+3270,Top 20 Country Countdown_GAC_Friday_40
+3271,Top 3_JUCE_Tuesday_40
+3272,Top Gear_BBCA_Monday_40
+3273,Top Gear_HISTORY_Tuesday_42
+3274,Top Shot_MILH_Monday_42
+3275,Top Ten Worst Tornadoes_WEATH_Tuesday_40
+3276,Tornado Alley_WEATH_Friday_40
+3277,Tornado Alley_WEATH_Monday_40
+3278,Tornado Alley_WEATH_Thursday_40
+3279,Tornado Alley_WEATH_Wednesday_40
+3280,Tosh.0_COMEDY_Thursday_40
+3281,Tosh.0_COMEDY_Tuesday_41
+3282,Touched by an Angel_UP_Friday_40
+3283,Touched by an Angel_UP_Monday_40
+3284,Touched by an Angel_UP_Thursday_40
+3285,Touched by an Angel_UP_Tuesday_40
+3286,Touched by an Angel_UP_Wednesday_40
+3287,Touching Lives_CHURCH_Sunday_41
+3288,Toy Story 3_DISN_Thursday_40
+3289,Track and Field_NBCSN_Friday_44
+3290,Track of the Cat_ENCORE_Wednesday_43
+3291,Trail of the Pink Panther_ENCORE_Friday_44
+3292,Transformers: Dark of the Moon_FX_Sunday_40
+3293,Transformers: Dark of the Moon_FX_Thursday_40
+3294,Transformers: Revenge of the Fallen_FX_Saturday_40
+3295,Transformers: Revenge of the Fallen_FX_Wednesday_40
+3296,Transformers_TNT_Sunday_40
+3297,Treasure Island_TCM_Friday_40
+3298,Treehouse Masters_APL_Friday_44
+3299,Treehouse Masters_APL_Wednesday_42
+3300,Treehouse Masters_DSC_Saturday_42
+3301,Trick To a Wrinkle-Free Face!_ABC_Friday_44
+3302,Trick To a Wrinkle-Free Face!_ABC_Saturday_44
+3303,Trick To a Wrinkle-Free Face!_ABC_Tuesday_44
+3304,Tristan & Isolde_HBO_Sunday_44
+3305,Tristan & Isolde_HBO_Tuesday_45
+3306,Trophy Quest_OUTD_Saturday_43
+3307,True Adolescents_STARZ_Sunday_40
+3308,True Blood: A Farewell to Bon Temps_HBO_Monday_40
+3309,True Blood_HBO_Monday_42
+3310,True Blood_HBO_Saturday_42
+3311,True Blood_HBO_Sunday_40
+3312,True Blood_HBO_Wednesday_40
+3313,True Brilliance Diamond Jewelry_JTV_Saturday_44
+3314,True Lies_HBO_Sunday_40
+3315,True Romance_SUNDANC_Tuesday_40
+3316,Tuesday Night Beauty_QVC_Tuesday_42
+3317,Turbulence_MAX_Wednesday_40
+3318,Turner & Hooch_SHOW_Wednesday_40
+3319,Turning Point with David Jeremiah_TBN_Wednesday_41
+3320,Twister_ENCORE_Saturday_44
+3321,Two and a Half Men_CBS_Monday_43
+3322,Two and a Half Men_CW_Saturday_40
+3323,Two and a Half Men_CW_Sunday_42
+3324,Two for Tuesday_MTV_Tuesday_44
+3325,Two for the Money_MAX_Tuesday_40
+3326,Tyrant_FX_Tuesday_44
+3327,U-571_MAX_Friday_40
+3328,U.S. House of Representatives_CSPAN_Tuesday_40
+3329,U.S. House of Representatives_CSPAN_Wednesday_40
+3330,UFC 1 on 1_Fox Sports_Sunday_43
+3331,UFC Countdown_Fox Sports_Sunday_41
+3332,UFC Fight Night_Fox Sports_Saturday_40
+3333,UFC From All Angles_Fox Sports_Thursday_40
+3334,UFC Presents_Fox Sports_Monday_40
+3335,UFC Presents_Fox Sports_Tuesday_42
+3336,UFC Reloaded_Fox Sports_Friday_40
+3337,UFC Tonight_Fox Sports_Thursday_44
+3338,UFC Tonight_Fox Sports_Wednesday_40
+3339,UFC Ultimate Submissions_Fox Sports_Tuesday_40
+3340,UFC Unleashed_Fox Sports_Tuesday_44
+3341,UFC Weigh-In_Fox Sports_Friday_44
+3342,Ultimate Fishing Experience_WFNUS_Tuesday_45
+3343,Un Beb por Minuto_DFAM_Tuesday_40
+3344,Un D¡a en Tu Casa_ENLUSA_Sunday_40
+3345,Unabomber: The Secret History_NGC_Wednesday_40
+3346,Undateable_NBC_Thursday_42
+3347,Under the Dome: Inside Chester's Mill_CBS_Monday_44
+3348,Undercover Boss_CBS_Friday_40
+3349,Undercover Boss_TLC_Monday_40
+3350,Underworld: Awakening_FX_Thursday_40
+3351,Underworld: Rise of the Lycans_STARZ_Friday_44
+3352,Underworld: Rise of the Lycans_STARZ_Monday_40
+3353,Unfolding Majesty With Dean & Mary Brown_CHURCH_Wednesday_41
+3354,Unforgettable_CBS_Sunday_44
+3355,Unforgiven_ENCORE_Friday_40
+3356,Unforgiven_ENCORE_Tuesday_40
+3357,Unique Sweets_COOK_Sunday_45
+3358,Uniquely Gemstones_JTV_Wednesday_40
+3359,United Stuff of America_HISTORY_Saturday_44
+3360,Unsealed: Alien Files_DEST_Thursday_42
+3361,Unsealed: America's Conspiracy Files_DEST_Thursday_40
+3362,Untold Stories of the E.R._DFH_Friday_40
+3363,Untold Stories of the E.R._DFH_Tuesday_42
+3364,Untying the Knot_BRAVO_Wednesday_44
+3365,VH1 Soul Player_VH1_Monday_40
+3366,VH1 Soul Player_VH1_Saturday_40
+3367,VH1 Soul Player_VH1_Sunday_40
+3368,VH1 Soul Player_VH1_Thursday_40
+3369,VH1 Soul Player_VH1_Tuesday_40
+3370,VH1 Soul Player_VH1_Wednesday_40
+3371,Vanished With Beth Holloway_CIN_Wednesday_40
+3372,Varsity Blues_SHOW_Monday_40
+3373,Vaticano_EWTN_Wednesday_45
+3374,Vegas ER_DFH_Wednesday_42
+3375,Vegas Rat Rods_VEL_Sunday_42
+3376,Vehicle 19_MAX_Friday_45
+3377,Vehicle 19_MAX_Sunday_41
+3378,Venga Tu Reino_ENLUSA_Sunday_42
+3379,Venus and Serena_SHOW_Tuesday_41
+3380,ViaCast TV_BRC13HD_Wednesday_42
+3381,ViaCast TV_BRC13_Sunday_45
+3382,ViaMedia TV_BRC13_Saturday_44
+3383,ViaMedia TV_BRC13_Sunday_42
+3384,Vicious_PBS_Sunday_45
+3385,Victorious_NIK_Monday_40
+3386,Victorious_NIK_Thursday_40
+3387,Victory Lane_BRC13_Tuesday_43
+3388,Victory Lane_BRC13_Wednesday_42
+3389,Video File_NASA_Monday_44
+3390,Video File_NASA_Saturday_44
+3391,Video File_NASA_Tuesday_44
+3392,Video Killed the Radio Star_AXSTV_Saturday_40
+3393,Videos We Heart_MTV_Monday_40
+3394,Videos We Heart_MTV_Wednesday_44
+3395,Vision Special Sermon_Independent_Friday_40
+3396,Visi¢n y xito Para Tu Vida_ENLUSA_Sunday_43
+3397,Volcano_AMC_Friday_45
+3398,WEN by Chaz Dean_QVC_Sunday_40
+3399,WMBC Local News_Independent_Friday_42
+3400,WMBC Local News_Independent_Monday_42
+3401,WMBC Local News_Independent_Thursday_42
+3402,WMBC Local News_Independent_Tuesday_42
+3403,WMBC Local News_Independent_Wednesday_42
+3404,WW2 From Space_MILH_Saturday_40
+3405,WWE Friday Night SmackDown!_SYFY_Friday_40
+3406,WWE Monday Night RAW_UHD_Saturday_40
+3407,WWE Monday Night RAW_USA_Monday_40
+3408,WWE Money in the Bank_HDPPV_Sunday_40
+3409,WWE Money in the Bank_PPV1_Sunday_40
+3410,WWE SmackDown!_MUN2_Saturday_42
+3411,Wahlburgers_AETV_Sunday_44
+3412,Waking Life_STARZ_Saturday_40
+3413,Walk the Line_HBO_Tuesday_44
+3414,Wallenpaupack Life_BRC13_Monday_42
+3415,Wander Over Yonder_DXD_Saturday_40
+3416,Wander Over Yonder_DXD_Sunday_40
+3417,Wander Over Yonder_DXD_Thursday_41
+3418,Wander Over Yonder_DXD_Tuesday_41
+3419,Wander Over Yonder_DXD_Wednesday_41
+3420,War Machine_AHC_Wednesday_40
+3421,War of the Worlds_MAX_Thursday_43
+3422,War of the Worlds_MAX_Tuesday_40
+3423,Wardens_OUTD_Tuesday_44
+3424,Warm Bodies_HBO_Saturday_40
+3425,Warren Jeffs: Beyond the Headlines_LIFE_Saturday_44
+3426,Washington This Week_CSPAN_Saturday_40
+3427,Washington Week With Gwen Ifill_PBS_Friday_40
+3428,Watch Celebration_SHOPHQ_Friday_42
+3429,Watching the Detectives_CIN_Thursday_40
+3430,Water Blues Green Solutions_PBS_Thursday_44
+3431,Waterford Crystal_SHOPHQ_Monday_42
+3432,We're the Millers_HBO_Friday_42
+3433,We're the Millers_HBO_Tuesday_40
+3434,Weather Caught on Camera_WEATH_Thursday_42
+3435,Web Soup_G4_Monday_40
+3436,Web Soup_G4_Saturday_44
+3437,Web Soup_G4_Sunday_44
+3438,Web Soup_G4_Wednesday_40
+3439,Webheads_NIK_Monday_44
+3440,Webheads_NIK_Thursday_44
+3441,Webheads_NIK_Tuesday_44
+3442,Webheads_NIK_Wednesday_44
+3443,Week in Jams_MTV_Monday_40
+3444,Week in Jams_MTV_Tuesday_40
+3445,Welcome Back  Kotter_CW_Friday_43
+3446,Welcome Back  Kotter_CW_Monday_43
+3447,Welcome Back  Kotter_CW_Thursday_43
+3448,Welcome Back  Kotter_CW_Tuesday_43
+3449,Welcome Back  Kotter_CW_Wednesday_43
+3450,West End Salvage_DIY_Sunday_42
+3451,What Happened Next?_SCIENCE_Thursday_41
+3452,What Would You Do?_ABC_Friday_42
+3453,What's Happening!_ENCORE_Friday_43
+3454,What's Happening!_ENCORE_Monday_43
+3455,What's Happening!_ENCORE_Thursday_43
+3456,What's Happening!_ENCORE_Wednesday_43
+3457,What's My Car Worth?_VEL_Thursday_40
+3458,What's in the Barn?_VEL_Friday_40
+3459,What's in the Barn?_VEL_Tuesday_44
+3460,Wheeler Dealers_VEL_Monday_40
+3461,Wheeler Dealers_VEL_Wednesday_42
+3462,When Sparks Fly_HALL_Saturday_42
+3463,When Sparks Fly_HALL_Sunday_42
+3464,Where on Earth Is Carmen Sandiego?_QUBO_Friday_45
+3465,Where on Earth Is Carmen Sandiego?_QUBO_Saturday_45
+3466,Where on Earth Is Carmen Sandiego?_QUBO_Thursday_45
+3467,Where on Earth Is Carmen Sandiego?_QUBO_Tuesday_45
+3468,Where on Earth Is Carmen Sandiego?_QUBO_Wednesday_45
+3469,Where the Light Is: John Mayer Live in Los Angeles_PLDHD_Friday_40
+3470,Whisper of Fear_LMN_Thursday_44
+3471,White Chicks_MTV_Saturday_42
+3472,White Collar_MNT_Saturday_40
+3473,White House Down_STARZ_Sunday_42
+3474,White House Down_STARZ_Tuesday_44
+3475,Whitetail Properties_SPMNHD_Tuesday_43
+3476,Whitetail Properties_SPRTMAN_Tuesday_43
+3477,Whitetail SLAM_SPMNHD_Wednesday_44
+3478,Whitetail SLAM_SPRTMAN_Wednesday_44
+3479,Who's the Boss?_TVLAND_Saturday_40
+3480,Whose Line Is It Anyway?_CW_Friday_40
+3481,Whose Line Is It Anyway?_CW_Monday_40
+3482,Why Is Sex Fun?_DEST_Tuesday_40
+3483,Why Stop Now?_SHOW_Friday_43
+3484,Wife Swap_LIFE_Friday_42
+3485,Wild Amazon_APL_Tuesday_40
+3486,Wild Spirits_YES_Saturday_42
+3487,Wild Spirits_YES_Sunday_45
+3488,Wildgame Nation_OUTD_Sunday_41
+3489,Wilfred_FXX_Wednesday_44
+3490,Wilkow!_BLAZETV_Friday_44
+3491,Wilkow!_BLAZETV_Monday_44
+3492,Wilkow!_BLAZETV_Thursday_44
+3493,Wilkow!_BLAZETV_Tuesday_44
+3494,Wilkow!_BLAZETV_Wednesday_44
+3495,Will & Grace_WE_Saturday_40
+3496,Wimbledon Primetime_TENISHD_Friday_40
+3497,Wimbledon Primetime_TENISHD_Monday_40
+3498,Wimbledon Primetime_TENISHD_Saturday_40
+3499,Wimbledon Primetime_TENISHD_Sunday_40
+3500,Wimbledon Primetime_TENISHD_Thursday_40
+3501,Wimbledon Primetime_TENISHD_Tuesday_40
+3502,Wimbledon Primetime_TENISHD_Wednesday_40
+3503,Wimbledon Primetime_TENNIS_Friday_40
+3504,Wimbledon Primetime_TENNIS_Monday_40
+3505,Wimbledon Primetime_TENNIS_Saturday_40
+3506,Wimbledon Primetime_TENNIS_Sunday_40
+3507,Wimbledon Primetime_TENNIS_Thursday_40
+3508,Wimbledon Primetime_TENNIS_Tuesday_40
+3509,Wimbledon Primetime_TENNIS_Wednesday_40
+3510,Wipeout_ABC_Sunday_40
+3511,Women's College Gymnastics_Fox College Sports_Thursday_43
+3512,Women's College Soccer_Fox College Sports_Monday_42
+3513,Women's Pro Rodeo Today_RFDTV_Sunday_45
+3514,Women's Pro Rodeo Today_RFDTV_Wednesday_43
+3515,Wonder Woman_CW_Saturday_40
+3516,Woodwright's Shop_PBS_Thursday_44
+3517,Woodwright's Shop_PBS_Tuesday_44
+3518,World Cup Tonight_ESPN_Saturday_40
+3519,World Cup Tonight_ESPN_Sunday_40
+3520,World Cup Tonight_ESPN_Thursday_40
+3521,World Fishing Journal_WFNUS_Sunday_41
+3522,World Impact_CHURCH_Tuesday_42
+3523,World Over Live_EWTN_Thursday_40
+3524,World Poker Tour: Alpha8_Fox Sports_Monday_42
+3525,World Poker Tour: Alpha8_Fox Sports_Wednesday_40
+3526,World Poker Tour: Season 12_Fox Sports_Monday_44
+3527,World Series of Fighting 10_NBCSN_Wednesday_40
+3528,World Series of Fighting 8_NBCSN_Wednesday_42
+3529,World War II in Color_AHC_Friday_42
+3530,World's Deadliest_NGC_Friday_44
+3531,World's Dumbest ..._TRUTV_Saturday_40
+3532,World's Strangest_SCIENCE_Tuesday_40
+3533,World's Strongest Man_CBSSN_Wednesday_42
+3534,World's Weirdest Restaurants_FYISD_Sunday_42
+3535,World's Weirdest_NGC_Monday_40
+3536,Worship Sermons_Independent_Monday_40
+3537,Worship Sermons_Independent_Wednesday_40
+3538,Xtreme Waterparks: Building the World's Tallest_TRAV_Sunday_40
+3539,Yankeeography_YES_Saturday_40
+3540,Yankeeography_YES_Sunday_42
+3541,Yankees Extra Innings_YES_Saturday_44
+3542,Yankees Extra Innings_YES_Tuesday_44
+3543,Yard Crashers_DIY_Monday_40
+3544,Yeti's Ultimate Hunt_SPRTMAN_Thursday_45
+3545,You Don't Mess With the Zohan_FXX_Thursday_40
+3546,You Got Served_STARZ_Saturday_43
+3547,You Live in What?_GAC_Friday_44
+3548,Young & Hungry_ABC_Thursday_45
+3549,Young & Hungry_ABC_Wednesday_40
+3550,YoungWild_SPMNHD_Friday_43
+3551,YoungWild_SPRTMAN_Friday_43
+3552,Zap2it Program Guide_ZAP2IT_Friday_40
+3553,Zap2it Program Guide_ZAP2IT_Monday_40
+3554,Zap2it Program Guide_ZAP2IT_Saturday_40
+3555,Zap2it Program Guide_ZAP2IT_Sunday_40
+3556,Zap2it Program Guide_ZAP2IT_Thursday_40
+3557,Zap2it Program Guide_ZAP2IT_Tuesday_40
+3558,Zap2it Program Guide_ZAP2IT_Wednesday_40
+3559,Zapped_DISN_Friday_40
+3560,Zero Dark Thirty_ENCORE_Tuesday_40
+3561,Zoey 101_NIK_Friday_42
+3562,Zoey 101_NIK_Saturday_43
+3563,Zoey 101_NIK_Sunday_40
+3564,Zoey 101_NIK_Thursday_40
+3565,Zombie Apocalypse_SCIENCE_Wednesday_42
+3566,Zona's Awesome Fishing Show_OUTD_Friday_40
+3567,iCarly_NIK_Friday_40
+3568,iCarly_NIK_Thursday_42
+3569,iCarly_NIK_Tuesday_40
+3570,iCarly_NIK_Wednesday_40
+3571,iMPACT Wrestling_SPIKETV_Thursday_42
+3572,truTV Top Funniest_TRUTV_Sunday_42
